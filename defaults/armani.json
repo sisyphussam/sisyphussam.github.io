@@ -1,4 +1,5 @@
 {
+  "updated": "2023-10-09",
   "imdb_lists": {
     "Movies # - A": "ls527830375",
     "Movies B": "ls527830948",
@@ -490,6 +491,5 @@
     "ZM": "Zambia",
     "ZR": "Zaire",
     "ZW": "Zimbabwe"
-  },
-  "updated": "2023-10-09"
+  }
 }
