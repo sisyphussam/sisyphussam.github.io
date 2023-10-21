@@ -70,7 +70,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.armaniflix" version="0.1.7" name="ArmaniFlix" provider-name="Sisyphus Sam">
+</addon><addon id="skin.armaniflix" version="0.1.8" name="ArmaniFlix" provider-name="Sisyphus Sam">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0" />
 		<import addon="plugin.video.armaniflix" version="0.1.8" />
