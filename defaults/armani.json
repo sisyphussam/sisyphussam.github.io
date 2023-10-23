@@ -1,22 +1,10 @@
 {
   "updated": "2023-10-09",
   "imdb_lists": {
-    "Movies # - A": "ls527830375",
-    "Movies B": "ls527830948",
-    "Movies C": "ls527835130",
-    "Movies D": "ls527836492",
-    "Movies E - F": "ls527825171",
-    "Movies G - H": "ls527827543",
-    "Movies I - K": "ls527826811",
-    "Movies L": "ls527822399",
-    "Movies M": "ls527824188",
-    "Movies N - O": "ls527840354",
-    "Movies P - Q": "ls527847307",
-    "Movies R": "ls527841786",
-    "Movies S": "ls527849989",
-    "Movies T - V": "ls527896556",
-    "Movies W - Z": "ls527896436",
-    "TV": "ls521053230"
+    "Movies - Classics": "ls523715349",
+    "Movies - Modern": "ls523715604",
+    "Movies - Franchises": "ls523778250",
+    "TV Shows": "ls523717378"
   },
   "genres": {
     "act": "Action",
