@@ -8,7 +8,6 @@ tt0423866||3-IRON||3-Iron||cri, dra, rom
 tt0496424||30 ROCK||30 Rock||com
 tt0026029||39 STEPS||The 39 Steps||cri, mys, thr
 tt0381849||3:10 TO YUMA||3:10 to Yuma||wes
-tt0115082||3RD ROCK FROM THE SUN||3rd Rock from the Sun||com, sci
 tt0405422||40 YEAR OLD VIRGIN||The 40 Year Old Virgin||com, rom
 tt0083511||48 HRS.||48 Hrs.||act, com
 tt0343660||50 FIRST DATES||50 First Dates||com, dra, rom
@@ -18,7 +17,6 @@ tt0257360||ABOUT SCHMIDT||About Schmidt||dra
 tt0043338||ACE IN THE HOLE||Ace in the Hole||dra, fil
 tt0418455||ADAM'S APPLES||Adam's Apples||com, cri, dra
 tt0041090||ADAM'S RIB||Adam's Rib||com, rom
-tt0057729||ADDAMS FAMILY||The Addams Family||com, fan
 tt0092513||ADVENTURES IN BABYSITTING||Adventures in Babysitting||adv, com
 tt0029843||ADVENTURES OF ROBIN HOOD||The Adventures of Robin Hood||act, adv, rom
 tt0050105||AFFAIR TO REMEMBER||An Affair to Remember||dra, rom
@@ -29,7 +27,6 @@ tt19770238||AFTERSUN||Aftersun||dra
 tt0118571||AIR FORCE ONE||Air Force One||act
 tt0080339||AIRPLANE!||Airplane!||com
 tt0103639||ALADDIN||Aladdin||ani
-tt20859920||ALCHEMY OF SOULS||Alchemy of Souls||act, fan, rom
 tt0047708||ALFRED HITCHCOCK PRESENTS||Alfred Hitchcock Presents||dra
 tt0071115||ALICE DOESN'T LIVE HERE ANYMORE||Alice Doesn't Live Here Anymore||dra, rom
 tt0043274||ALICE IN WONDERLAND||Alice in Wonderland||ani
@@ -43,20 +40,17 @@ tt0074119||ALL THE PRESIDENT'S MEN||All the President's Men||dra, his, thr
 tt0181875||ALMOST FAMOUS||Almost Famous||adv, com, dra, muc
 tt0086879||AMADEUS||Amadeus||bio, dra, muc
 tt0071129||AMARCORD||Amarcord||com, dra
-tt0211915||AMELIE||AmÈlie||com, rom
+tt0211915||AMELIE||Am√©lie||com, rom
 tt0169547||AMERICAN BEAUTY||American Beauty||dra
-tt0397306||AMERICAN DAD!||American Dad!||ani
+tt0397306||AMERICAN DAD!||American Dad!||ani, com
 tt0765429||AMERICAN GANGSTER||American Gangster||bio, cri, dra
 tt0069704||AMERICAN GRAFFITI||American Graffiti||com, dra
 tt0120586||AMERICAN HISTORY X||American History X||cri, dra
 tt0043278||AMERICAN IN PARIS||An American in Paris||mus, rom
 tt0082010||AMERICAN WEREWOLF IN LONDON||An American Werewolf in London||hor
-tt0245712||AMORES PERROS||Amores Perros||dra, thr
-tt1602620||AMOUR||Amour||dra
 tt0122933||ANALYZE THIS||Analyze This||com, cri
 tt0052561||ANATOMY OF A MURDER||Anatomy of a Murder||dra, mys
 tt0357413||ANCHORMAN: THE LEGEND OF RON BURGUNDY||Anchorman: The Legend of Ron Burgundy||com
-tt0060107||ANDREI RUBLEV||Andrei Rublev||bio, dra, his
 tt0053479||ANDY GRIFFITH SHOW||The Andy Griffith Show||com
 tt0029870||ANGELS WITH DIRTY FACES||Angels with Dirty Faces||cri, dra, fil, thr
 tt0083564||ANNIE||Annie||mus
@@ -64,11 +58,7 @@ tt0075686||ANNIE HALL||Annie Hall||com, rom
 tt10288566||ANOTHER ROUND||Another Round||dra
 tt0053604||APARTMENT||The Apartment||com, dra, rom
 tt0078788||APOCALYPSE NOW||Apocalypse Now||mys, war
-tt0472043||APOCALYPTO||Apocalypto||act, adv, thr
 tt0112384||APOLLO 13||Apollo 13||adv, dra, his
-tt0099052||ARACHNOPHOBIA||Arachnophobia||hor
-tt11126994||ARCANE||Arcane||ani
-tt0064040||ARMY OF SHADOWS||Army of Shadows||dra, war
 tt0367279||ARRESTED DEVELOPMENT||Arrested Development||com
 tt2543164||ARRIVAL||Arrival||sci, mys
 tt0036613||ARSENIC AND OLD LACE||Arsenic and Old Lace||com, cri
@@ -79,17 +69,13 @@ tt4189022||ASH VS EVIL DEAD||Ash vs Evil Dead||act, com, hor
 tt0042208||ASPHALT JUNGLE||The Asphalt Jungle||cri, fil, thr
 tt0074156||ASSAULT ON PRECINCT 13||Assault on Precinct 13||act, cri, thr
 tt0783233||ATONEMENT||Atonement||dra, mys, rom, war
-tt2560140||ATTACK ON TITAN||Attack on Titan||ani
 tt1478964||ATTACK THE BLOCK||Attack the Block||act, sci, hor
-tt0092593||AU REVOIR LES ENFANTS||Au Revoir les Enfants||dra, war
 tt0051383||AUNTIE MAME||Auntie Mame||com, dra, rom
 tt0056444||AUTUMN AFTERNOON||An Autumn Afternoon||dra
 tt0077711||AUTUMN SONATA||Autumn Sonata||dra, muc
-tt0417299||AVATAR: THE LAST AIRBENDER||Avatar: The Last Airbender||ani
 tt0099077||AWAKENINGS||Awakenings||bio, dra
 tt0028597||AWFUL TRUTH||The Awful Truth||com, rom
 tt0112431||BABE||Babe||com, dra
-tt3890160||BABY DRIVER||Baby Driver||act, cri, muc
 tt0090685||BACK TO SCHOOL||Back to School||com
 tt0088763||BACK TO THE FUTURE||Back to the Future||adv, com, sci
 tt0096874||BACK TO THE FUTURE||Back to the Future Part II||adv, com, sci
@@ -107,31 +93,23 @@ tt0045537||BAND WAGON||The Band Wagon||mus
 tt2017109||BANSHEE||Banshee||act, cri
 tt11813216||BANSHEES OF INISHERIN||The Banshees of Inisherin||com, dra
 tt15791034||BARBARIAN||Barbarian||hor
-tt0072472||BARNEY MILLER||Barney Miller||com
 tt0072684||BARRY LYNDON||Barry Lyndon||dra
 tt0101410||BARTON FINK||Barton Fink||thr
 tt0112461||BASKETBALL DIARIES||The Basketball Diaries||bio, cri, dra, spo
 tt0058946||BATTLE OF ALGIERS||The Battle of Algiers||dra, war
 tt0266308||BATTLE ROYALE||Battle Royale||act, thr
-tt0015648||BATTLESHIP POTEMKIN||Battleship Potemkin||dra, his, war
-tt0407362||BATTLESTAR GALACTICA||Battlestar Galactica||act, adv, sci
 tt14452776||BEAR||The Bear||com, dra
 tt0268978||BEAUTIFUL MIND||A Beautiful Mind||bio, dra
 tt0101414||BEAUTY AND THE BEAST||Beauty and the Beast||ani
 tt0057877||BECKET||Becket||bio, dra, his
 tt0094721||BEETLEJUICE||Beetlejuice||com, fan
-tt0112471||BEFORE SUNRISE||Before Sunrise||dra, rom
-tt0381681||BEFORE SUNRISE||Before Sunset||dra, rom
-tt2209418||BEFORE SUNRISE||Before Midnight||dra, rom
 tt0120601||BEING JOHN MALKOVICH||Being John Malkovich||fan
 tt0078841||BEING THERE||Being There||com, dra
-tt0061395||BELLE DE JOUR||Belle de Jour||dra, rom
 tt0052618||BEN-HUR||Ben-Hur||adv, dra
 tt0106387||BENNY & JOON||Benny & Joon||com, dra, rom
 tt0218839||BEST IN SHOW||Best in Show||com
 tt0036868||BEST YEARS OF OUR LIVES||The Best Years of Our Lives||dra, war
 tt3032476||BETTER CALL SAUL||Better Call Saul||cri, dra
-tt0088794||BETTER OFF DEAD...||Better Off Dead...||com, rom
 tt0092263||BETTER TOMORROW||A Better Tomorrow||act, cri
 tt0086960||BEVERLY HILLS COP||Beverly Hills Cop||act, com
 tt0040522||BICYCLE THIEVES||Bicycle Thieves||dra
@@ -760,12 +738,12 @@ tt0044829||LAVENDER HILL MOB||The Lavender Hill Mob||com, cri
 tt0056172||LAWRENCE OF ARABIA||Lawrence of Arabia||adv, bio, dra, war
 tt0065531||LE CERCLE ROUGE||Le Cercle Rouge||cri, thr
 tt0035753||LE CORBEAU||Le Corbeau||cri, dra, mys, thr
-tt0062229||LE SAMOURAI||Le SamouraÔ||cri, dra, thr
+tt0062229||LE SAMOURAI||Le Samoura√Ø||cri, dra, thr
 tt0054407||LE TROU||Le Trou||cri, dra, thr
 tt0104694||LEAGUE OF THEIR OWN||A League of Their Own||com, dra, spo
 tt0050032||LEAVE IT TO BEAVER||Leave It to Beaver||com
 tt0113627||LEAVING LAS VEGAS||Leaving Las Vegas||dra, rom
-tt0110413||LEON: THE PROFESSIONAL||LÈon: The Professional||act, cri
+tt0110413||LEON: THE PROFESSIONAL||L√©on: The Professional||act, cri
 tt0057091||LEOPARD||The Leopard||dra, his
 tt1139797||LET THE RIGHT ONE IN||Let the Right One In||fan, hor
 tt0093409||LETHAL WEAPON||Lethal Weapon||act, cri
@@ -941,7 +919,7 @@ tt2297757||NATHAN FOR YOU||Nathan For You||com
 tt0077975||NATIONAL LAMPOON'S ANIMAL HOUSE||National Lampoon's Animal House||com
 tt0085995||NATIONAL LAMPOON'S VACATION||National Lampoon's Vacation||com
 tt0097958||NATIONAL LAMPOON'S VACATION||National Lampoon's Christmas Vacation||com
-tt0087544||NAUSICAA OF THE VALLEY OF THE WIND||Nausica‰ of the Valley of the Wind||ani
+tt0087544||NAUSICAA OF THE VALLEY OF THE WIND||Nausica√§ of the Valley of the Wind||ani
 tt0074958||NETWORK||Network||dra
 tt0088323||NEVERENDING STORY||The NeverEnding Story||adv, fan
 tt3799694||NICE GUYS||The Nice Guys||act, com, cri
