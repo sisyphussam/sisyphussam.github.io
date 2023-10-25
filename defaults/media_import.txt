@@ -287,7 +287,6 @@ tt0421715||CURIOUS CASE OF BENJAMIN BUTTON||The Curious Case of Benjamin Button|
 tt0168629||DANCER IN THE DARK||Dancer in the Dark||cri, dra, mus
 tt0099348||DANCES WITH WOLVES||Dances with Wolves||adv, dra, wes
 tt5753856||DARK||Dark||mys, sci, thr
-tt0118929||DARK CITY||Dark City||mys, sci, thr
 tt0039302||DARK PASSAGE||Dark Passage||fil, thr
 tt0031210||DARK VICTORY||Dark Victory||dra, rom
 tt0082096||DAS BOOT||Das Boot||dra, war
