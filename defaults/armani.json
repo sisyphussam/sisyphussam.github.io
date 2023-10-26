@@ -1,9 +1,7 @@
 {
   "updated": "2023-10-09",
   "imdb_lists": {
-    "Movies / English": "ls523719597",
-    "Movies / Foreign": "ls523719756",
-    "Movies / Animated": "ls523762891",
+    "Movies": "ls523719597",
     "TV Shows": "ls523717378"
   },
   "genres": {
