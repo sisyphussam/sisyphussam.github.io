@@ -1,1483 +1,1396 @@
-tt0147800||10 THINGS I HATE ABOUT YOU||10 Things I Hate About You||com, rom
-tt0050083||12 ANGRY MEN||12 Angry Men||cri, dra
-tt0062622||2001: A SPACE ODYSSEY||2001: A Space Odyssey||adv, sci
-tt1232829||21 JUMP STREET||21 Jump Street||act, com
-tt2294449||21 JUMP STREET||22 Jump Street||act, com
-tt0289043||28 DAYS LATER||28 Days Later||hor, sci
-tt0423866||3-IRON||3-Iron||cri, dra, rom
-tt0496424||30 ROCK||30 Rock||com
-tt0026029||39 STEPS||The 39 Steps||cri, mys, thr
-tt0381849||3:10 TO YUMA||3:10 to Yuma||wes
-tt0405422||40 YEAR OLD VIRGIN||The 40 Year Old Virgin||com, rom
-tt0083511||48 HRS.||48 Hrs.||act, com
-tt0343660||50 FIRST DATES||50 First Dates||com, dra, rom
-tt1306980||50/50||50/50||com, dra, rom
-tt14218830||ABBOTT ELEMENTARY||Abbott Elementary||com
-tt0257360||ABOUT SCHMIDT||About Schmidt||dra
-tt0043338||ACE IN THE HOLE||Ace in the Hole||dra, fil
-tt0418455||ADAM'S APPLES||Adam's Apples||com, cri, dra
-tt0041090||ADAM'S RIB||Adam's Rib||com, rom
-tt0092513||ADVENTURES IN BABYSITTING||Adventures in Babysitting||adv, com
-tt0029843||ADVENTURES OF ROBIN HOOD||The Adventures of Robin Hood||act, adv, rom
-tt0050105||AFFAIR TO REMEMBER||An Affair to Remember||dra, rom
-tt0043265||AFRICAN QUEEN||The African Queen||adv, dra, rom, war
-tt0088680||AFTER HOURS||After Hours||com, cri, thr
-tt0457655||AFTER THE WEDDING||After the Wedding||dra
-tt19770238||AFTERSUN||Aftersun||dra
-tt0118571||AIR FORCE ONE||Air Force One||act
-tt0080339||AIRPLANE!||Airplane!||com
-tt0103639||ALADDIN||Aladdin||ani
-tt0047708||ALFRED HITCHCOCK PRESENTS||Alfred Hitchcock Presents||dra
-tt0071115||ALICE DOESN'T LIVE HERE ANYMORE||Alice Doesn't Live Here Anymore||dra, rom
-tt0043274||ALICE IN WONDERLAND||Alice in Wonderland||ani
-tt0078748||ALIEN||Alien||hor, sci
-tt0090605||ALIEN||Aliens||hor, sci, act
-tt0042192||ALL ABOUT EVE||All About Eve||dra
-tt0066626||ALL IN THE FAMILY||All in the Family||com
-tt0020629||ALL QUIET ON THE WESTERN FRONT||All Quiet on the Western Front||dra, war
-tt0047811||ALL THAT HEAVEN ALLOWS||All That Heaven Allows||dra, muc, rom
-tt0074119||ALL THE PRESIDENT'S MEN||All the President's Men||dra, his, thr
-tt0181875||ALMOST FAMOUS||Almost Famous||adv, com, dra, muc
-tt0086879||AMADEUS||Amadeus||bio, dra, muc
-tt0071129||AMARCORD||Amarcord||com, dra
-tt0211915||AMELIE||Amélie||com, rom
-tt0169547||AMERICAN BEAUTY||American Beauty||dra
-tt0397306||AMERICAN DAD!||American Dad!||ani, com
-tt0765429||AMERICAN GANGSTER||American Gangster||bio, cri, dra
-tt0069704||AMERICAN GRAFFITI||American Graffiti||com, dra
-tt0120586||AMERICAN HISTORY X||American History X||cri, dra
-tt0043278||AMERICAN IN PARIS||An American in Paris||mus, rom
-tt0082010||AMERICAN WEREWOLF IN LONDON||An American Werewolf in London||hor
-tt0122933||ANALYZE THIS||Analyze This||com, cri
-tt0052561||ANATOMY OF A MURDER||Anatomy of a Murder||dra, mys
-tt0357413||ANCHORMAN: THE LEGEND OF RON BURGUNDY||Anchorman: The Legend of Ron Burgundy||com
-tt0053479||ANDY GRIFFITH SHOW||The Andy Griffith Show||com
-tt0029870||ANGELS WITH DIRTY FACES||Angels with Dirty Faces||cri, dra, fil, thr
-tt0083564||ANNIE||Annie||mus
-tt0075686||ANNIE HALL||Annie Hall||com, rom
-tt10288566||ANOTHER ROUND||Another Round||dra
-tt0053604||APARTMENT||The Apartment||com, dra, rom
-tt0078788||APOCALYPSE NOW||Apocalypse Now||mys, war
-tt0112384||APOLLO 13||Apollo 13||adv, dra, his
-tt0367279||ARRESTED DEVELOPMENT||Arrested Development||com
-tt2543164||ARRIVAL||Arrival||sci, mys
-tt0036613||ARSENIC AND OLD LACE||Arsenic and Old Lace||com, cri
-tt1655442||ARTIST||The Artist||com, dra, rom
-tt0119822||AS GOOD AS IT GETS||As Good as It Gets||com, dra, rom
-tt0268126||ASAPTATION.||Adaptation.||com, dra
-tt4189022||ASH VS EVIL DEAD||Ash vs Evil Dead||act, com, hor
-tt0042208||ASPHALT JUNGLE||The Asphalt Jungle||cri, fil, thr
-tt0074156||ASSAULT ON PRECINCT 13||Assault on Precinct 13||act, cri, thr
-tt0783233||ATONEMENT||Atonement||dra, mys, rom, war
-tt1478964||ATTACK THE BLOCK||Attack the Block||act, sci, hor
-tt0051383||AUNTIE MAME||Auntie Mame||com, dra, rom
-tt0056444||AUTUMN AFTERNOON||An Autumn Afternoon||dra
-tt0077711||AUTUMN SONATA||Autumn Sonata||dra, muc
-tt0099077||AWAKENINGS||Awakenings||bio, dra
-tt0028597||AWFUL TRUTH||The Awful Truth||com, rom
-tt0112431||BABE||Babe||com, dra
-tt0090685||BACK TO SCHOOL||Back to School||com
-tt0088763||BACK TO THE FUTURE||Back to the Future||adv, com, sci
-tt0096874||BACK TO THE FUTURE||Back to the Future Part II||adv, com, sci
-tt0099088||BACK TO THE FUTURE||Back to the Future Part III||adv, com, sci
-tt0044391||BAD AND THE BEAUTIFUL||The Bad and the Beautiful||dra, rom
-tt0047849||BAD DAY AT BLACK ROCK||Bad Day at Black Rock||cri, mys, thr
-tt0307987||BAD SANTA||Bad Santa||com, cri
-tt0054460||BAD SLEEP WELL||The Bad Sleep Well||cri, dra, thr
-tt0069762||BADLANDS||Badlands||cri, dra
-tt0033373||BALL OF FIRE||Ball of Fire||com, rom
-tt0034492||BAMBI||Bambi||ani
-tt0185906||BAND OF BROTHERS||Band of Brothers||dra, war
-tt0057869||BAND OF OUTSIDERS||Band of Outsiders||com, cri, dra
-tt0045537||BAND WAGON||The Band Wagon||mus
-tt2017109||BANSHEE||Banshee||act, cri
-tt11813216||BANSHEES OF INISHERIN||The Banshees of Inisherin||com, dra
-tt15791034||BARBARIAN||Barbarian||hor
-tt0072684||BARRY LYNDON||Barry Lyndon||dra
-tt0101410||BARTON FINK||Barton Fink||thr
-tt0112461||BASKETBALL DIARIES||The Basketball Diaries||bio, cri, dra, spo
-tt0058946||BATTLE OF ALGIERS||The Battle of Algiers||dra, war
-tt0266308||BATTLE ROYALE||Battle Royale||act, thr
-tt14452776||BEAR||The Bear||com, dra
-tt0268978||BEAUTIFUL MIND||A Beautiful Mind||bio, dra
-tt0101414||BEAUTY AND THE BEAST||Beauty and the Beast||ani
-tt0057877||BECKET||Becket||bio, dra, his
-tt0094721||BEETLEJUICE||Beetlejuice||com, fan
-tt0120601||BEING JOHN MALKOVICH||Being John Malkovich||fan
-tt0078841||BEING THERE||Being There||com, dra
-tt0052618||BEN-HUR||Ben-Hur||adv, dra
-tt0106387||BENNY & JOON||Benny & Joon||com, dra, rom
-tt0218839||BEST IN SHOW||Best in Show||com
-tt0036868||BEST YEARS OF OUR LIVES||The Best Years of Our Lives||dra, war
-tt3032476||BETTER CALL SAUL||Better Call Saul||cri, dra
-tt0092263||BETTER TOMORROW||A Better Tomorrow||act, cri
-tt0086960||BEVERLY HILLS COP||Beverly Hills Cop||act, com
-tt0040522||BICYCLE THIEVES||Bicycle Thieves||dra
-tt0094737||BIG||Big||com, fan
-tt0898266||BIG BANG THEORY||The Big Bang Theory||com
-tt0051411||BIG COUNTRY||The Big Country||rom, wes
-tt0045555||BIG HEAT||The Big Heat||cri, fil, thr
-tt2245084||BIG HERO 6||Big Hero 6||ani
-tt0118715||BIG LEBOWSKI||The Big Lebowski||com, cri
-tt0038355||BIG SLEEP||The Big Sleep||cri, fil, mys, thr
-tt0090728||BIG TROUBLE IN LITTLE CHINA||Big Trouble in Little China||act, com, fan
-tt0096928||BILL & TED'S EXCELLENT ADVENTURE||Bill & Ted's Excellent Adventure||adv, com, muc, sci
-tt0112508||BILLY MADISON||Billy Madison||com
-tt0115685||BIRDCAGE||The Birdcage||com
-tt0055798||BIRDMAN OF ALCATRAZ||Birdman of Alcatraz||bio, cri, dra
-tt0056869||BIRDS||The Birds||hor, mys
-tt0039190||BISHOP'S WIFE||The Bishop's Wife||com, dra, fan, rom
-tt0456912||BITTERSWEET LIFE||A Bittersweet Life||act, cri, thr
-tt0071222||BLACK CHRISTMAS||Black Christmas||hor
-tt0265086||BLACK HAWK DOWN||Black Hawk Down||act, his, war
-tt0039192||BLACK NARCISSUS||Black Narcissus||dra
-tt0947798||BLACK SWAN||Black Swan||dra, thr
-tt0084988||BLACKADDER||Blackadder||com
-tt0047885||BLACKBOARD JUNGLE||Blackboard Jungle||cri, dra
-tt0083658||BLADE RUNNER||Blade Runner||act, sci, mys
-tt0071230||BLAZING SADDLES||Blazing Saddles||com, wes
-tt0094761||BLOB||The Blob||hor, sci
-tt0450259||BLOOD DIAMOND||Blood Diamond||adv, dra, thr
-tt0086979||BLOOD SIMPLE||Blood Simple||cri, thr
-tt0060176||BLOW-UP||Blow-Up||mys, thr
-tt0020697||BLUE ANGEL||The Blue Angel||dra, muc
-tt0296310||BLUE PLANET||Blue Planet||doc
-tt6769208||BLUE PLANET||Blue Planet II||doc
-tt1120985||BLUE VALENTINE||Blue Valentine||dra, rom
-tt0090756||BLUE VELVET||Blue Velvet||cri, dra, mys, thr
-tt0080455||BLUES BROTHERS||The Blues Brothers||adv, com, muc
-tt1561755||BOB'S BURGERS||Bob's Burgers||ani
-tt0082089||BODY HEAT||Body Heat||cri, dra, rom
-tt3398228||BOJACK HORSEMAN||BoJack Horseman||ani
-tt2494362||BONE TOMAHAWK||Bone Tomahawk||hor, wes
-tt0061418||BONNIE AND CLYDE||Bonnie and Clyde||bio, cri, dra
-tt0118749||BOOGIE NIGHTS||Boogie Nights||dra
-tt0373732||BOONDOCKS||The Boondocks||ani
-tt0042276||BORN YESTERDAY||Born Yesterday||com, dra, rom
-tt0258463||BOURNE IDENTITY||The Bourne Identity||act, mys, thr
-tt0372183||BOURNE IDENTITY||The Bourne Supremacy||act, mys, thr
-tt0440963||BOURNE IDENTITY||The Bourne Ultimatum||act, mys, thr
-tt0914798||BOY IN THE STRIPED PYJAMAS||The Boy in the Striped Pyjamas||dra, war
-tt1065073||BOYHOOD||Boyhood||dra
-tt1190634||BOYS||The Boys||act, sci
-tt0171804||BOYS DON'T CRY||Boys Don't Cry||bio, cri, dra
-tt0101507||BOYZ N THE HOOD||Boyz n the Hood||cri, dra
-tt0112573||BRAVEHEART||Braveheart||bio, dra, his, war
-tt0088846||BRAZIL||Brazil||sci, thr
-tt0054698||BREAKFAST AT TIFFANY'S||Breakfast at Tiffany's||com, dra, rom
-tt0088847||BREAKFAST CLUB||The Breakfast Club||com, dra
-tt0078902||BREAKING AWAY||Breaking Away||com, dra, spo
-tt0903747||BREAKING BAD||Breaking Bad||cri, dra, thr
-tt0115751||BREAKING THE WAVES||Breaking the Waves||dra
-tt0053472||BREATHLESS||Breathless||cri, dra
-tt0088850||BREWSTER'S MILLIONS||Brewster's Millions||com
-tt1478338||BRIDESMAIDS||Bridesmaids||com, rom
-tt0050212||BRIDGE ON THE RIVER KWAI||The Bridge on the River Kwai||adv, dra, war
-tt0037558||BRIEF ENCOUNTER||Brief Encounter||dra, rom
-tt0029947||BRINGING UP BABY||Bringing Up Baby||com
-tt0106489||BRONX TALE||A Bronx Tale||cri, dra
-tt2467372||BROOKLYN NINE-NINE||Brooklyn Nine-Nine||com, cri
-tt0315327||BRUCE ALMIGHTY||Bruce Almighty||com, fan
-tt0039224||BRUTE FORCE||Brute Force||cri, fil, thr
-tt0825232||BUCKET LIST||The Bucket List||adv, com, dra
-tt0062765||BULLITT||Bullitt||act, cri, thr
-tt0096734||BURBS||The 'Burbs||com, mys
-tt0014341||BUSTER KEATON||Buster Keaton: Our Hospitality||com
-tt0015324||BUSTER KEATON||Buster Keaton: Sherlock Jr.||com
-tt0015163||BUSTER KEATON||Buster Keaton: The Navigator||com
-tt0016332||BUSTER KEATON||Buster Keaton: Seven Chances||com
-tt0017925||BUSTER KEATON||Buster Keaton: The General||com
-tt0019421||BUSTER KEATON||Buster Keaton: Steamboat Bill, Jr.||com
-tt0018742||BUSTER KEATON||Buster Keaton: The Cameraman||com
-tt0064115||BUTCH CASSIDY AND THE SUNDANCE KID||Butch Cassidy and the Sundance Kid||bio, cri, dra, wes
-tt1259521||CABIN IN THE WOODS||The Cabin in the Woods||hor
-tt0080487||CADDYSHACK||Caddyshack||com, spo
-tt0046816||CAINE MUTINY||The Caine Mutiny||dra, war
-tt5726616||CALL ME BY YOUR NAME||Call Me by Your Name||dra, rom
-tt0092718||CAN'T BUY ME LOVE||Can't Buy Me Love||com, dra, rom
-tt0103919||CANDYMAN||Candyman||hor
-tt0055824||CAPE FEAR||Cape Fear||thr
-tt0101540||CAPE FEAR||Cape Fear (remake)||thr
-tt8267604||CAPERNAUM||Capernaum||dra
-tt0026174||CAPTAIN BLOOD||Captain Blood||act, adv, his, rom
-tt3553976||CAPTAIN FANTASTIC||Captain Fantastic||com, dra
-tt0028691||CAPTAINS COURAGEOUS||Captains Courageous||adv, dra
-tt0106519||CARLITO'S WAY||Carlito's Way||cri, dra
-tt0061240||CAROL BURNETT SHOW||The Carol Burnett Show||com
-tt0074285||CARRIE||Carrie||hor
-tt0034583||CASABLANCA||Casablanca||dra, rom, war
-tt0112641||CASINO||Casino||cri, dra
-tt0162222||CAST AWAY||Cast Away||adv, dra
-tt1499666||CASTAWAY ON THE MOON||Castaway on the Moon||com, dra, rom
-tt0092067||CASTLE IN THE SKY||Castle in the Sky||ani
-tt0051459||CAT ON A HOT TIN ROOF||Cat on a Hot Tin Roof||dra
-tt0264464||CATCH ME IF YOU CAN||Catch Me If You Can||bio, cri, dra
-tt0154420||CELEBRATION||The Celebration||dra
-tt0140888||CENTRAL STATION||Central Station||dra
-tt0824747||CHANGELING||Changeling||bio, cri, dra
-tt0353049||CHAPPELLE'S SHOW||Chappelle's Show||com
-tt0056923||CHARADE||Charade||com, mys, thr
-tt0012349||CHARLIE CHAPLIN||Charlie Chaplin: The Kid||com
-tt0015864||CHARLIE CHAPLIN||Charlie Chaplin: The Gold Rush||com
-tt0018773||CHARLIE CHAPLIN||Charlie Chaplin: The Circus||com
-tt0021749||CHARLIE CHAPLIN||Charlie Chaplin: City Lights||com
-tt0027977||CHARLIE CHAPLIN||Charlie Chaplin: Modern Times||com
-tt0032553||CHARLIE CHAPLIN||Charlie Chaplin: The Great Dictator||com
-tt1190539||CHASER||The Chaser||act, cri, thr
-tt0083399||CHEERS||Cheers||com
-tt7366338||CHERNOBYL||Chernobyl||dra, thr
-tt0299658||CHICAGO||Chicago||cri, mus
-tt0094862||CHILD'S PLAY||Child's Play||hor
-tt0118849||CHILDREN OF HEAVEN||Children of Heaven||dra, spo
-tt0206634||CHILDREN OF MEN||Children of Men||act, sci, thr
-tt0037674||CHILDREN OF PARADISE||Children of Paradise||dra, rom
-tt0054743||CHILDREN'S HOUR||The Children's Hour||dra, rom
-tt0071315||CHINATOWN||Chinatown||dra, mys, thr
-tt0241303||CHOCOLAT||Chocolat||dra, rom
-tt0085333||CHRISTINE||Christine||hor
-tt0085334||CHRISTMAS STORY||A Christmas Story||com
-tt0109424||CHUNGKING EXPRESS||Chungking Express||com, cri, dra
-tt0042332||CINDERELLA||Cinderella||ani
-tt0352248||CINDERELLA MAN||Cinderella Man||bio, dra, rom, spo
-tt0317248||CITY OF GOD||City of God||cri, dra
-tt0101587||CITY SLICKERS||City Slickers||com, wes
-tt0098769||CIVIL WAR||The Civil War||doc
-tt10541088||CLARKSON'S FARM||Clarkson's Farm||com, doc
-tt0106582||CLIFFHANGER||Cliffhanger||act, adv
-tt0066921||CLOCKWORK ORANGE||A Clockwork Orange||cri, sci
-tt0075860||CLOSE ENCOUNTERS OF THE THIRD KIND||Close Encounters of the Third Kind||sci
-tt0100234||CLOSE-UP||Close-Up||bio, cri
-tt0088930||CLUE||Clue||com, mys
-tt0080549||COAL MINER'S DAUGHTER||Coal Miner's Daughter||bio, dra, muc
-tt7221388||COBRA KAI||Cobra Kai||act, com, dra
-tt2380307||COCO||Coco||ani
-tt10366460||CODA||CODA||com, dra, muc
-tt0369339||COLLATERAL||Collateral||act, cri, thr
-tt1466074||COLUMBO||Columbo||cri, dra, mys
-tt0091251||COME AND SEE||Come and See||dra, war
-tt0094898||COMING TO AMERICA||Coming to America||com, rom
-tt0088944||COMMANDO||Commando||act, adv
-tt1439629||COMMUNITY||Community||com
-tt0082198||CONAN THE BARBARIAN||Conan the Barbarian||act, adv, fan
-tt0065571||CONFORMIST||The Conformist||dra
-tt1457767||CONJURING||The Conjuring||hor
-tt3065204||CONJURING||The Conjuring 2||hor
-tt0057345||CONTEMPT||Contempt||dra, rom
-tt0071360||CONVERSATION||The Conversation||dra, mys, thr
-tt0097108||COOK, THE THIEF, HIS WIFE & HER LOVER||The Cook, the Thief, His Wife & Her Lover||cri
-tt0061512||COOL HAND LUKE||Cool Hand Luke||cri, dra
-tt0086687||COSBY SHOW||The Cosby Show||com
-tt0081846||COSMOS||Cosmos||doc
-tt2395695||COSMOS||Cosmos II||doc
-tt0245844||COUNT OF MONTE CRISTO||The Count of Monte Cristo||act, adv, dra
-tt0049096||COURT JESTER||The Court Jester||adv, com, mus
-tt0050634||CRANES ARE FLYING||The Cranes Are Flying||dra, rom, war
-tt10850932||CRASH LANDING ON YOU||Crash Landing on You||adv, com, rom
-tt1570728||CRAZY, STUPID, LOVE.||Crazy, Stupid, Love.||com, dra, rom
-tt3076658||CREED||Creed||dra, spo
-tt6343314||CREED||Creed II||dra, spo
-tt11145118||CREED||Creed III||dra, spo
-tt0083767||CREEPSHOW||Creepshow||hor
-tt0069467||CRIES & WHISPERS||Cries & Whispers||dra
-tt0097123||CRIMES AND MISDEMEANORS||Crimes and Misdemeanors||com, dra
-tt0090555||CROCODILE DUNDEE||Crocodile Dundee||adv, com
-tt0190332||CROUCHING TIGER, HIDDEN DRAGON||Crouching Tiger, Hidden Dragon||act, adv, fan
-tt0264235||CURB YOUR ENTHUSIASM||Curb Your Enthusiasm||com
-tt0421715||CURIOUS CASE OF BENJAMIN BUTTON||The Curious Case of Benjamin Button||dra, fan, rom
-tt0168629||DANCER IN THE DARK||Dancer in the Dark||cri, dra, mus
-tt0099348||DANCES WITH WOLVES||Dances with Wolves||adv, dra, wes
-tt5753856||DARK||Dark||mys, sci, thr
-tt0039302||DARK PASSAGE||Dark Passage||fil, thr
-tt0031210||DARK VICTORY||Dark Victory||dra, rom
-tt0082096||DAS BOOT||Das Boot||dra, war
-tt0363547||DAWN OF THE DEAD||Dawn of the Dead||hor
-tt0070460||DAY FOR NIGHT||Day for Night||com, dra, rom
-tt0069947||DAY OF THE JACKAL||The Day of the Jackal||cri, thr
-tt0036506||DAY OF WRATH||Day of Wrath||dra, his
-tt0043456||DAY THE EARTH STOOD STILL||The Day the Earth Stood Still||sci
-tt0077405||DAYS OF HEAVEN||Days of Heaven||dra, rom
-tt0055895||DAYS OF WINE AND ROSES||Days of Wine and Roses||dra
-tt0106677||DAZED AND CONFUSED||Dazed and Confused||com
-tt0103873||DEAD ALIVE||Dead Alive||hor
-tt0112818||DEAD MAN WALKING||Dead Man Walking||cri, dra
-tt0097165||DEAD POETS SOCIETY||Dead Poets Society||com, dra
-tt1278340||DEAD SNOW||Dead Snow||com, hor
-tt2832470||DEAD SNOW||Dead Snow 2: Red vs. Dead||com, hor
-tt1431045||DEADPOOL||Deadpool||act, com, sci
-tt5463162||DEADPOOL||Deadpool 2||act, com, sci
-tt0073582||DEEP RED||Deep Red||hor
-tt0077416||DEER HUNTER||The Deer Hunter||dra, war
-tt0051525||DEFIANT ONES||The Defiant Ones||cri, dra
-tt0288937||DEGRASSI: THE NEXT GENERATION||Degrassi: The Next Generation||dra
-tt0068473||DELIVERANCE||Deliverance||adv, thr
-tt0407887||DEPARTED||The Departed||cri, dra, thr
-tt1069238||DEPARTURES||Departures||dra
-tt0071411||DERSU UZALA||Dersu Uzala||adv, bio, dra
-tt0435625||DESCENT||The Descent||adv, hor
-tt0112851||DESPERADO||Desperado||act, cri
-tt1323594||DESPICABLE ME||Despicable Me||ani
-tt0031225||DESTRY RIDES AGAIN||Destry Rides Again||com, wes
-tt0256009||DEVIL'S BACKBONE||The Devil's Backbone||dra, hor
-tt0046911||DIABOLIQUE||Diabolique||cri, hor, mys
-tt0046912||DIAL M FOR MURDER||Dial M for Murder||cri, thr
-tt0062759||DIAMOND ARM||The Diamond Arm||adv, com, cri
-tt0054533||DICK VAN DYKE SHOW||The Dick Van Dyke Show||com
-tt0095016||DIE HARD||Die Hard||act
-tt0099423||DIE HARD||Die Hard 2||act
-tt0112864||DIE HARD||Die Hard with a Vengeance||act
-tt0092890||DIRTY DANCING||Dirty Dancing||dra, muc, rom
-tt0061578||DIRTY DOZEN||The Dirty Dozen||act, adv, war
-tt0066999||DIRTY HARRY||Dirty Harry||act, cri, thr
-tt0095031||DIRTY ROTTEN SCOUNDRELS||Dirty Rotten Scoundrels||com, cri
-tt0068361||DISCREET CHARM OF THE BOURGEOISIE||The Discreet Charm of the Bourgeoisie||com
-tt1136608||DISTRICT 9||District 9||act, sci
-tt0401383||DIVING BELL AND THE BUTTERFLY||The Diving Bell and the Butterfly||bio, dra
-tt0055913||DIVORCE ITALIAN STYLE||Divorce Italian Style||com, dra, rom
-tt1853728||DJANGO UNCHAINED||Django Unchained||dra, wes
-tt0097216||DO THE RIGHT THING||Do the Right Thing||dra
-tt0056751||DOCTOR WHO||Doctor Who||adv, sci
-tt0059113||DOCTOR ZHIVAGO||Doctor Zhivago||dra, rom, war
-tt0364725||DODGEBALL: A TRUE UNDERDOG STORY||DodgeBall: A True Underdog Story||com, spo
-tt0027532||DODSWORTH||Dodsworth||dra, rom
-tt0072890||DOG DAY AFTERNOON||Dog Day Afternoon||bio, cri, dra
-tt0280609||DOG SOLDIERS||Dog Soldiers||act, hor
-tt0276919||DOGVILLE||Dogville||cri, dra
-tt0109642||DOLORES CLAIBORNE||Dolores Claiborne||cri, dra, mys, thr
-tt0069995||DON'T LOOK NOW||Don't Look Now||hor, mys
-tt0119008||DONNIE BRASCO||Donnie Brasco||bio, cri, dra
-tt0246578||DONNIE DARKO||Donnie Darko||mys, sci, thr
-tt9174558||DOPESICK||Dopesick||dra
-tt0036775||DOUBLE INDEMNITY||Double Indemnity||cri, dra, fil
-tt0363163||DOWNFALL||Downfall||bio, dra, his, war
-tt0057012||DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB||Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb||com, war
-tt1127180||DRAG ME TO HELL||Drag Me to Hell||hor
-tt0093015||DRAGONS FOREVER||Dragons Forever||act, com
-tt0780504||DRIVE||Drive||act, dra
-tt0040979||DRUNKEN ANGEL||Drunken Angel||cri, dra, rom
-tt0080179||DRUNKEN MASTER||Drunken Master||act, com
-tt0111512||DRUNKEN MASTER||Drunken Master II||act, com
-tt0109686||DUMB AND DUMBER||Dumb and Dumber||com
-tt0033563||DUMBO||Dumbo||ani
-tt0083866||E.T. THE EXTRA-TERRESTRIAL||E.T. the Extra-Terrestrial||adv, sci
-tt0048028||EAST OF EDEN||East of Eden||dra
-tt0040308||EASTER PARADE||Easter Parade||mus, rom
-tt0765443||EASTERN PROMISES||Eastern Promises||cri, dra, thr
-tt1631867||EDGE OF TOMORROW||Edge of Tomorrow||act, sci
-tt0099487||EDWARD SCISSORHANDS||Edward Scissorhands||fan, rom
-tt7014006||EIGHTH GRADE||Eighth Grade||com, dra
-tt0061619||EL DORADO||El Dorado||wes
-tt0126886||ELECTION||Election||com
-tt0080678||ELEPHANT MAN||The Elephant Man||bio, dra
-tt0051378||ELEVATOR TO THE GALLOWS||Elevator to the Gallows||cri, dra, thr
-tt0319343||ELF||Elf||com, fan, rom
-tt0861739||ELITE SQUAD||Elite Squad||act, cri
-tt1555149||ELITE SQUAD||Elite Squad 2: The Enemy Within||act, cri
-tt0053793||ELMER GANTRY||Elmer Gantry||dra
-tt0120917||EMPEROR'S NEW GROOVE||The Emperor's New Groove||ani
-tt0092965||EMPIRE OF THE SUN||Empire of the Sun||dra, war
-tt0461770||ENCHANTED||Enchanted||adv, com, fan, mus, rom
-tt0070034||ENTER THE DRAGON||Enter the Dragon||act
-tt0074486||ERASERHEAD||Eraserhead||fan, hor
-tt0079116||ESCAPE FROM ALCATRAZ||Escape from Alcatraz||bio, cri, dra
-tt0082340||ESCAPE FROM NEW YORK||Escape from New York||act, adv, sci
-tt0338013||ETERNAL SUNSHINE OF THE SPOTLESS MIND||Eternal Sunshine of the Spotless Mind||dra, rom, sci
-tt0460637||EVERYBODY HATES CHRIS||Everybody Hates Chris||com
-tt0115167||EVERYBODY LOVES RAYMOND||Everybody Loves Raymond||com
-tt6710474||EVERYTHING EVERYWHERE ALL AT ONCE||Everything Everywhere All at Once||act, com, fan, sci
-tt0083907||EVIL DEAD||The Evil Dead||hor
-tt0092991||EVIL DEAD||Evil Dead II||com, hor
-tt0106308||EVIL DEAD||Evil Dead: Army of Darkness||com, hor
-tt1288558||EVIL DEAD||Evil Dead||hor
-tt13345606||EVIL DEAD||Evil Dead Rise||hor
-tt0116253||EXECUTIVE DECISION||Executive Decision||act
-tt0070047||EXORCIST||The Exorcist||hor
-tt0056732||EXTERMINATING ANGEL||The Exterminating Angel||dra, fan
-tt20869502||EXTRAORDINARY ATTORNEY WOO||Extraordinary Attorney Woo||dra
-tt0445114||EXTRAS||Extras||com
-tt0053459||EYES WITHOUT A FACE||Eyes Without a Face||dra, hor
-tt0050371||FACE IN THE CROWD||A Face in the Crowd||dra, muc
-tt0119094||FACE/OFF||Face/Off||act, sci
-tt0058083||FAIL SAFE||Fail Safe||dra, thr
-tt0106856||FALLING DOWN||Falling Down||act, cri, dra
-tt0182576||FAMILY GUY||Family Guy||ani
-tt0083413||FAMILY TIES||Family Ties||com
-tt0083922||FANNY AND ALEXANDER||Fanny and Alexander||dra
-tt0032455||FANTASIA||Fantasia||ani
-tt0432283||FANTASTIC MR. FOX||Fantastic Mr. Fox||ani
-tt0070544||FANTASTIC PLANET||Fantastic Planet||ani
-tt0106332||FAREWELL MY CONCUBINE||Farewell My Concubine||dra, muc, rom
-tt0116282||FARGO||Fargo||cri, thr
-tt11555492||FARHA||Farha||dra
-tt0083929||FAST TIMES AT RIDGEMONT HIGH||Fast Times at Ridgemont High||com
-tt0093010||FATAL ATTRACTION||Fatal Attraction||thr
-tt10272386||FATHER||The Father||dra, mys
-tt0101862||FATHER OF THE BRIDE||Father of the Bride||com, rom
-tt0113041||FATHER OF THE BRIDE||Father of the Bride II||com, rom
-tt0111958||FATHER TED||Father Ted||com
-tt2582846||FAULT IN OUR STARS||The Fault in Our Stars||dra, rom
-tt0072500||FAWLTY TOWERS||Fawlty Towers||com
-tt0446059||FEARLESS||Fearless||act, bio
-tt0091042||FERRIS BUELLER'S DAY OFF||Ferris Bueller's Day Off||com
-tt0104257||FEW GOOD MEN||A Few Good Men||dra, thr
-tt0067093||FIDDLER ON THE ROOF||Fiddler on the Roof||dra, mus, rom
-tt0097351||FIELD OF DREAMS||Field of Dreams||dra, fan, spo
-tt0119116||FIFTH ELEMENT||The Fifth Element||act, adv, sci
-tt0137523||FIGHT CLUB||Fight Club||dra
-tt0964517||FIGHTER||The Fighter||bio, dra, spo
-tt0266543||FINDING NEMO||Finding Nemo||ani
-tt0308644||FINDING NEVERLAND||Finding Neverland||bio, dra
-tt0303461||FIREFLY||Firefly||adv, sci
-tt0119250||FIREWORKS||Fireworks||cri, dra
-tt0095159||FISH CALLED WANDA||A Fish Called Wanda||com, cri
-tt0110200||FIST OF LEGEND||Fist of Legend||act
-tt0058461||FISTFUL OF DOLLARS||A Fistful of Dollars||wes
-tt0065724||FIVE EASY PIECES||Five Easy Pieces||dra
-tt5687612||FLEABAG||Fleabag||com, dra
-tt0091059||FLIGHT OF THE NAVIGATOR||Flight of the Navigator||adv, com, sci
-tt0059183||FLIGHT OF THE PHOENIX||The Flight of the Phoenix||adv, dra
-tt0053502||FLINTSTONES||The Flintstones||ani
-tt11691684||FLOWER OF EVIL||Flower of Evil||cri, mys, rom, thr
-tt0091064||FLY||The Fly||hor, sci
-tt0080749||FOG||The Fog||hor
-tt0059578||FOR A FEW DOLLARS MORE||For a Few Dollars More||wes
-tt0043686||FORBIDDEN GAMES||Forbidden Games||com, dra, war
-tt1950186||FORD V FERRARI||Ford v Ferrari||bio, dra, spo
-tt0032484||FOREIGN CORRESPONDENT||Foreign Correspondent||thr
-tt0800039||FORGETTING SARAH MARSHALL||Forgetting Sarah Marshall||com, rom
-tt0109830||FORREST GUMP||Forrest Gump||dra
-tt1341167||FOUR LIONS||Four Lions||com, cri, dra
-tt0106004||FRASIER||Frasier||com
-tt0193676||FREAKS AND GEEKS||Freaks and Geeks||com, dra
-tt0067116||FRENCH CONNECTION||The French Connection||cri, dra, thr
-tt0098800||FRESH PRINCE OF BEL-AIR||The Fresh Prince of Bel-Air||com
-tt0087298||FRIDAY THE 13TH||Friday the 13th: The Final Chapter||hor
-tt0091080||FRIDAY THE 13TH||Friday the 13th: Jason Lives||hor
-tt0101921||FRIED GREEN TOMATOES||Fried Green Tomatoes||dra
-tt0108778||FRIENDS||Friends||com
-tt0045793||FROM HERE TO ETERNITY||From Here to Eternity||dra, rom, war
-tt2294629||FROZEN||Frozen||ani
-tt2092588||FROZEN PLANET||Frozen Planet||doc
-tt0106977||FUGITIVE||The Fugitive||act, mys, thr
-tt0093058||FULL METAL JACKET||Full Metal Jacket||dra, war
-tt0119164||FULL MONTY||The Full Monty||com
-tt0119167||FUNNY GAMES||Funny Games||cri, dra, thr
-tt0027652||FURY||Fury||cri, dra, fil, thr
-tt0149460||FUTURAMA||Futurama||ani
-tt0119174||GAME||The Game||dra, mys, thr
-tt0944947||GAME OF THRONES||Game of Thrones||act, adv, fan
-tt0036855||GASLIGHT||Gaslight||cri, dra, mys, rom, thr
-tt8367814||GENTLEMEN||The Gentlemen||act, com, cri
-tt0068519||GENTLEMEN OF FORTUNE||Gentlemen of Fortune||com, cri, dra, mys
-tt0039417||GERMANY, YEAR ZERO||Germany, Year Zero||dra, his, war
-tt5052448||GET OUT||Get Out||hor, mys
-tt0058805||GET SMART||Get Smart||act, adv, com, mys, sci
-tt0099653||GHOST||Ghost||dra, fan, rom, thr
-tt0039420||GHOST AND MRS. MUIR||The Ghost and Mrs. Muir||com, dra, fan
-tt0087332||GHOSTBUSTERS||Ghostbusters||com, fan, sci
-tt0049261||GIANT||Giant||dra
-tt0038559||GILDA||Gilda||dra, fil, rom, thr
-tt0057751||GILLIGAN'S ISLAND||Gilligan's Island||com
-tt1132620||GIRL WITH THE DRAGON TATTOO||The Girl with the Dragon Tattoo||cri, mys, thr
-tt1568346||GIRL WITH THE DRAGON TATTOO||The Girl with the Dragon Tattoo (remake)||cri, mys, thr
-tt0172495||GLADIATOR||Gladiator||act, adv, dra
-tt0104348||GLENGARRY GLEN ROSS||Glengarry Glen Ross||cri, dra, mys
-tt0097441||GLORY||Glory||bio, dra, his, war
-tt21344706||GLORY||The Glory||dra, mys, thr
-tt5994364||GOBLIN||Goblin||com, dra, fan, rom
-tt0068646||GODFATHER||The Godfather||cri, dra
-tt0071562||GODFATHER||The Godfather Part II||cri, dra
-tt0099674||GODFATHER||The Godfather Part III||cri, dra
-tt0088526||GOLDEN GIRLS||The Golden Girls||com
-tt0452623||GONE BABY GONE||Gone Baby Gone||cri, dra, mys, thr
-tt2267998||GONE GIRL||Gone Girl||dra, mys, thr
-tt0031381||GONE WITH THE WIND||Gone with the Wind||dra, rom, war
-tt0119217||GOOD WILL HUNTING||Good Will Hunting||dra, rom
-tt0060196||GOOD, THE BAD AND THE UGLY||The Good, the Bad and the Ugly||wes
-tt0901487||GOOD, THE BAD, THE WEIRD||The Good, the Bad, the Weird||act, adv, com
-tt0031385||GOODBYE, MR. CHIPS||Goodbye, Mr. Chips||dra, rom
-tt0099685||GOODFELLAS||GoodFellas||bio, cri, dra
-tt0089218||GOONIES||The Goonies||adv, com
-tt0061722||GRADUATE||The Graduate||com, dra, rom
-tt1205489||GRAN TORINO||Gran Torino||dra
-tt2278388||GRAND BUDAPEST HOTEL||The Grand Budapest Hotel||adv, com, cri
-tt0028950||GRAND ILLUSION||Grand Illusion||dra, war
-tt0032551||GRAPES OF WRATH||The Grapes of Wrath||dra
-tt0095327||GRAVE OF THE FIREFLIES||Grave of the Fireflies||ani
-tt0077631||GREASE||Grease||mus, rom
-tt0057115||GREAT ESCAPE||The Great Escape||adv, his, war, thr
-tt0038574||GREAT EXPECTATIONS||Great Expectations||adv, dra, mys, rom
-tt0063032||GREAT SILENCE||The Great Silence||wes
-tt6966692||GREEN BOOK||Green Book||bio, com, dra
-tt0342492||GREEN BUTCHERS||The Green Butchers||com, dra
-tt0120689||GREEN MILE||The Green Mile||cri, dra, fan, mys
-tt0087363||GREMLINS||Gremlins||fan
-tt0107048||GROUNDHOG DAY||Groundhog Day||com, fan, rom
-tt0107050||GRUMPY OLD MEN||Grumpy Old Men||com, rom
-tt0061735||GUESS WHO'S COMING TO DINNER||Guess Who's Coming to Dinner||dra
-tt0042530||GUN CRAZY||Gun Crazy||cri, dra, fil
-tt0042531||GUNFIGHTER||The Gunfighter||wes
-tt0054953||GUNS OF NAVARONE||The Guns of Navarone||act, adv, war
-tt1028532||HACHI: A DOG'S TALE||Hachi: A Dog's Tale||bio, dra
-tt2119532||HACKSAW RIDGE||Hacksaw Ridge||bio, dra, his, war
-tt0077651||HALLOWEEN||Halloween||hor
-tt0116477||HAMLET||Hamlet||dra
-tt4016934||HANDMAIDEN||The Handmaiden||dra, rom, thr
-tt1119646||HANGOVER||The Hangover||com
-tt0091167||HANNAH AND HER SISTERS||Hannah and Her Sisters||com, dra
-tt2243973||HANNIBAL||Hannibal||cri, hor, thr
-tt0147612||HAPPINESS||Happiness||com, dra
-tt0070992||HAPPY DAYS||Happy Days||com
-tt0116483||HAPPY GILMORE||Happy Gilmore||com, spo
-tt0056058||HARAKIRI||Harakiri||dra, mys
-tt0104684||HARD BOILED||Hard Boiled||act, cri
-tt0366551||HAROLD & KUMAR||Harold & Kumar Go to White Castle||com
-tt0067185||HAROLD AND MAUDE||Harold and Maude||com, dra, rom
-tt0241527||HARRY POTTER||Harry Potter and the Philosopher's Stone||adv, fan, mys
-tt0295297||HARRY POTTER||Harry Potter and the Chamber of Secrets||adv, fan, mys
-tt0304141||HARRY POTTER||Harry Potter and the Prisoner of Azkaban||adv, fan, mys
-tt0330373||HARRY POTTER||Harry Potter and the Goblet of Fire||adv, fan, mys
-tt0373889||HARRY POTTER||Harry Potter and the Order of the Phoenix||adv, fan, mys
-tt0417741||HARRY POTTER||Harry Potter and the Half-Blood Prince||adv, fan, mys
-tt0926084||HARRY POTTER||Harry Potter and the Deathly Hallows: Part 1||adv, fan, mys
-tt1201607||HARRY POTTER||Harry Potter and the Deathly Hallows: Part 2||adv, fan, mys
-tt0042546||HARVEY||Harvey||com, fan
-tt3460252||HATEFUL EIGHT||The Hateful Eight||cri, mys, wes
-tt0057129||HAUNTING||The Haunting||hor
-tt4284216||HEALER||Healer||act, com, cri
-tt0113277||HEAT||Heat||act, cri
-tt0097493||HEATHERS||Heathers||com, cri
-tt0041452||HEIRESS||The Heiress||dra, rom
-tt2582782||HELL OR HIGH WATER||Hell or High Water||cri, dra
-tt0093177||HELLRAISER||Hellraiser||hor
-tt0119282||HERCULES||Hercules||ani
-tt7784604||HEREDITARY||Hereditary||hor
-tt0299977||HERO||Hero||act, adv
-tt0051808||HIDDEN FORTRESS||The Hidden Fortress||act, adv
-tt0057565||HIGH AND LOW||High and Low||cri, dra, mys
-tt0146882||HIGH FIDELITY||High Fidelity||com, muc, rom
-tt0044706||HIGH NOON||High Noon||wes
-tt0033717||HIGH SIERRA||High Sierra||act, adv, fil
-tt0052893||HIROSHIMA MON AMOUR||Hiroshima Mon Amour||dra, rom
-tt0032599||HIS GIRL FRIDAY||His Girl Friday||com, rom
-tt0399146||HISTORY OF VIOLENCE||A History of Violence||cri, dra, thr
-tt0058812||HOGAN'S HEROES||Hogan's Heroes||com, war
-tt0030241||HOLIDAY||Holiday||com, rom
-tt0034862||HOLIDAY INN||Holiday Inn||mus, rom
-tt0071615||HOLY MOUNTAIN||The Holy Mountain||adv, fan
-tt0099785||HOME ALONE||Home Alone||com
-tt0104431||HOME ALONE||Home Alone 2: Lost in New York||com
-tt14518756||HOMETOWN CHA-CHA-CHA||Hometown Cha-Cha-Cha||com, dra, rom
-tt0042114||HONEYMOONERS||The Honeymooners||com
-tt1499658||HORRIBLE BOSSES||Horrible Bosses||com, cri
-tt11769304||HOSPITAL PLAYLIST||Hospital Playlist||com, dra, rom
-tt0468492||HOST||The Host||hor, sci
-tt0425112||HOT FUZZ||Hot Fuzz||act, com
-tt0412142||HOUSE||House||dra
-tt0385004||HOUSE OF FLYING DAGGERS||House of Flying Daggers||act, adv, rom
-tt11198330||HOUSE OF THE DRAGON||House of the Dragon||act, adv, fan
-tt0033729||HOW GREEN WAS MY VALLEY||How Green Was My Valley||dra
-tt1832668||HOW THE UNIVERSE WORKS||How the Universe Works||doc
-tt0060522||HOW TO STEAL A MILLION||How to Steal a Million||com, cri, rom
-tt0892769||HOW TO TRAIN YOUR DRAGON||How to Train Your Dragon||ani
-tt1646971||HOW TO TRAIN YOUR DRAGON||How to Train Your Dragon 2||ani
-tt0057163||HUD||Hud||dra
-tt0110074||HUDSUCKER PROXY||The Hudsucker Proxy||com, fan
-tt1806234||HUMAN PLANET||Human Planet||doc
-tt2106476||HUNT||The Hunt||dra
-tt4698684||HUNT FOR THE WILDERPEOPLE||Hunt for the Wilderpeople||adv, com, dra
-tt0058213||HUSH... HUSH, SWEET CHARLOTTE||Hush... Hush, Sweet Charlotte||cri, mys, thr
-tt0054997||HUSTLER||The Hustler||dra, spo
-tt0023042||I AM A FUGITIVE FROM A CHAIN GANG||I Am a Fugitive from a Chain Gang||cri, dra, fil
-tt0045897||I CONFESS||I Confess||cri, dra, thr
-tt0043208||I LOVE LUCY||I Love Lucy||com
-tt1155056||I LOVE YOU, MAN||I Love You, Man||com, rom
-tt1588170||I SAW THE DEVIL||I Saw the Devil||act, cri, thr
-tt0046521||I VITELLONI||I Vitelloni||com, dra
-tt0268380||ICE AGE||Ice Age||ani
-tt0044741||IKIRU||Ikiru||dra
-tt0056512||IL SORPASSO||Il Sorpasso||com, dra
-tt2084970||IMITATION GAME||The Imitation Game||bio, dra, war
-tt0052918||IMITATION OF LIFE||Imitation of Life||dra
-tt0042593||IN A LONELY PLACE||In a Lonely Place||dra, fil, mys, rom, thr
-tt0780536||IN BRUGES||In Bruges||com, cri, dra
-tt0061809||IN COLD BLOOD||In Cold Blood||bio, cri, his
-tt0061811||IN THE HEAT OF THE NIGHT||In the Heat of the Night||dra, mys, thr
-tt0118694||IN THE MOOD FOR LOVE||In the Mood for Love||dra, rom
-tt0107207||IN THE NAME OF THE FATHER||In the Name of the Father||bio, cri, dra
-tt1255953||INCENDIES||Incendies||dra, mys, war
-tt1375666||INCEPTION||Inception||act, adv, sci
-tt0317705||INCREDIBLES||The Incredibles||ani
-tt0082971||INDIANA JONES||Indiana Jones and the Raiders of the Lost Ark||act, adv, fan
-tt0087469||INDIANA JONES||Indiana Jones and the Temple of Doom||act, adv, fan
-tt0097576||INDIANA JONES||Indiana Jones and the Last Crusade||act, adv, fan
-tt0338564||INFERNAL AFFAIRS||Infernal Affairs||cri, dra, mys, thr
-tt0361748||INGLOURIOUS BASTERDS||Inglourious Basterds||adv, war
-tt0053946||INHERIT THE WIND||Inherit the Wind||bio, dra, his
-tt0454848||INSIDE MAN||Inside Man||cri, dra, mys
-tt2096673||INSIDE OUT||Inside Out||ani
-tt0140352||INSIDER||The Insider||bio, dra, thr
-tt1591095||INSIDIOUS||Insidious||hor
-tt2226417||INSIDIOUS||Insidious: Chapter 2||hor
-tt0816692||INTERSTELLAR||Interstellar||adv, sci
-tt0758758||INTO THE WILD||Into the Wild||adv, bio, dra
-tt1675434||INTOUCHABLES||The Intouchables||bio, com, dra
-tt0077745||INVASION OF THE BODY SNATCHERS||Invasion of the Body Snatchers||hor, sci
-tt6741278||INVINCIBLE||Invincible||ani
-tt4857264||INVISIBLE GUEST||The Invisible Guest||cri, mys, thr
-tt0024184||INVISIBLE MAN||The Invisible Man||hor, sci
-tt1220719||IP MAN||Ip Man||act, bio
-tt1302006||IRISHMAN||The Irishman||bio, cri, dra
-tt0129167||IRON GIANT||The Iron Giant||ani
-tt0108148||IRON MONKEY||Iron Monkey||act
-tt5104604||ISLE OF DOGS||Isle of Dogs||ani
-tt0487831||IT CROWD||The IT Crowd||com
-tt3235888||IT FOLLOWS||It Follows||hor
-tt0025316||IT HAPPENED ONE NIGHT||It Happened One Night||com, rom
-tt0057193||IT'S A MAD, MAD, MAD, MAD WORLD||It's a Mad, Mad, Mad, Mad World||adv, com
-tt0038650||IT'S A WONDERFUL LIFE||It's a Wonderful Life||dra, fan, rom
-tt0472954||IT'S ALWAYS SUNNY IN PHILADELPHIA||It's Always Sunny in Philadelphia||com
-tt12451520||IT'S OKAY TO NOT BE OKAY||It's Okay to Not Be Okay||com, dra, rom
-tt0056111||IVAN'S CHILDHOOD||Ivan's Childhood||dra, war
-tt0119396||JACKIE BROWN||Jackie Brown||cri, thr
-tt0055928||JAMES BOND||James Bond: Dr. No||act, adv
-tt0057076||JAMES BOND||James Bond: From Russia with Love||act, adv
-tt0058150||JAMES BOND||James Bond: Goldfinger||act, adv
-tt0381061||JAMES BOND||James Bond: Casino Royale||act, adv
-tt1074638||JAMES BOND||James Bond: Skyfall||act, adv
-tt0073195||JAWS||Jaws||adv, thr
-tt0072519||JEFFERSONS||The Jeffersons||com
-tt0068762||JEREMIAH JOHNSON||Jeremiah Johnson||adv, wes
-tt0079367||JERK||The Jerk||com
-tt0116695||JERRY MAGUIRE||Jerry Maguire||dra, rom, spo
-tt0102138||JFK||JFK||dra, his, thr
-tt2911666||JOHN WICK||John Wick||act, cri
-tt4425200||JOHN WICK||John Wick: Chapter 2||act, cri
-tt6146586||JOHN WICK||John Wick: Chapter 3 - Parabellum||act, cri
-tt10366206||JOHN WICK||John Wick: Chapter 4||act, cri
-tt0047136||JOHNNY GUITAR||Johnny Guitar||wes
-tt0260991||JOINT SECURITY AREA||Joint Security Area||act, thr, war
-tt2584384||JOJO RABBIT||Jojo Rabbit||com, dra, war
-tt7286456||JOKER||Joker||cri, thr
-tt0055031||JUDGMENT AT NUREMBERG||Judgment at Nuremberg||dra, war
-tt0055032||JULES AND JIM||Jules and Jim||dra, rom
-tt0061852||JUNGLE BOOK||The Jungle Book||ani
-tt0467406||JUNO||Juno||com, dra
-tt0107290||JURASSIC PARK||Jurassic Park||act, adv, sci, thr
-tt0080979||KAGEMUSHA||Kagemusha||dra, his, war
-tt0087538||KARATE KID||The Karate Kid||dra, spo
-tt0065938||KELLY'S HEROES||Kelly's Heroes||adv, war
-tt0064541||KES||Kes||dra
-tt0040506||KEY LARGO||Key Largo||cri, dra, fil, thr
-tt1250777||KICK-ASS||Kick-Ass||act, com
-tt0060584||KIDNAPPING, CAUCASIAN STYLE||Kidnapping, Caucasian Style||adv, mus, rom
-tt0097814||KIKI'S DELIVERY SERVICE||Kiki's Delivery Service||ani
-tt0199683||KIKUJIRO||Kikujiro||dra, com
-tt0266697||KILL BILL||Kill Bill: Vol. 1||act
-tt0378194||KILL BILL||Kill Bill: Vol. 2||act
-tt0097202||KILLER||The Killer||act, cri
-tt0038669||KILLERS||The Killers||cri, dra, fil, mys
-tt0049406||KILLING||The Killing||cri, dra, fil, thr
-tt0087553||KILLING FIELDS||The Killing Fields||bio, dra, his, war
-tt5715874||KILLING OF A SACRED DEER||The Killing of a Sacred Deer||hor
-tt0041546||KIND HEARTS AND CORONETS||Kind Hearts and Coronets||com, cri
-tt0099938||KINDERGARTEN COP||Kindergarten Cop||act, com
-tt0049408||KING AND I||The King and I||bio, mus, rom
-tt0085794||KING OF COMEDY||The King of Comedy||com, cri, dra
-tt0165581||KING OF QUEENS||The King of Queens||com
-tt1504320||KING'S SPEECH||The King's Speech||bio, dra, his
-tt6611916||KINGDOM||Kingdom||act, hor
-tt0116778||KINGPIN||Kingpin||com, spo
-tt2802144||KINGSMAN: THE SECRET SERVICE||Kingsman: The Secret Service||act, adv, com
-tt0373469||KISS KISS BANG BANG||Kiss Kiss Bang Bang||com, cri, mys, thr
-tt0048261||KISS ME DEADLY||Kiss Me Deadly||cri, fil, mys
-tt4729430||KLAUS||Klaus||ani
-tt8946378||KNIVES OUT||Knives Out||com, cri, mys
-tt0478311||KNOCKED UP||Knocked Up||com, rom
-tt0079417||KRAMER VS. KRAMER||Kramer vs. Kramer||dra
-tt4302938||KUBO AND THE TWO STRINGS||Kubo and the Two Strings||ani
-tt0373074||KUNG FU HUSTLE||Kung Fu Hustle||act, com, fan
-tt0441773||KUNG FU PANDA||Kung Fu Panda||ani
-tt0058279||KWAIDAN||Kwaidan||fan, hor
-tt0024844||L'ATALANTE||L'Atalante||com, dra, rom
-tt0053619||L'AVVENTURA||L'Avventura||dra, mys, rom
-tt0056736||L'ECLISSE||L'Eclisse||dra, rom
-tt0119488||L.A. CONFIDENTIAL||L.A. Confidential||cri, mys, thr
-tt0093378||LA BAMBA||La Bamba||bio, dra, muc
-tt0053779||LA DOLCE VITA||La Dolce Vita||com, dra
-tt3783958||LA LA LAND||La La Land||com, dra, muc, mus, rom
-tt0054130||LA NOTTE||La Notte||dra
-tt0047528||LA STRADA||La Strada||dra
-tt0091369||LABYRINTH||Labyrinth||adv, fan, mus
-tt0048280||LADY AND THE TRAMP||Lady and the Tramp||ani
-tt4925292||LADY BIRD||Lady Bird||com, dra
-tt0033804||LADY EVE||The Lady Eve||com, rom
-tt0040525||LADY FROM SHANGHAI||The Lady from Shanghai||cri, fil, mys, thr
-tt0158714||LADY SNOWBLOOD||Lady Snowblood||act, cri, thr
-tt0030341||LADY VANISHES||The Lady Vanishes||mys, thr
-tt0451094||LADY VENGEANCE||Lady Vengeance||cri, dra, thr
-tt0048281||LADYKILLERS||The Ladykillers||com, cri
-tt0095489||LAND BEFORE TIME||The Land Before Time||ani
-tt3841424||LAND OF MINE||Land of Mine||dra, his, war
-tt0070290||LAST DETAIL||The Last Detail||com, dra
-tt0093389||LAST EMPEROR||The Last Emperor||bio, dra, his
-tt0015064||LAST LAUGH||The Last Laugh||dra
-tt0104691||LAST OF THE MOHICANS||The Last of the Mohicans||act, adv, dra, rom, war
-tt3581920||LAST OF US||The Last of Us||act, adv, hor, sci
-tt0067328||LAST PICTURE SHOW||The Last Picture Show||dra, rom
-tt0087597||LAST STARFIGHTER||The Last Starfighter||act, adv, sci
-tt0054632||LAST YEAR AT MARIENBAD||Last Year at Marienbad||dra, mys
-tt0041154||LATE SPRING||Late Spring||dra
-tt0037008||LAURA||Laura||dra, fil, mys
-tt0022994||LAUREL & HARDY||Laurel & Hardy: Helpmates||com
-tt0023251||LAUREL & HARDY||Laurel & Hardy: The Music Box||com
-tt0023858||LAUREL & HARDY||Laurel & Hardy: Busy Bodies||com
-tt0024601||LAUREL & HARDY||Laurel & Hardy: Sons of the Desert||com
-tt0029747||LAUREL & HARDY||Laurel & Hardy: Way Out West||com, wes
-tt0044829||LAVENDER HILL MOB||The Lavender Hill Mob||com, cri
-tt0056172||LAWRENCE OF ARABIA||Lawrence of Arabia||adv, bio, dra, war
-tt0065531||LE CERCLE ROUGE||Le Cercle Rouge||cri, thr
-tt0035753||LE CORBEAU||Le Corbeau||cri, dra, mys, thr
-tt0062229||LE SAMOURAI||Le Samouraï||cri, dra, thr
-tt0054407||LE TROU||Le Trou||cri, dra, thr
-tt0104694||LEAGUE OF THEIR OWN||A League of Their Own||com, dra, spo
-tt0050032||LEAVE IT TO BEAVER||Leave It to Beaver||com
-tt0113627||LEAVING LAS VEGAS||Leaving Las Vegas||dra, rom
-tt0110413||LEON: THE PROFESSIONAL||Léon: The Professional||act, cri
-tt0057091||LEOPARD||The Leopard||dra, his
-tt1139797||LET THE RIGHT ONE IN||Let the Right One In||fan, hor
-tt0093409||LETHAL WEAPON||Lethal Weapon||act, cri
-tt0097733||LETHAL WEAPON||Lethal Weapon 2||act, cri
-tt0104714||LETHAL WEAPON||Lethal Weapon 3||act, cri
-tt0032701||LETTER||The Letter||cri, dra, fil, mys
-tt0040536||LETTER FROM AN UNKNOWN WOMAN||Letter from an Unknown Woman||dra, rom
-tt0041587||LETTER TO THREE WIVES||A Letter to Three Wives||com, dra, rom
-tt4647692||LETTERKENNY||Letterkenny||com
-tt0498380||LETTERS FROM IWO JIMA||Letters from Iwo Jima||his, war
-tt0119528||LIAR LIAR||Liar Liar||com, fan
-tt0027884||LIBELED LADY||Libeled Lady||com, rom
-tt1533395||LIFE||Life||doc
-tt0036112||LIFE AND DEATH OF COLONEL BLIMP||The Life and Death of Colonel Blimp||dra, rom, war
-tt0362270||LIFE AQUATIC WITH STEVE ZISSOU||The Life Aquatic with Steve Zissou||adv, com, dra
-tt1181716||LIFE IN COLD BLOOD||Life in Cold Blood||doc
-tt0760222||LIFE IN THE UNDERGROWTH||Life in the Undergrowth||doc
-tt0118799||LIFE IS BEAUTIFUL||Life Is Beautiful||dra, rom, war
-tt0175394||LIFE OF BIRDS||The Life of Birds||doc
-tt0364174||LIFE OF MAMMALS||The Life of Mammals||doc
-tt0037017||LIFEBOAT||Lifeboat||dra, war
-tt7984734||LIGHTHOUSE||The Lighthouse||fan, hor, mys
-tt0057251||LILIES OF THE FIELD||Lilies of the Field||dra
-tt0275847||LILO & STITCH||Lilo & Stitch||ani
-tt0063227||LION IN WINTER||The Lion in Winter||bio, dra, his
-tt0110357||LION KING||The Lion King||ani
-tt0065988||LITTLE BIG MAN||Little Big Man||adv, wes
-tt0033836||LITTLE FOXES||The Little Foxes||dra, rom
-tt0097757||LITTLE MERMAID||The Little Mermaid||ani
-tt0449059||LITTLE MISS SUNSHINE||Little Miss Sunshine||com, dra
-tt0091419||LITTLE SHOP OF HORRORS||Little Shop of Horrors||com, sci, mus
-tt3281548||LITTLE WOMEN||Little Women||dra, rom
-tt0405094||LIVES OF OTHERS||The Lives of Others||dra, mys, thr
-tt0063350||LIVING DEAD||Living Dead: Night of the Living Dead||hor
-tt0077402||LIVING DEAD||Living Dead: Dawn of the Dead||hor
-tt0088993||LIVING DEAD||Living Dead: Day of the Dead||hor
-tt0416960||LIZARD||The Lizard||com, dra
-tt0120735||LOCK, STOCK AND TWO SMOKING BARRELS||Lock, Stock and Two Smoking Barrels||com, cri
-tt0056193||LOLITA||Lolita||cri, dra, rom
-tt0056195||LONELY ARE THE BRAVE||Lonely Are the Brave||wes
-tt0056197||LONGEST DAY||The Longest Day||his, war
-tt0120737||LORD OF THE RINGS||The Lord of the Rings: The Fellowship of the Ring||act, adv, fan
-tt0167261||LORD OF THE RINGS||The Lord of the Rings: The Two Towers||act, adv, fan
-tt0167260||LORD OF THE RINGS||The Lord of the Rings: The Return of the King||act, adv, fan
-tt0399295||LORD OF WAR||Lord of War||cri, dra
-tt0093437||LOST BOYS||The Lost Boys||com, fan
-tt0116922||LOST HIGHWAY||Lost Highway||mys, thr
-tt0029162||LOST HORIZON||Lost Horizon||adv, fan, mys
-tt0037884||LOST WEEKEND||The Lost Weekend||dra, fil
-tt0425210||LUCKY NUMBER SLEVIN||Lucky Number Slevin||cri, dra, thr
-tt0022100||M||M||cri, mys, thr
-tt0066026||M*A*S*H||M*A*S*H||com, dra, war
-tt0068098||M*A*S*H||M*A*S*H||com, dra, war
-tt0082694||MAD MAX||Mad Max: The Road Warrior||act, adv, sci
-tt1392190||MAD MAX||Mad Max: Fury Road||act, adv, sci
-tt0804503||MAD MEN||Mad Men||dra
-tt0054047||MAGNIFICENT SEVEN||The Magnificent Seven||act, adv, wes
-tt0175880||MAGNOLIA||Magnolia||dra
-tt0029192||MAKE WAY FOR TOMORROW||Make Way for Tomorrow||dra, rom
-tt0212671||MALCOLM IN THE MIDDLE||Malcolm in the Middle||com
-tt0033870||MALTESE FALCON||The Maltese Falcon||cri, fil, mys
-tt0795421||MAMMA MIA||Mamma Mia!||mus, rom
-tt6911608||MAMMA MIA||Mamma Mia! Here We Go Again||mus, rom
-tt4080728||MAN CALLED OVE||A Man Called Ove||com, dra, rom
-tt0049902||MAN ESCAPED||A Man Escaped||thr, war
-tt0060665||MAN FOR ALL SEASONS||A Man for All Seasons||bio, dra, his
-tt1527788||MAN FROM NOWHERE||The Man from Nowhere||act, cri
-tt0049470||MAN WHO KNEW TOO MUCH||The Man Who Knew Too Much||dra, thr
-tt0056217||MAN WHO SHOT LIBERTY VALANCE||The Man Who Shot Liberty Valance||dra, wes
-tt0073341||MAN WHO WOULD BE KING||The Man Who Would Be King||adv, war
-tt4034228||MANCHESTER BY THE SEA||Manchester by the Sea||dra
-tt0056218||MANCHURIAN CANDIDATE||The Manchurian Candidate||dra, thr
-tt0079522||MANHATTAN||Manhattan||com, dra, rom
-tt0074860||MARATHON MAN||Marathon Man||cri, thr
-tt7653254||MARRIAGE STORY||Marriage Story||dra, rom
-tt0092400||MARRIED... WITH CHILDREN||Married... with Children||com
-tt3659388||MARTIAN||The Martian||adv, sci
-tt0048356||MARTY||Marty||dra, rom
-tt1029234||MARTYRS||Martyrs||hor
-tt3322312||MARVEL||Marvel's Daredevil||act, cri
-tt9140554||MARVEL||Marvel's Loki||act, adv, fan, sci
-tt5788792||MARVELOUS MRS. MAISEL||The Marvelous Mrs. Maisel||com, dra
-tt0020640||MARX BROTHERS||Marx Brothers: Animal Crackers||com
-tt0022158||MARX BROTHERS||Marx Brothers: Monkey Business||com
-tt0023027||MARX BROTHERS||Marx Brothers: Horse Feathers||com
-tt0023969||MARX BROTHERS||Marx Brothers: Duck Soup||com
-tt0026778||MARX BROTHERS||Marx Brothers: A Night at the Opera||com
-tt0028772||MARX BROTHERS||Marx Brothers: A Day at the Races||com
-tt0978762||MARY AND MAX||Mary and Max||ani
-tt0058331||MARY POPPINS||Mary Poppins||fan, mus
-tt0065314||MARY TYLER MOORE SHOW||The Mary Tyler Moore Show||com
-tt0117008||MATILDA||Matilda||com, fan
-tt0133093||MATRIX||The Matrix||act, sci
-tt2582496||ME AND EARL AND THE DYING GIRL||Me and Earl and the Dying Girl||com, dra, rom
-tt0377092||MEAN GIRLS||Mean Girls||com
-tt0033891||MEET JOHN DOE||Meet John Doe||com, dra, rom
-tt0037059||MEET ME IN ST. LOUIS||Meet Me in St. Louis||mus
-tt0212338||MEET THE PARENTS||Meet the Parents||com, rom
-tt0290002||MEET THE PARENTS||Meet the Fockers||com, rom
-tt0209144||MEMENTO||Memento||mys, thr
-tt0353969||MEMORIES OF MURDER||Memories of Murder||cri, dra, mys, thr
-tt0119654||MEN IN BLACK||Men in Black||act, adv, com, sci
-tt9764362||MENU||The Menu||hor
-tt0064665||MIDNIGHT COWBOY||Midnight Cowboy||dra
-tt1605783||MIDNIGHT IN PARIS||Midnight in Paris||com, fan, rom
-tt0095631||MIDNIGHT RUN||Midnight Run||act, com
-tt8772262||MIDSOMMAR||Midsommar||hor
-tt0037913||MILDRED PIERCE||Mildred Pierce||cri, dra, fil, mys
-tt0100150||MILLER'S CROSSING||Miller's Crossing||cri, dra
-tt0405159||MILLION DOLLAR BABY||Million Dollar Baby||dra, spo
-tt0181689||MINORITY REPORT||Minority Report||act, mys, sci
-tt2659414||MIRACLE IN CELL NO. 7||Miracle in Cell No. 7||com, dra
-tt0039628||MIRACLE ON 34TH STREET||Miracle on 34th Street||com, dra
-tt0056241||MIRACLE WORKER||The Miracle Worker||bio, dra
-tt0072443||MIRROR||Mirror||bio, dra
-tt0100157||MISERY||Misery||thr
-tt0084335||MISSING||Missing||bio, dra, his, mys
-tt1229238||MISSION: IMPOSSIBLE||Mission: Impossible - Ghost Protocol||act, adv
-tt2381249||MISSION: IMPOSSIBLE||Mission: Impossible - Rogue Nation||act, adv
-tt4912910||MISSION: IMPOSSIBLE||Mission: Impossible - Fallout||act, adv
-tt0095647||MISSISSIPPI BURNING||Mississippi Burning||cri, dra, mys
-tt0884328||MIST||The Mist||hor, sci
-tt0048380||MISTER ROBERTS||Mister Roberts||com, dra, war
-tt7979580||MITCHELLS VS. THE MACHINES||The Mitchells vs. the Machines||ani
-tt3521164||MOANA||Moana||ani
-tt1442437||MODERN FAMILY||Modern Family||com
-tt0050706||MON ONCLE||Mon Oncle||com
-tt0091541||MONEY PIT||The Money Pit||com
-tt0198781||MONSTERS, INC.||Monsters, Inc.||ani
-tt0071853||MONTY PYTHON||Monty Python and the Holy Grail||adv, com, fan
-tt0079470||MONTY PYTHON||Monty Python's Life of Brian||com
-tt0063929||MONTY PYTHON||Monty Python's Flying Circus||com
-tt1182345||MOON||Moon||mys, sci
-tt1748122||MOONRISE KINGDOM||Moonrise Kingdom||com, dra, rom
-tt0093565||MOONSTRUCK||Moonstruck||com, dra, rom
-tt1216496||MOTHER||Mother||cri, dra
-tt13634792||MOUSE||Mouse||act, cri, mys, sci
-tt11052470||MOVE TO HEAVEN||Move to Heaven||dra
-tt0096657||MR. BEAN||Mr. Bean||com
-tt0027996||MR. DEEDS GOES TO TOWN||Mr. Deeds Goes to Town||com, dra, rom
-tt0085970||MR. MOM||Mr. Mom||com, dra
-tt0485947||MR. NOBODY||Mr. Nobody||fan, rom, sci
-tt13400006||MR. QUEEN||Mr. Queen||com, fan, rom
-tt0031679||MR. SMITH GOES TO WASHINGTON||Mr. Smith Goes to Washington||com, dra
-tt7094780||MR. SUNSHINE||Mr. Sunshine||act, rom, war
-tt0107614||MRS. DOUBTFIRE||Mrs. Doubtfire||com
-tt0035093||MRS. MINIVER||Mrs. Miniver||dra, rom, war
-tt0120762||MULAN||Mulan||ani
-tt0166924||MULHOLLAND DRIVE||Mulholland Drive||dra, mys, thr
-tt0120616||MUMMY||The Mummy||act, adv, fan
-tt0057773||MUNSTERS||The Munsters||com, fan
-tt0079588||MUPPET||The Muppet Movie||com
-tt0104940||MUPPET||The Muppet Christmas Carol||com, fan
-tt0074028||MUPPET||The Muppet Show||com
-tt0037101||MURDER, MY SWEET||Murder, My Sweet||cri, fil, mys, thr
-tt0056262||MUSIC MAN||The Music Man||com, mus, rom
-tt0026752||MUTINY ON THE BOUNTY||Mutiny on the Bounty||adv, bio, his
-tt0104952||MY COUSIN VINNY||My Cousin Vinny||com, cri
-tt0038762||MY DARLING CLEMENTINE||My Darling Clementine||dra, rom, wes
-tt0058385||MY FAIR LADY||My Fair Lady||mus, rom
-tt0097937||MY LEFT FOOT||My Left Foot||bio, dra
-tt0028010||MY MAN GODFREY||My Man Godfrey||com, dra, rom
-tt7923710||MY MISTER||My Mister||dra
-tt0096283||MY NEIGHBOR TOTORO||My Neighbor Totoro||ani
-tt0064612||MY NIGHT AT MAUD'S||My Night at Maud's||com, dra, rom
-tt0293715||MY SASSY GIRL||My Sassy Girl||com, dra, rom
-tt0327056||MYSTIC RIVER||Mystic River||cri, dra, mys, thr
-tt0040636||NAKED CITY||The Naked City||cri, fil, mys
-tt0095705||NAKED GUN||The Naked Gun: From the Files of Police Squad!||com, cri
-tt0396752||NANNY MCPHEE||Nanny McPhee||com, fan
-tt2707408||NARCOS||Narcos||cri, dra
-tt2297757||NATHAN FOR YOU||Nathan For You||com
-tt0077975||NATIONAL LAMPOON'S ANIMAL HOUSE||National Lampoon's Animal House||com
-tt0085995||NATIONAL LAMPOON'S VACATION||National Lampoon's Vacation||com
-tt0097958||NATIONAL LAMPOON'S VACATION||National Lampoon's Christmas Vacation||com
-tt0087544||NAUSICAA OF THE VALLEY OF THE WIND||Nausicaä of the Valley of the Wind||ani
-tt0074958||NETWORK||Network||dra
-tt0088323||NEVERENDING STORY||The NeverEnding Story||adv, fan
-tt3799694||NICE GUYS||The Nice Guys||act, com, cri
-tt0042788||NIGHT AND THE CITY||Night and the City||cri, fil, spo
-tt0086770||NIGHT COURT||Night Court||com
-tt0091630||NIGHT OF THE CREEPS||Night of the Creeps||com, hor
-tt0048424||NIGHT OF THE HUNTER||The Night of the Hunter||cri, fil, thr
-tt0058404||NIGHT OF THE IGUANA||The Night of the Iguana||dra
-tt0102536||NIGHT ON EARTH||Night on Earth||com, dra
-tt0051994||NIGHT TO REMEMBER||A Night to Remember||dra, his
-tt2872718||NIGHTCRAWLER||Nightcrawler||cri, thr
-tt0039661||NIGHTMARE ALLEY||Nightmare Alley||fil
-tt0107688||NIGHTMARE BEFORE CHRISTMAS||The Nightmare Before Christmas||ani
-tt0087800||NIGHTMARE ON ELM STREET||A Nightmare on Elm Street||hor
-tt0093629||NIGHTMARE ON ELM STREET||A Nightmare on Elm Street: Dream Warriors||hor
-tt0111686||NIGHTMARE ON ELM STREET||A Nightmare on Elm Street: New Nightmare||hor
-tt0050783||NIGHTS OF CABIRIA||Nights of Cabiria||dra
-tt0031725||NINOTCHKA||Ninotchka||com, rom
-tt0477348||NO COUNTRY FOR OLD MEN||No Country for Old Men||cri, thr
-tt0283509||NO MAN'S LAND||No Man's Land||war, com, dra
-tt0408664||NOBODY KNOWS||Nobody Knows||dra
-tt0053125||NORTH BY NORTHWEST||North by Northwest||act, adv, mys, thr
-tt0332280||NOTEBOOK||The Notebook||dra, rom
-tt0038787||NOTORIOUS||Notorious||dra, fil, rom, thr
-tt0035140||NOW, VOYAGER||Now, Voyager||dra, rom
-tt0053131||NUN'S STORY||The Nun's Story||dra
-tt0190590||O BROTHER, WHERE ART THOU?||O Brother, Where Art Thou?||adv, com, cri, muc
-tt0240772||OCEAN'S ELEVEN||Ocean's Eleven||cri
-tt0132477||OCTOBER SKY||October Sky||bio, dra
-tt0063374||ODD COUPLE||The Odd Couple||com
-tt0290978||OFFICE||The Office (UK)||com
-tt0386676||OFFICE||The Office (US)||com
-tt0151804||OFFICE SPACE||Office Space||com
-tt0302886||OLD SCHOOL||Old School||com
-tt0364569||OLDBOY||Oldboy||act, mys, thr
-tt0063385||OLIVER!||Oliver!||dra, mus
-tt0075005||OMEN||The Omen||hor, mys
-tt0082846||ON GOLDEN POND||On Golden Pond||dra
-tt0041716||ON THE TOWN||On the Town||mus, rom
-tt0047296||ON THE WATERFRONT||On the Waterfront||cri, dra
-tt0087843||ONCE UPON A TIME IN AMERICA||Once Upon a Time in America||cri, dra
-tt7131622||ONCE UPON A TIME IN HOLLYWOOD||Once Upon a Time in Hollywood||com, dra
-tt0064116||ONCE UPON A TIME IN THE WEST||Once Upon a Time in the West||wes
-tt0110729||ONCE WERE WARRIORS||Once Were Warriors||cri, dra
-tt7914416||ONE CUT OF THE DEAD||One Cut of the Dead||hor
-tt0073486||ONE FLEW OVER THE CUCKOO'S NEST||One Flew Over the Cuckoo's Nest||dra
-tt0055254||ONE HUNDRED AND ONE DALMATIANS||One Hundred and One Dalmatians||ani
-tt11737520||ONE PIECE||One Piece||act, adv
-tt7651892||ONE STRANGE ROCK||One Strange Rock||doc
-tt0055256||ONE, TWO, THREE||One, Two, Three||com
-tt0031762||ONLY ANGELS HAVE WINGS||Only Angels Have Wings||adv, dra, rom
-tt0081912||ONLY FOOLS AND HORSES||Only Fools and Horses||com
-tt11691774||ONLY MURDERS IN THE BUILDING||Only Murders in the Building||com, cri, mys
-tt0316356||OPEN RANGE||Open Range||wes
-tt0125659||OPEN YOUR EYES||Open Your Eyes||dra, mys, sci
-tt0099558||OPERATION CONDOR||Operation Condor||act, adv
-tt15398776||OPPENHEIMER||Oppenheimer||bio, dra, his
-tt0048452||ORDET||Ordet||dra
-tt0081283||ORDINARY PEOPLE||Ordinary People||dra
-tt0464141||ORPHANAGE||The Orphanage||hor, mys
-tt0041719||ORPHEUS||Orpheus||dra, fan, rom
-tt1386588||OTHER GUYS||The Other Guys||act, com
-tt9253866||OUR PLANET||Our Planet||doc
-tt0039689||OUT OF THE PAST||Out of the Past||cri, dra, fil
-tt0056777||OUTER LIMITS||The Outer Limits||fan, hor, sci
-tt0075029||OUTLAW JOSEY WALES||The Outlaw Josey Wales||wes
-tt0086066||OUTSIDERS||The Outsiders||cri, dra
-tt0093693||OVERBOARD||Overboard||com, rom
-tt0036244||OX-BOW INCIDENT||The Ox-Bow Incident||dra, wes
-tt9484998||PALM SPRINGS||Palm Springs||com, fan, rom
-tt0457430||PAN'S LABYRINTH||Pan's Labyrinth||dra, fan, war
-tt0070510||PAPER MOON||Paper Moon||com, cri, dra
-tt0070511||PAPILLON||Papillon||bio, cri, dra
-tt6751668||PARASITE||Parasite||dra, thr
-tt0098067||PARENTHOOD||Parenthood||com, dra
-tt0087884||PARIS, TEXAS||Paris, Texas||dra
-tt1266020||PARKS AND RECREATION||Parks and Recreation||com
-tt0063415||PARTY||The Party||com
-tt0019254||PASSION OF JOAN OF ARC||The Passion of Joan of Arc||bio, dra, his
-tt13238346||PAST LIVES||Past Lives||dra, rom
-tt0059573||PATCH OF BLUE||A Patch of Blue||dra, rom
-tt0050825||PATHS OF GLORY||Paths of Glory||dra, war
-tt0066206||PATTON||Patton||bio, war
-tt1092026||PAUL||Paul||adv, com, sci
-tt13146488||PEACEMAKER||Peacemaker||act, adv, com, fan, sci
-tt2442560||PEAKY BLINDERS||Peaky Blinders||cri, dra
-tt0387764||PEEP SHOW||Peep Show||com
-tt0054167||PEEPING TOM||Peeping Tom||thr
-tt0156887||PERFECT BLUE||Perfect Blue||ani
-tt0107808||PERFECT WORLD||A Perfect World||cri, dra
-tt1659337||PERKS OF BEING A WALLFLOWER||The Perks of Being a Wallflower||dra
-tt0060827||PERSONA||Persona||dra, thr
-tt0098084||PET SEMATARY||Pet Sematary||hor
-tt0046183||PETER PAN||Peter Pan||ani
-tt0028096||PETRIFIED FOREST||The Petrified Forest||dra, thr
-tt0107818||PHILADELPHIA||Philadelphia||dra
-tt0032904||PHILADELPHIA STORY||The Philadelphia Story||com, rom
-tt0253474||PIANIST||The Pianist||bio, dra, muc, war
-tt0053168||PICKPOCKET||Pickpocket||cri, dra
-tt0046187||PICKUP ON SOUTH STREET||Pickup on South Street||cri, fil, mys
-tt0037988||PICTURE OF DORIAN GRAY||The Picture of Dorian Gray||fan, mys, thr
-tt0053172||PILLOW TALK||Pillow Talk||com, rom
-tt0073000||PINCHCLIFFE GRAND PRIX||The Pinchcliffe Grand Prix||ani
-tt0032910||PINOCCHIO||Pinocchio||ani
-tt0325980||PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: The Curse of the Black Pearl||act, adv, fan
-tt0383574||PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: Dead Man's Chest||act, adv, fan
-tt0449088||PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: At World's End||act, adv, fan
-tt1981677||PITCH PERFECT||Pitch Perfect||com, muc, rom
-tt0043924||PLACE IN THE SUN||A Place in the Sun||dra, rom
-tt0093748||PLANES, TRAINS AND AUTOMOBILES||Planes, Trains and Automobiles||com
-tt0795176||PLANET EARTH||Planet Earth||doc
-tt5491994||PLANET EARTH||Planet Earth II||doc
-tt0063442||PLANET OF THE APES||Planet of the Apes||adv, sci
-tt1318514||PLANET OF THE APES||Planet of the Apes: Rise of the Planet of the Apes||act, adv, sci
-tt2103281||PLANET OF THE APES||Planet of the Apes: Dawn of the Planet of the Apes||act, adv, sci
-tt3450958||PLANET OF THE APES||Planet of the Apes: War for the Planet of the Apes||act, adv, sci
-tt10394800||PLANETS||The Planets||doc
-tt0091763||PLATOON||Platoon||dra, war
-tt0062136||PLAYTIME||PlayTime||com
-tt0120789||PLEASANTVILLE||Pleasantville||fan
-tt0102685||POINT BREAK||Point Break||act, cri
-tt0087928||POLICE ACADEMY||Police Academy||com
-tt0089374||POLICE STORY||Police Story||act, com
-tt0095403||POLICE STORY||Police Story 2||act, com
-tt0084516||POLTERGEIST||Poltergeist||hor
-tt0876563||PONYO||Ponyo||ani
-tt3960412||POPSTAR: NEVER STOP NEVER STOPPING||Popstar: Never Stop Never Stopping||com, muc
-tt0104652||PORCO ROSSO||Porco Rosso||ani
-tt8613070||PORTRAIT OF A LADY ON FIRE||Portrait of a Lady on Fire||dra, rom
-tt0038854||POSTMAN ALWAYS RINGS TWICE||The Postman Always Rings Twice||cri, fil, mys
-tt0430484||POWER OF NIGHTMARES||The Power of Nightmares||doc
-tt0093773||PREDATOR||Predator||act, adv, hor, sci
-tt11866324||PREDATOR||Predator: Prey||act, adv, hor, sci
-tt10324164||PREHISTORIC PLANET||Prehistoric Planet||doc
-tt0482571||PRESTIGE||The Prestige||mys, sci, thr
-tt0100405||PRETTY WOMAN||Pretty Woman||com, rom
-tt0414387||PRIDE & PREJUDICE||Pride & Prejudice||dra, rom
-tt0035211||PRIDE OF THE YANKEES||The Pride of the Yankees||bio, dra, rom, spo
-tt0117381||PRIMAL FEAR||Primal Fear||cri, mys, thr
-tt0093779||PRINCESS BRIDE||The Princess Bride||adv, com, fan, rom
-tt0119698||PRINCESS MONONOKE||Princess Mononoke||ani
-tt0061287||PRISONER||The Prisoner||mys, sci
-tt1392214||PRISONERS||Prisoners||cri, dra
-tt0063462||PRODUCERS||The Producers||com, muc
-tt0085127||PROJECT A||Project A||act, com
-tt0092501||PROJECT A||Project A 2||act, com
-tt9620292||PROMISING YOUNG WOMAN||Promising Young Woman||cri, dra, mys, thr
-tt1235166||PROPHET||A Prophet||cri, dra
-tt0054215||PSYCHO||Psycho||hor, thr
-tt0022286||PUBLIC ENEMY||The Public Enemy||cri, dra
-tt0110912||PULP FICTION||Pulp Fiction||cri
-tt0272338||PUNCH-DRUNK LOVE||Punch-Drunk Love||com, dra, rom
-tt0054189||PURPLE NOON||Purple Noon||cri, dra, thr
-tt0089853||PURPLE ROSE OF CAIRO||The Purple Rose of Cairo||com, fan, rom
-tt0117407||PUSHER||Pusher||cri, thr
-tt0396184||PUSHER||Pusher II||cri, thr
-tt0425379||PUSHER||Pusher III||cri, thr
-tt0030637||PYGMALION||Pygmalion||com, dra, rom
-tt0045061||QUIET MAN||The Quiet Man||com, dra, rom
-tt6644200||QUIET PLACE||A Quiet Place||hor, sci
-tt8332922||QUIET PLACE||A Quiet Place Part II||hor, sci
-tt0081398||RAGING BULL||Raging Bull||bio, dra, spo
-tt1899353||RAID||The Raid||act
-tt2265171||RAID||The Raid 2||act
-tt0095953||RAIN MAN||Rain Man||dra
-tt0101640||RAISE THE RED LANTERN||Raise the Red Lantern||dra, rom
-tt0055353||RAISIN IN THE SUN||A Raisin in the Sun||dra
-tt0093822||RAISING ARIZONA||Raising Arizona||com, cri
-tt0083944||RAMBO||Rambo: First Blood||act, adv
-tt0089880||RAMBO||Rambo: First Blood Part II||act, adv
-tt0089881||RAN||Ran||war
-tt0035238||RANDOM HARVEST||Random Harvest||dra, rom
-tt0042876||RASHOMON||Rashomon||cri, mys
-tt0382932||RATATOUILLE||Ratatouille||ani
-tt0089885||RE-ANIMATOR||Re-Animator||hor, sci
-tt7798634||READY OR NOT||Ready or Not||hor
-tt0047396||REAR WINDOW||Rear Window||mys, thr
-tt0032976||REBECCA||Rebecca||dra, fil, mys
-tt0048545||REBEL WITHOUT A CAUSE||Rebel Without a Cause||dra
-tt1038988||REC||REC||hor
-tt0058888||RED BEARD||Red Beard||dra
-tt0040724||RED RIVER||Red River||dra, wes
-tt0040725||RED SHOES||The Red Shoes||dra, muc
-tt10802170||REHEARSAL||The Rehearsal||com
-tt0107943||REMAINS OF THE DAY||The Remains of the Day||dra, rom
-tt5182866||REPLY 1988||Reply 1988||com, dra
-tt0059646||REPULSION||Repulsion||thr
-tt0180093||REQUIEM FOR A DREAM||Requiem for a Dream||dra
-tt0105236||RESERVOIR DOGS||Reservoir Dogs||cri
-tt0089907||RETURN OF THE LIVING DEAD||The Return of the Living Dead||hor
-tt1663202||REVENANT||The Revenant||adv, wes
-tt2861424||RICK AND MORTY||Rick and Morty||ani
-tt0056412||RIDE THE HIGH COUNTRY||Ride the High Country||wes
-tt11655202||RIDERS OF JUSTICE||Riders of Justice||act, dra
-tt0048021||RIFIFI||Rififi||cri, dra
-tt0086197||RIGHT STUFF||The Right Stuff||adv, bio, dra, his
-tt0298130||RING||The Ring||hor, mys
-tt0053221||RIO BRAVO||Rio Bravo||wes
-tt0257044||ROAD TO PERDITION||Road to Perdition||cri, thr
-tt0031867||ROARING TWENTIES||The Roaring Twenties||cri, dra, fil
-tt0070608||ROBIN HOOD||Robin Hood||ani
-tt0093870||ROBOCOP||RoboCop||act, sci
-tt0054248||ROCCO AND HIS BROTHERS||Rocco and His Brothers||cri, dra, spo
-tt0117500||ROCK||The Rock||act
-tt0075148||ROCKY||Rocky||dra, spo
-tt0079817||ROCKY||Rocky II||dra, spo
-tt0084602||ROCKY||Rocky III||dra, spo
-tt0089927||ROCKY||Rocky IV||dra, spo
-tt0479143||ROCKY||Rocky Balboa||dra, spo
-tt0430922||ROLE MODELS||Role Models||com
-tt0046250||ROMAN HOLIDAY||Roman Holiday||com, rom
-tt0088011||ROMANCING THE STONE||Romancing the Stone||act, adv, rom
-tt0038890||ROME, OPEN CITY||Rome, Open City||thr, war
-tt0063518||ROMEO AND JULIET||Romeo and Juliet||dra, rom
-tt3170832||ROOM||Room||thr
-tt0040746||ROPE||Rope||cri, mys, thr
-tt0094540||ROSEANNE||Roseanne||com
-tt0063522||ROSEMARY'S BABY||Rosemary's Baby||hor
-tt0265666||ROYAL TENENBAUMS||The Royal Tenenbaums||com, dra
-tt0031885||RULES OF THE GAME||The Rules of the Game||com, dra
-tt0113326||RUMBLE IN THE BRONX||Rumble in the Bronx||act, com
-tt0130827||RUN LOLA RUN||Run Lola Run||act, cri, thr
-tt0089941||RUNAWAY TRAIN||Runaway Train||act, adv, dra
-tt1979320||RUSH||Rush||bio, dra, spo
-tt0120812||RUSH HOUR||Rush Hour||act, com
-tt0266915||RUSH HOUR||Rush Hour 2||act, com
-tt0293564||RUSH HOUR||Rush Hour 3||act, com
-tt0128445||RUSHMORE||Rushmore||com, rom
-tt0047437||SABRINA||Sabrina||com, dra, rom
-tt0014429||SAFETY LAST!||Safety Last!||com
-tt0061847||SAMURAI REBELLION||Samurai Rebellion||dra
-tt0060934||SAND PEBBLES||The Sand Pebbles||adv, rom, war
-tt0108037||SANDLOT||The Sandlot||com, spo
-tt0068128||SANFORD AND SON||Sanford and Son||com
-tt0056443||SANJURO||Sanjuro||act
-tt0047445||SANSHO THE BAILIFF||Sansho the Bailiff||dra
-tt0206275||SAVE THE LAST DANCE||Save the Last Dance||dra, muc, rom
-tt0120815||SAVING PRIVATE RYAN||Saving Private Ryan||war
-tt0387564||SAW||Saw||hor, mys, thr
-tt0098258||SAY ANYTHING||Say Anything||com, dra, rom
-tt0023427||SCARFACE||Scarface||cri, dra, fil
-tt0086250||SCARFACE||Scarface||cri, dra
-tt5320412||SCARLET HEART: RYEO||Scarlet Heart: Ryeo||act, fan, rom
-tt0038057||SCARLET STREET||Scarlet Street||cri, fil
-tt0105323||SCENT OF A WOMAN||Scent of a Woman||dra
-tt0108052||SCHINDLER'S LIST||Schindler's List||bio, dra, his
-tt3526078||SCHITT'S CREEK||Schitt's Creek||com
-tt0332379||SCHOOL OF ROCK||School of Rock||com, muc
-tt0446029||SCOTT PILGRIM VS. THE WORLD||Scott Pilgrim vs. the World||act, com, fan, rom
-tt0117571||SCREAM||Scream||hor
-tt0285403||SCRUBS||Scrubs||com
-tt0114369||SE7EN||Se7en||cri, mys, thr
-tt0033028||SEA HAWK||The Sea Hawk||act, adv, his
-tt0369702||SEA INSIDE||The Sea Inside||bio, dra
-tt0049730||SEARCHERS||The Searchers||adv, dra, wes
-tt0060955||SECONDS||Seconds||sci, thr
-tt1305806||SECRET IN THEIR EYES||The Secret in Their Eyes||mys, rom, thr
-tt0084649||SECRET OF NIMH||The Secret of NIMH||ani
-tt0117589||SECRETS & LIES||Secrets & Lies||com, dra
-tt0098282||SEE NO EVIL, HEAR NO EVIL||See No Evil, Hear No Evil||com, cri
-tt0098904||SEINFELD||Seinfeld||com
-tt0114388||SENSE AND SENSIBILITY||Sense and Sensibility||dra, rom
-tt1832382||SEPARATION||A Separation||dra
-tt0379786||SERENITY||Serenity||act, adv, sci
-tt0034167||SERGEANT YORK||Sergeant York||bio, his, war
-tt0070666||SERPICO||Serpico||bio, cri, dra
-tt0057490||SERVANT||The Servant||dra
-tt0041859||SET-UP||The Set-Up||cri, fil, spo
-tt0047472||SEVEN BRIDES FOR SEVEN BROTHERS||Seven Brides for Seven Brothers||mus, rom, wes
-tt0058576||SEVEN DAYS IN MAY||Seven Days in May||dra, thr
-tt0047478||SEVEN SAMURAI||Seven Samurai||act
-tt9805708||SEVEN WORLDS, ONE PLANET||Seven Worlds, One Planet||doc
-tt0050976||SEVENTH SEAL||The Seventh Seal||fan
-tt11280740||SEVERANCE||Severance||mys, sci
-tt0036342||SHADOW OF A DOUBT||Shadow of a Doubt||fil, thr
-tt0063611||SHAME||Shame||dra
-tt0046303||SHANE||Shane||wes
-tt0184894||SHANGHAI NOON||Shanghai Noon||act, adv, com
-tt0300471||SHANGHAI NOON||Shanghai Knights||act, adv, com
-tt0286112||SHAOLIN SOCCER||Shaolin Soccer||act, com, fan, spo
-tt5580390||SHAPE OF WATER||The Shape of Water||dra, fan, rom
-tt0365748||SHAUN OF THE DEAD||Shaun of the Dead||com, hor
-tt0111161||SHAWSHANK REDEMPTION||The Shawshank Redemption||dra
-tt0988045||SHERLOCK HOLMES||Sherlock Holmes||act, adv, mys
-tt1515091||SHERLOCK HOLMES||Sherlock Holmes: A Game of Shadows||act, adv, mys
-tt0117631||SHINE||Shine||bio, dra, muc
-tt0081505||SHINING||The Shining||hor
-tt0054389||SHOOT THE PIANO PLAYER||Shoot the Piano Player||cri, dra
-tt0075213||SHOOTIST||The Shootist||wes
-tt0033045||SHOP AROUND THE CORNER||The Shop Around the Corner||com, dra, rom
-tt8075192||SHOPLIFTERS||Shoplifters||cri, dra
-tt0091949||SHORT CIRCUIT||Short Circuit||com, sci
-tt0058586||SHOT IN THE DARK||A Shot in the Dark||com, mys
-tt0126029||SHREK||Shrek||ani
-tt0440803||SHUTTER||Shutter||hor
-tt1130884||SHUTTER ISLAND||Shutter Island||mys, thr
-tt3397884||SICARIO||Sicario||act, cri, mys
-tt0375063||SIDEWAYS||Sideways||com, rom
-tt5332206||SIGNAL||Signal||cri, fan, sci
-tt0057611||SILENCE||The Silence||dra
-tt0102926||SILENCE OF THE LAMBS||The Silence of the Lambs||cri, dra, thr
-tt5323662||SILENT VOICE: THE MOVIE||A Silent Voice: The Movie||ani
-tt2575988||SILICON VALLEY||Silicon Valley||com
-tt1045658||SILVER LININGS PLAYBOOK||Silver Linings Playbook||com, dra, rom
-tt0096697||SIMPSONS||The Simpsons||ani
-tt0401792||SIN CITY||Sin City||cri, thr
-tt0045152||SINGIN' IN THE RAIN||Singin' in the Rain||mus, rom
-tt0105417||SISTER ACT||Sister Act||com, muc
-tt0248654||SIX FEET UNDER||Six Feet Under||dra
-tt0088128||SIXTEEN CANDLES||Sixteen Candles||com, rom
-tt0167404||SIXTH SENSE||The Sixth Sense||mys, thr
-tt0053285||SLEEPING BEAUTY||Sleeping Beauty||ani
-tt0162661||SLEEPY HOLLOW||Sleepy Hollow||fan, hor
-tt0069281||SLEUTH||Sleuth||mys
-tt0117666||SLING BLADE||Sling Blade||dra
-tt0048641||SMILES OF A SUMMER NIGHT||Smiles of a Summer Night||com, rom
-tt0078252||SNAKE IN THE EAGLE'S SHADOW||Snake in the Eagle's Shadow||act, com
-tt0208092||SNATCH||Snatch||com, cri
-tt0029583||SNOW WHITE AND THE SEVEN DWARFS||Snow White and the Seven Dwarfs||ani
-tt0075584||SOAP||Soap||com
-tt0069293||SOLARIS||Solaris||mys, sci
-tt0094006||SOME KIND OF WONDERFUL||Some Kind of Wonderful||dra, rom
-tt0053291||SOME LIKE IT HOT||Some Like It Hot||com, muc, rom
-tt0108188||SONATINE||Sonatine||cri
-tt1865505||SONG OF THE SEA||Song of the Sea||ani
-tt0084707||SOPHIE'S CHOICE||Sophie's Choice||dra, rom
-tt0141842||SOPRANOS||The Sopranos||cri
-tt2948372||SOUL||Soul||ani
-tt0059742||SOUND OF MUSIC||The Sound of Music||bio, mus, rom
-tt0158983||SOUTH PARK||South Park: Bigger, Longer & Uncut||ani
-tt0121955||SOUTH PARK||South Park||ani
-tt0187664||SPACED||Spaced||com
-tt0054331||SPARTACUS||Spartacus||adv, bio, dra, his, war
-tt0111257||SPEED||Speed||act, adv
-tt0038109||SPELLBOUND||Spellbound||fil, mys, rom
-tt2250912||SPIDER-MAN||Spider-Man: Homecoming||act, adv, sci
-tt6320628||SPIDER-MAN||Spider-Man: Far From Home||act, adv, sci
-tt10872600||SPIDER-MAN||Spider-Man: No Way Home||act, adv, sci
-tt4633694||SPIDER-MAN: INTO THE SPIDER-VERSE||Spider-Man: Into the Spider-Verse||ani
-tt9362722||SPIDER-MAN: INTO THE SPIDER-VERSE||Spider-Man: Across the Spider-Verse||ani
-tt0245429||SPIRITED AWAY||Spirited Away||ani
-tt0055471||SPLENDOR IN THE GRASS||Splendor in the Grass||dra, rom
-tt1895587||SPOTLIGHT||Spotlight||bio, cri, dra
-tt0374546||SPRING, SUMMER, FALL, WINTER... AND SPRING||Spring, Summer, Fall, Winter... and Spring||dra, rom
-tt3079380||SPY||Spy||act, com
-tt10919420||SQUID GAME||Squid Game||act, thr
-tt2170593||ST. VINCENT||St. Vincent||com, dra
-tt0029604||STAGE DOOR||Stage Door||com, dra, rom
-tt0031971||STAGECOACH||Stagecoach||wes
-tt0038733||STAIRWAY TO HEAVEN||Stairway to Heaven||fan, rom
-tt0046359||STALAG 17||Stalag 17||com, dra, war
-tt0079944||STALKER||Stalker||sci
-tt0092005||STAND BY ME||Stand by Me||adv, dra
-tt0047522||STAR IS BORN||A Star is Born||mus, rom
-tt0060028||STAR TREK||Star Trek||act, adv, sci
-tt0092455||STAR TREK||Star Trek: The Next Generation||act, adv, sci
-tt0106145||STAR TREK||Star Trek: Deep Space Nine||act, adv, sci
-tt0076759||STAR WARS||Star Wars IV: A New Hope||act, adv, fan, sci
-tt0080684||STAR WARS||Star Wars V: The Empire Strikes Back||act, adv, fan, sci
-tt0086190||STAR WARS||Star Wars VI: Return of the Jedi||act, adv, fan, sci
-tt3748528||STAR WARS||Star Wars: Rogue One||act, adv, sci
-tt0458290||STAR WARS||Star Wars: The Clone Wars||ani
-tt2930604||STAR WARS||Star Wars: Rebels||ani
-tt8111088||STAR WARS||Star Wars: The Mandalorian||act, adv, fan, sci
-tt9253284||STAR WARS||Star Wars: Andor||act, adv, sci
-tt13622776||STAR WARS||Star Wars: Ahsoka||act, adv, fan, sci
-tt0486655||STARDUST||Stardust||adv, fan, rom
-tt0120201||STARSHIP TROOPERS||Starship Troopers||act, adv, sci
-tt0838283||STEP BROTHERS||Step Brothers||com
-tt0120686||STEPMOM||Stepmom||com, dra
-tt0070735||STING||The Sting||com, cri, dra
-tt1398426||STRAIGHT OUTTA COMPTON||Straight Outta Compton||bio, dra, his, muc
-tt0166896||STRAIGHT STORY||The Straight Story||bio, dra
-tt6461346||STRANGER||Stranger||cri, mys, thr
-tt4574334||STRANGER THINGS||Stranger Things||fan, hor, mys, sci
-tt0044079||STRANGERS ON A TRAIN||Strangers on a Train||cri, fil, thr
-tt0041699||STRAY DOG||Stray Dog||cri, fil, mys, thr
-tt0044081||STREETCAR NAMED DESIRE||A Streetcar Named Desire||dra
-tt0053318||SUDDENLY, LAST SUMMER||Suddenly, Last Summer||dra, mys, thr
-tt0034240||SULLIVAN'S TRAVELS||Sullivan's Travels||adv
-tt0094072||SUMMER SCHOOL||Summer School||com, rom
-tt0043014||SUNSET BOULEVARD||Sunset Boulevard||dra, fil
-tt0829482||SUPERBAD||Superbad||com
-tt0065051||SUPPORT YOUR LOCAL SHERIFF!||Support Your Local Sheriff!||com, wes
-tt0034248||SUSPICION||Suspicion||fil, mys, thr
-tt0076786||SUSPIRIA||Suspiria||hor
-tt0408236||SWEENEY TODD: THE DEMON BARBER OF FLEET STREET||Sweeney Todd: The Demon Barber of Fleet Street||mus, thr
-tt0051036||SWEET SMELL OF SUCCESS||Sweet Smell of Success||dra, fil
-tt0063663||SWIMMER||The Swimmer||dra
-tt0028333||SWING TIME||Swing Time||mus, rom
-tt0310775||SYMPATHY FOR MR. VENGEANCE||Sympathy for Mr. Vengeance||cri, thr
-tt0386064||TAE GUK GI: THE BROTHERHOOD OF WAR||Tae Guk Gi: The Brotherhood of War||war
-tt0072251||TAKING OF PELHAM ONE TWO THREE||The Taking of Pelham One Two Three||cri, thr
-tt0365376||TALE OF TWO SISTERS||A Tale of Two Sisters||dra, hor
-tt0035417||TALK OF THE TOWN||The Talk of the Town||com, dra, rom
-tt10638522||TALK TO ME||Talk to Me||hor
-tt0415306||TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY||Talladega Nights: The Ballad of Ricky Bobby||com, spo
-tt0092048||TAMPOPO||Tampopo||com
-tt2991224||TANGERINES||Tangerines||dra, war
-tt0398286||TANGLED||Tangled||ani
-tt0120855||TARZAN||Tarzan||ani
-tt0077089||TAXI||Taxi||com
-tt0075314||TAXI DRIVER||Taxi Driver||cri, dra
-tt6878038||TAXI DRIVER||A Taxi Driver||act, dra, his
-tt1637725||TED||Ted||com
-tt0088247||TERMINATOR||The Terminator||act, sci
-tt0103064||TERMINATOR||Terminator 2: Judgment Day||act, sci
-tt0086425||TERMS OF ENDEARMENT||Terms of Endearment||com, dra
-tt0072271||TEXAS CHAIN SAW MASSACRE||The Texas Chain Saw Massacre||hor
-tt0075824||THAT OBSCURE OBJECT OF DESIRE||That Obscure Object of Desire||com, dra, rom
-tt0103074||THELMA & LOUISE||Thelma & Louise||adv, cri, dra
-tt2980516||THEORY OF EVERYTHING||The Theory of Everything||bio, dra, rom
-tt0469494||THERE WILL BE BLOOD||There Will Be Blood||dra
-tt0129387||THERE'S SOMETHING ABOUT MARY||There's Something About Mary||com, rom
-tt0096256||THEY LIVE||They Live||act, sci
-tt0065088||THEY SHOOT HORSES, DON'T THEY?||They Shoot Horses, Don't They?||dra
-tt0459159||THICK OF IT||The Thick of It||com
-tt0025878||THIN MAN||The Thin Man||com, cri, mys
-tt0084787||THING||The Thing||hor, mys, sci
-tt0041959||THIRD MAN||The Third Man||fil, mys, thr
-tt12262116||THIRTEEN LIVES||Thirteen Lives||adv, bio, dra, thr
-tt0108330||THIS BOY'S LIFE||This Boy's Life||bio, dra
-tt0088258||THIS IS SPINAL TAP||This Is Spinal Tap||com, muc
-tt1245492||THIS IS THE END||This Is the End||com, fan
-tt0090163||THREADS||Threads||dra, sci, thr
-tt0092086||THREE AMIGOS||Three Amigos!||com, wes
-tt5027774||THREE BILLBOARDS OUTSIDE EBBING, MISSOURI||Three Billboards Outside Ebbing, Missouri||cri, dra
-tt0108394||THREE COLORS||Three Colors: Blue||dra
-tt0111507||THREE COLORS||Three Colors: White||dra
-tt0111495||THREE COLORS||Three Colors: Red||dra
-tt0073802||THREE DAYS OF THE CONDOR||Three Days of the Condor||cri, mys, thr
-tt0075596||THREE'S COMPANY||Three's Company||com
-tt0050613||THRONE OF BLOOD||Throne of Blood||dra
-tt0055499||THROUGH A GLASS DARKLY||Through a Glass Darkly||dra
-tt1513168||THROUGH THE WORMHOLE||Through the Wormhole||doc
-tt0094142||THROW MOMMA FROM THE TRAIN||Throw Momma from the Train||com, cri
-tt0117913||TIME TO KILL||A Time to Kill||cri, dra
-tt0120338||TITANIC||Titanic||dra, rom
-tt0035446||TO BE OR NOT TO BE||To Be or Not to Be||com, rom, war
-tt0048728||TO CATCH A THIEF||To Catch a Thief||mys, rom, thr
-tt0037382||TO HAVE AND HAVE NOT||To Have and Have Not||adv, fil, rom, thr
-tt0056592||TO KILL A MOCKINGBIRD||To Kill a Mockingbird||cri, dra
-tt0110081||TO LIVE||To Live||dra, war
-tt0062376||TO SIR, WITH LOVE||To Sir, with Love||dra
-tt0046438||TOKYO STORY||Tokyo Story||dra
-tt0108358||TOMBSTONE||Tombstone||bio, his, wes
-tt0084805||TOOTSIE||Tootsie||com, rom
-tt0092099||TOP GUN||Top Gun||act, dra
-tt1745960||TOP GUN||Top Gun: Maverick||act, dra
-tt0027125||TOP HAT||Top Hat||com, mus, rom
-tt0088286||TOP SECRET!||Top Secret!||com, muc
-tt0100802||TOTAL RECALL||Total Recall||act, adv, sci
-tt0052311||TOUCH OF EVIL||Touch of Evil||cri, fil, thr
-tt0840361||TOWN||The Town||cri, thr
-tt0114709||TOY STORY||Toy Story||ani
-tt0120363||TOY STORY||Toy Story 2||ani
-tt0435761||TOY STORY||Toy Story 3||ani
-tt0086465||TRADING PLACES||Trading Places||com
-tt0290988||TRAILER PARK BOYS||Trailer Park Boys||com, cri
-tt0059825||TRAIN||The Train||act, thr, war
-tt5700672||TRAIN TO BUSAN||Train to Busan||act, hor
-tt0139654||TRAINING DAY||Training Day||act, cri
-tt0117951||TRAINSPOTTING||Trainspotting||dra
-tt0040897||TREASURE OF THE SIERRA MADRE||The Treasure of the Sierra Madre||adv, dra, wes
-tt0038190||TREE GROWS IN BROOKLYN||A Tree Grows in Brooklyn||dra, rom
-tt0100814||TREMORS||Tremors||com, hor
-tt1070874||TRIAL OF THE CHICAGO 7||The Trial of the Chicago 7||dra, his
-tt0942385||TROPIC THUNDER||Tropic Thunder||act, com
-tt0023622||TROUBLE IN PARADISE||Trouble in Paradise||com, cri, rom
-tt1403865||TRUE GRIT||True Grit||wes
-tt0111503||TRUE LIES||True Lies||act, com
-tt0108399||TRUE ROMANCE||True Romance||cri, dra, rom, thr
-tt0120382||TRUMAN SHOW||The Truman Show||com, dra
-tt1465522||TUCKER AND DALE VS. EVIL||Tucker and Dale vs. Evil||com, hor
-tt0041996||TWELVE O'CLOCK HIGH||Twelve O'Clock High||dra, war
-tt17513352||TWENTY FIVE TWENTY ONE||Twenty Five Twenty One||dra, rom
-tt0052520||TWILIGHT ZONE||The Twilight Zone||fan, hor, mys, sci
-tt0098936||TWIN PEAKS||Twin Peaks||cri, mys, hor, thr
-tt0046478||UGETSU||Ugetsu||dra, fan, war
-tt0045274||UMBERTO D.||Umberto D.||dra
-tt0058450||UMBRELLAS OF CHERBOURG||The Umbrellas of Cherbourg||mus, rom
-tt0098554||UNCLE BUCK||Uncle Buck||com
-tt0105695||UNFORGIVEN||Unforgiven||wes
-tt0094226||UNTOUCHABLES||The Untouchables||cri, dra, thr
-tt1049413||UP||Up||ani
-tt0114814||USUAL SUSPECTS||The Usual Suspects||cri, mys, thr
-tt0096163||VANISHING||The Vanishing||mys, thr
-tt0084855||VERDICT||The Verdict||dra
-tt0052357||VERTIGO||Vertigo||mys, rom, thr
-tt1877514||VIETNAM WAR||The Vietnam War||doc
-tt0053976||VIRGIN SPRING||The Virgin Spring||dra
-tt0055601||VIRIDIANA||Viridiana||dra
-tt0056663||VIVRE SA VIE||Vivre Sa Vie||dra
-tt0046268||WAGES OF FEAR||The Wages of Fear||adv, thr
-tt0062467||WAIT UNTIL DARK||Wait Until Dark||thr
-tt0118111||WAITING FOR GUFFMAN||Waiting for Guffman||com
-tt0841046||WALK HARD: THE DEWEY COX STORY||Walk Hard: The Dewey Cox Story||com, muc
-tt1520211||WALKING DEAD||The Walking Dead||hor
-tt0910970||WALL-E||WALL-E||ani
-tt0312004||WALLACE & GROMIT||Wallace & Gromit: The Curse of the Were-Rabbit||ani
-tt1291584||WARRIOR||Warrior||dra, spo
-tt0080120||WARRIORS||The Warriors||act, cri
-tt0033238||WATERLOO BRIDGE||Waterloo Bridge||dra, rom, war
-tt0078480||WATERSHIP DOWN||Watership Down||ani
-tt0068935||WAY OF THE DRAGON||The Way of the Dragon||act
-tt0105793||WAYNE'S WORLD||Wayne's World||com, muc
-tt0048801||WE'RE NO ANGELS||We're No Angels||com, cri
-tt1723121||WE'RE THE MILLERS||We're the Millers||com, cri
-tt0396269||WEDDING CRASHERS||Wedding Crashers||com, rom
-tt0120888||WEDDING SINGER||The Wedding Singer||com, muc, rom
-tt13443470||WEDNESDAY||Wednesday||fan, mys
-tt0055614||WEST SIDE STORY||West Side Story||cri, dra, mus, rom
-tt0200276||WEST WING||The West Wing||dra
-tt13833688||WHALE||The Whale||dra
-tt0298228||WHALE RIDER||Whale Rider||dra
-tt0103241||WHAT ABOUT BOB?||What About Bob?||com
-tt0056687||WHAT EVER HAPPENED TO BABY JANE?||What Ever Happened to Baby Jane?||dra, thr
-tt3416742||WHAT WE DO IN THE SHADOWS||What We Do in the Shadows||com, fan
-tt7908628||WHAT WE DO IN THE SHADOWS||What We Do in the Shadows||com, fan
-tt0108550||WHAT'S EATING GILBERT GRAPE||What's Eating Gilbert Grape||dra
-tt0069495||WHAT'S UP, DOC?||What's Up, Doc?||com
-tt0087578||WHEELS ON MEALS||Wheels on Meals||act, com
-tt0098635||WHEN HARRY MET SALLY...||When Harry Met Sally...||com, rom
-tt7137906||WHEN THEY SEE US||When They See Us||cri, dra
-tt0065207||WHERE EAGLES DARE||Where Eagles Dare||act, adv, war
-tt2582802||WHIPLASH||Whiplash||dra, muc
-tt0113824||WHISPER OF THE HEART||Whisper of the Heart||ani
-tt0047673||WHITE CHRISTMAS||White Christmas||com, mus, rom
-tt0042041||WHITE HEAT||White Heat||cri, fil
-tt0127357||WHO AM I?||Who Am I?||act, adv, com
-tt0096438||WHO FRAMED ROGER RABBIT||Who Framed Roger Rabbit||adv, com, fan, mys
-tt0061184||WHO'S AFRAID OF VIRGINIA WOOLF?||Who's Afraid of Virginia Woolf?||dra
-tt0086827||WHO'S THE BOSS?||Who's the Boss?||com
-tt0070917||WICKER MAN||The Wicker Man||hor, mys
-tt0065214||WILD BUNCH||The Wild Bunch||wes
-tt0050986||WILD STRAWBERRIES||Wild Strawberries||dra, rom
-tt3011894||WILD TALES||Wild Tales||com, thr
-tt0067992||WILLY WONKA & THE CHOCOLATE FACTORY||Willy Wonka & the Chocolate Factory||fan, mus
-tt0043137||WINCHESTER '73||Winchester '73||wes
-tt5362988||WIND RIVER||Wind River||cri, dra, mys, thr
-tt0093191||WINGS OF DESIRE||Wings of Desire||fan, rom
-tt0057358||WINTER LIGHT||Winter Light||dra
-tt0306414||WIRE||The Wire||cri, dra
-tt0090329||WITNESS||Witness||dra, rom, thr
-tt0051201||WITNESS FOR THE PROSECUTION||Witness for the Prosecution||cri, dra, mys
-tt0032138||WIZARD OF OZ||The Wizard of Oz||adv, fan, mus
-tt0077097||WKRP IN CINCINNATI||WKRP in Cincinnati||com
-tt2140203||WOLF CHILDREN||Wolf Children||ani
-tt0993846||WOLF OF WALL STREET||The Wolf of Wall Street||bio, cri
-tt5198068||WOLFWALKERS||Wolfwalkers||ani
-tt0058625||WOMAN IN THE DUNES||Woman in the Dunes||thr
-tt0037469||WOMAN IN THE WINDOW||The Woman in the Window||cri, fil, mys, thr
-tt0072417||WOMAN UNDER THE INFLUENCE||A Woman Under the Influence||dra, rom
-tt0032143||WOMEN||The Women||com, dra
-tt2543472||WONDER||Wonder||dra
-tt10370710||WORST PERSON IN THE WORLD||The Worst Person in the World||com, dra, rom
-tt0051207||WRONG MAN||The Wrong Man||dra, fil
-tt0030993||YOU CAN'T TAKE IT WITH YOU||You Can't Take It with You||com, dra, rom
-tt0363226||ZATOICHI||Zatoichi||act, com
-tt1156398||ZOMBIELAND||Zombieland||act, com, hor
-tt2948356||ZOOTOPIA||Zootopia||ani
-tt0057831||ZORBA THE GREEK||Zorba the Greek||com, dra
+10 THINGS I HATE ABOUT YOU||10 Things I Hate About You||com, rom||tt0147800
+12 ANGRY MEN||12 Angry Men||cri, dra||tt0050083
+2001: A SPACE ODYSSEY||2001: A Space Odyssey||adv, sci||tt0062622
+21 JUMP STREET||21 Jump Street||act, com||tt1232829
+21 JUMP STREET||22 Jump Street||act, com||tt2294449
+28 DAYS LATER||28 Days Later||hor, sci||tt0289043
+3-IRON||3-Iron||cri, dra, rom||tt0423866
+30 ROCK||30 Rock||com||tt0496424
+39 STEPS||The 39 Steps||cri, mys, thr||tt0026029
+3:10 TO YUMA||3:10 to Yuma||wes||tt0381849
+40 YEAR OLD VIRGIN||The 40 Year Old Virgin||com, rom||tt0405422
+48 HRS.||48 Hrs.||act, com||tt0083511
+50 FIRST DATES||50 First Dates||com, dra, rom||tt0343660
+50/50||50/50||com, dra, rom||tt1306980
+ABBOTT ELEMENTARY||Abbott Elementary||com||tt14218830
+ABOUT SCHMIDT||About Schmidt||dra||tt0257360
+ACE IN THE HOLE||Ace in the Hole||dra, fil||tt0043338
+ADAM'S APPLES||Adam's Apples||com, cri, dra||tt0418455
+ADAM'S RIB||Adam's Rib||com, rom||tt0041090
+ADVENTURES IN BABYSITTING||Adventures in Babysitting||adv, com||tt0092513
+ADVENTURES OF ROBIN HOOD||The Adventures of Robin Hood||act, adv, rom||tt0029843
+AFFAIR TO REMEMBER||An Affair to Remember||dra, rom||tt0050105
+AFRICAN QUEEN||The African Queen||adv, dra, rom, war||tt0043265
+AFTER HOURS||After Hours||com, cri, thr||tt0088680
+AFTER THE WEDDING||After the Wedding||dra||tt0457655
+AFTERSUN||Aftersun||dra||tt19770238
+AIR FORCE ONE||Air Force One||act||tt0118571
+AIRPLANE!||Airplane!||com||tt0080339
+ALADDIN||Aladdin||ani||tt0103639
+ALFRED HITCHCOCK PRESENTS||Alfred Hitchcock Presents||dra||tt0047708
+ALICE DOESN'T LIVE HERE ANYMORE||Alice Doesn't Live Here Anymore||dra, rom||tt0071115
+ALICE IN WONDERLAND||Alice in Wonderland||ani||tt0043274
+ALIEN||Aliens||hor, sci, act||tt0090605
+ALIEN||Alien||hor, sci||tt0078748
+ALL ABOUT EVE||All About Eve||dra||tt0042192
+ALL IN THE FAMILY||All in the Family||com||tt0066626
+ALL QUIET ON THE WESTERN FRONT||All Quiet on the Western Front||dra, war||tt0020629
+ALL THAT HEAVEN ALLOWS||All That Heaven Allows||dra, muc, rom||tt0047811
+ALL THE PRESIDENT'S MEN||All the President's Men||dra, his, thr||tt0074119
+ALMOST FAMOUS||Almost Famous||adv, com, dra, muc||tt0181875
+AMADEUS||Amadeus||bio, dra, muc||tt0086879
+AMARCORD||Amarcord||com, dra||tt0071129
+AMELIE||Amélie||com, rom||tt0211915
+AMERICAN BEAUTY||American Beauty||dra||tt0169547
+AMERICAN DAD!||American Dad!||ani, com||tt0397306
+AMERICAN GANGSTER||American Gangster||bio, cri, dra||tt0765429
+AMERICAN GRAFFITI||American Graffiti||com, dra||tt0069704
+AMERICAN HISTORY X||American History X||cri, dra||tt0120586
+AMERICAN IN PARIS||An American in Paris||mus, rom||tt0043278
+AMERICAN WEREWOLF IN LONDON||An American Werewolf in London||hor||tt0082010
+ANALYZE THIS||Analyze This||com, cri||tt0122933
+ANATOMY OF A MURDER||Anatomy of a Murder||dra, mys||tt0052561
+ANCHORMAN: THE LEGEND OF RON BURGUNDY||Anchorman: The Legend of Ron Burgundy||com||tt0357413
+ANDY GRIFFITH SHOW||The Andy Griffith Show||com||tt0053479
+ANGELS WITH DIRTY FACES||Angels with Dirty Faces||cri, dra, fil, thr||tt0029870
+ANNIE HALL||Annie Hall||com, rom||tt0075686
+ANNIE||Annie||mus||tt0083564
+ANOTHER ROUND||Another Round||dra||tt10288566
+APARTMENT||The Apartment||com, dra, rom||tt0053604
+APOCALYPSE NOW||Apocalypse Now||mys, war||tt0078788
+APOLLO 13||Apollo 13||adv, dra, his||tt0112384
+ARRESTED DEVELOPMENT||Arrested Development||com||tt0367279
+ARRIVAL||Arrival||sci, mys||tt2543164
+ARSENIC AND OLD LACE||Arsenic and Old Lace||com, cri||tt0036613
+ARTIST||The Artist||com, dra, rom||tt1655442
+AS GOOD AS IT GETS||As Good as It Gets||com, dra, rom||tt0119822
+ASAPTATION.||Adaptation.||com, dra||tt0268126
+ASH VS EVIL DEAD||Ash vs Evil Dead||act, com, hor||tt4189022
+ASPHALT JUNGLE||The Asphalt Jungle||cri, fil, thr||tt0042208
+ASSAULT ON PRECINCT 13||Assault on Precinct 13||act, cri, thr||tt0074156
+ATONEMENT||Atonement||dra, mys, rom, war||tt0783233
+ATTACK THE BLOCK||Attack the Block||act, sci, hor||tt1478964
+AUNTIE MAME||Auntie Mame||com, dra, rom||tt0051383
+AUTUMN AFTERNOON||An Autumn Afternoon||dra||tt0056444
+AUTUMN SONATA||Autumn Sonata||dra, muc||tt0077711
+AWAKENINGS||Awakenings||bio, dra||tt0099077
+AWFUL TRUTH||The Awful Truth||com, rom||tt0028597
+BABE||Babe||com, dra||tt0112431
+BACK TO SCHOOL||Back to School||com||tt0090685
+BACK TO THE FUTURE||Back to the Future Part III||adv, com, sci||tt0099088
+BACK TO THE FUTURE||Back to the Future Part II||adv, com, sci||tt0096874
+BACK TO THE FUTURE||Back to the Future||adv, com, sci||tt0088763
+BAD AND THE BEAUTIFUL||The Bad and the Beautiful||dra, rom||tt0044391
+BAD DAY AT BLACK ROCK||Bad Day at Black Rock||cri, mys, thr||tt0047849
+BAD SANTA||Bad Santa||com, cri||tt0307987
+BAD SLEEP WELL||The Bad Sleep Well||cri, dra, thr||tt0054460
+BADLANDS||Badlands||cri, dra||tt0069762
+BALL OF FIRE||Ball of Fire||com, rom||tt0033373
+BAMBI||Bambi||ani||tt0034492
+BAND OF BROTHERS||Band of Brothers||dra, war||tt0185906
+BAND WAGON||The Band Wagon||mus||tt0045537
+BANSHEES OF INISHERIN||The Banshees of Inisherin||com, dra||tt11813216
+BANSHEE||Banshee||act, cri||tt2017109
+BARBARIAN||Barbarian||hor||tt15791034
+BARRY LYNDON||Barry Lyndon||dra||tt0072684
+BARTON FINK||Barton Fink||thr||tt0101410
+BASKETBALL DIARIES||The Basketball Diaries||bio, cri, dra, spo||tt0112461
+BATTLE OF ALGIERS||The Battle of Algiers||dra, war||tt0058946
+BEAR||The Bear||com, dra||tt14452776
+BEAUTIFUL MIND||A Beautiful Mind||bio, dra||tt0268978
+BEAUTY AND THE BEAST||Beauty and the Beast||ani||tt0101414
+BECKET||Becket||bio, dra, his||tt0057877
+BEETLEJUICE||Beetlejuice||com, fan||tt0094721
+BEING JOHN MALKOVICH||Being John Malkovich||fan||tt0120601
+BEING THERE||Being There||com, dra||tt0078841
+BEN-HUR||Ben-Hur||adv, dra||tt0052618
+BENNY & JOON||Benny & Joon||com, dra, rom||tt0106387
+BEST IN SHOW||Best in Show||com||tt0218839
+BEST YEARS OF OUR LIVES||The Best Years of Our Lives||dra, war||tt0036868
+BETTER CALL SAUL||Better Call Saul||cri, dra||tt3032476
+BEVERLY HILLS COP||Beverly Hills Cop||act, com||tt0086960
+BICYCLE THIEVES||Bicycle Thieves||dra||tt0040522
+BIG BANG THEORY||The Big Bang Theory||com||tt0898266
+BIG COUNTRY||The Big Country||rom, wes||tt0051411
+BIG HEAT||The Big Heat||cri, fil, thr||tt0045555
+BIG HERO 6||Big Hero 6||ani||tt2245084
+BIG LEBOWSKI||The Big Lebowski||com, cri||tt0118715
+BIG SLEEP||The Big Sleep||cri, fil, mys, thr||tt0038355
+BIG TROUBLE IN LITTLE CHINA||Big Trouble in Little China||act, com, fan||tt0090728
+BIG||Big||com, fan||tt0094737
+BILL & TED'S EXCELLENT ADVENTURE||Bill & Ted's Excellent Adventure||adv, com, muc, sci||tt0096928
+BILLY MADISON||Billy Madison||com||tt0112508
+BIRDCAGE||The Birdcage||com||tt0115685
+BIRDMAN OF ALCATRAZ||Birdman of Alcatraz||bio, cri, dra||tt0055798
+BIRDS||The Birds||hor, mys||tt0056869
+BISHOP'S WIFE||The Bishop's Wife||com, dra, fan, rom||tt0039190
+BLACK CHRISTMAS||Black Christmas||hor||tt0071222
+BLACK HAWK DOWN||Black Hawk Down||act, his, war||tt0265086
+BLACK NARCISSUS||Black Narcissus||dra||tt0039192
+BLACK SWAN||Black Swan||dra, thr||tt0947798
+BLACKADDER||Blackadder||com||tt0084988
+BLACKBOARD JUNGLE||Blackboard Jungle||cri, dra||tt0047885
+BLADE RUNNER||Blade Runner||act, sci, mys||tt0083658
+BLAZING SADDLES||Blazing Saddles||com, wes||tt0071230
+BLOB||The Blob||hor, sci||tt0094761
+BLOOD DIAMOND||Blood Diamond||adv, dra, thr||tt0450259
+BLOOD SIMPLE||Blood Simple||cri, thr||tt0086979
+BLOW-UP||Blow-Up||mys, thr||tt0060176
+BLUE ANGEL||The Blue Angel||dra, muc||tt0020697
+BLUE PLANET||Blue Planet II||doc||tt6769208
+BLUE PLANET||Blue Planet||doc||tt0296310
+BLUE VALENTINE||Blue Valentine||dra, rom||tt1120985
+BLUE VELVET||Blue Velvet||cri, dra, mys, thr||tt0090756
+BLUES BROTHERS||The Blues Brothers||adv, com, muc||tt0080455
+BOB'S BURGERS||Bob's Burgers||ani||tt1561755
+BODY HEAT||Body Heat||cri, dra, rom||tt0082089
+BOJACK HORSEMAN||BoJack Horseman||ani||tt3398228
+BONE TOMAHAWK||Bone Tomahawk||hor, wes||tt2494362
+BONNIE AND CLYDE||Bonnie and Clyde||bio, cri, dra||tt0061418
+BOOGIE NIGHTS||Boogie Nights||dra||tt0118749
+BOONDOCKS||The Boondocks||ani||tt0373732
+BORN YESTERDAY||Born Yesterday||com, dra, rom||tt0042276
+BOURNE IDENTITY||The Bourne Identity||act, mys, thr||tt0258463
+BOURNE IDENTITY||The Bourne Supremacy||act, mys, thr||tt0372183
+BOURNE IDENTITY||The Bourne Ultimatum||act, mys, thr||tt0440963
+BOY IN THE STRIPED PYJAMAS||The Boy in the Striped Pyjamas||dra, war||tt0914798
+BOYHOOD||Boyhood||dra||tt1065073
+BOYS DON'T CRY||Boys Don't Cry||bio, cri, dra||tt0171804
+BOYS||The Boys||act, sci||tt1190634
+BOYZ N THE HOOD||Boyz n the Hood||cri, dra||tt0101507
+BRAVEHEART||Braveheart||bio, dra, his, war||tt0112573
+BRAZIL||Brazil||sci, thr||tt0088846
+BREAKFAST AT TIFFANY'S||Breakfast at Tiffany's||com, dra, rom||tt0054698
+BREAKFAST CLUB||The Breakfast Club||com, dra||tt0088847
+BREAKING AWAY||Breaking Away||com, dra, spo||tt0078902
+BREAKING BAD||Breaking Bad||cri, dra, thr||tt0903747
+BREAKING THE WAVES||Breaking the Waves||dra||tt0115751
+BREATHLESS||Breathless||cri, dra||tt0053472
+BRIDESMAIDS||Bridesmaids||com, rom||tt1478338
+BRIDGE ON THE RIVER KWAI||The Bridge on the River Kwai||adv, dra, war||tt0050212
+BRIEF ENCOUNTER||Brief Encounter||dra, rom||tt0037558
+BRINGING UP BABY||Bringing Up Baby||com||tt0029947
+BRONX TALE||A Bronx Tale||cri, dra||tt0106489
+BROOKLYN NINE-NINE||Brooklyn Nine-Nine||com, cri||tt2467372
+BRUCE ALMIGHTY||Bruce Almighty||com, fan||tt0315327
+BRUTE FORCE||Brute Force||cri, fil, thr||tt0039224
+BUCKET LIST||The Bucket List||adv, com, dra||tt0825232
+BULLITT||Bullitt||act, cri, thr||tt0062765
+BURBS||The 'Burbs||com, mys||tt0096734
+BUTCH CASSIDY AND THE SUNDANCE KID||Butch Cassidy and the Sundance Kid||bio, cri, dra, wes||tt0064115
+CABIN IN THE WOODS||The Cabin in the Woods||hor||tt1259521
+CADDYSHACK||Caddyshack||com, spo||tt0080487
+CAINE MUTINY||The Caine Mutiny||dra, war||tt0046816
+CALL ME BY YOUR NAME||Call Me by Your Name||dra, rom||tt5726616
+CAMERAMAN||The Cameraman||com||tt0018742
+CAN'T BUY ME LOVE||Can't Buy Me Love||com, dra, rom||tt0092718
+CANDYMAN||Candyman||hor||tt0103919
+CAPE FEAR||Cape Fear (remake)||thr||tt0101540
+CAPE FEAR||Cape Fear||thr||tt0055824
+CAPERNAUM||Capernaum||dra||tt8267604
+CAPTAIN BLOOD||Captain Blood||act, adv, his, rom||tt0026174
+CAPTAIN FANTASTIC||Captain Fantastic||com, dra||tt3553976
+CAPTAINS COURAGEOUS||Captains Courageous||adv, dra||tt0028691
+CARLITO'S WAY||Carlito's Way||cri, dra||tt0106519
+CAROL BURNETT SHOW||The Carol Burnett Show||com||tt0061240
+CARRIE||Carrie||hor||tt0074285
+CASABLANCA||Casablanca||dra, rom, war||tt0034583
+CASINO||Casino||cri, dra||tt0112641
+CAST AWAY||Cast Away||adv, dra||tt0162222
+CASTAWAY ON THE MOON||Castaway on the Moon||com, dra, rom||tt1499666
+CASTLE IN THE SKY||Castle in the Sky||ani||tt0092067
+CAT ON A HOT TIN ROOF||Cat on a Hot Tin Roof||dra||tt0051459
+CATCH ME IF YOU CAN||Catch Me If You Can||bio, cri, dra||tt0264464
+CELEBRATION||The Celebration||dra||tt0154420
+CENTRAL STATION||Central Station||dra||tt0140888
+CHANGELING||Changeling||bio, cri, dra||tt0824747
+CHAPPELLE'S SHOW||Chappelle's Show||com||tt0353049
+CHARADE||Charade||com, mys, thr||tt0056923
+CHASER||The Chaser||act, cri, thr||tt1190539
+CHEERS||Cheers||com||tt0083399
+CHERNOBYL||Chernobyl||dra, thr||tt7366338
+CHICAGO||Chicago||cri, mus||tt0299658
+CHILD'S PLAY||Child's Play||hor||tt0094862
+CHILDREN OF HEAVEN||Children of Heaven||dra, spo||tt0118849
+CHILDREN OF MEN||Children of Men||act, sci, thr||tt0206634
+CHILDREN OF PARADISE||Children of Paradise||dra, rom||tt0037674
+CHILDREN'S HOUR||The Children's Hour||dra, rom||tt0054743
+CHINATOWN||Chinatown||dra, mys, thr||tt0071315
+CHOCOLAT||Chocolat||dra, rom||tt0241303
+CHRISTINE||Christine||hor||tt0085333
+CHRISTMAS STORY||A Christmas Story||com||tt0085334
+CHUNGKING EXPRESS||Chungking Express||com, cri, dra||tt0109424
+CINDERELLA MAN||Cinderella Man||bio, dra, rom, spo||tt0352248
+CINDERELLA||Cinderella||ani||tt0042332
+CIRCUS||The Circus||com||tt0018773
+CITY LIGHTS||City Lights||com||tt0021749
+CITY OF GOD||City of God||cri, dra||tt0317248
+CITY SLICKERS||City Slickers||com, wes||tt0101587
+CIVIL WAR||The Civil War||doc||tt0098769
+CLARKSON'S FARM||Clarkson's Farm||com, doc||tt10541088
+CLIFFHANGER||Cliffhanger||act, adv||tt0106582
+CLOCKWORK ORANGE||A Clockwork Orange||cri, sci||tt0066921
+CLOSE ENCOUNTERS OF THE THIRD KIND||Close Encounters of the Third Kind||sci||tt0075860
+CLOSE-UP||Close-Up||bio, cri||tt0100234
+CLUE||Clue||com, mys||tt0088930
+COAL MINER'S DAUGHTER||Coal Miner's Daughter||bio, dra, muc||tt0080549
+COBRA KAI||Cobra Kai||act, com, dra||tt7221388
+COCO||Coco||ani||tt2380307
+CODA||CODA||com, dra, muc||tt10366460
+COLLATERAL||Collateral||act, cri, thr||tt0369339
+COLUMBO||Columbo||cri, dra, mys||tt1466074
+COME AND SEE||Come and See||dra, war||tt0091251
+COMING TO AMERICA||Coming to America||com, rom||tt0094898
+COMMANDO||Commando||act, adv||tt0088944
+COMMUNITY||Community||com||tt1439629
+CONAN THE BARBARIAN||Conan the Barbarian||act, adv, fan||tt0082198
+CONFORMIST||The Conformist||dra||tt0065571
+CONJURING||The Conjuring 2||hor||tt3065204
+CONJURING||The Conjuring||hor||tt1457767
+CONVERSATION||The Conversation||dra, mys, thr||tt0071360
+COOK, THE THIEF, HIS WIFE & HER LOVER||The Cook, the Thief, His Wife & Her Lover||cri||tt0097108
+COOL HAND LUKE||Cool Hand Luke||cri, dra||tt0061512
+COSBY SHOW||The Cosby Show||com||tt0086687
+COSMOS||Cosmos II||doc||tt2395695
+COSMOS||Cosmos||doc||tt0081846
+COUNT OF MONTE CRISTO||The Count of Monte Cristo||act, adv, dra||tt0245844
+COURT JESTER||The Court Jester||adv, com, mus||tt0049096
+CRASH LANDING ON YOU||Crash Landing on You||adv, com, rom||tt10850932
+CRAZY, STUPID, LOVE.||Crazy, Stupid, Love.||com, dra, rom||tt1570728
+CREED||Creed III||dra, spo||tt11145118
+CREED||Creed II||dra, spo||tt6343314
+CREED||Creed||dra, spo||tt3076658
+CREEPSHOW||Creepshow||hor||tt0083767
+CRIES & WHISPERS||Cries & Whispers||dra||tt0069467
+CRIMES AND MISDEMEANORS||Crimes and Misdemeanors||com, dra||tt0097123
+CROCODILE DUNDEE||Crocodile Dundee||adv, com||tt0090555
+CROUCHING TIGER, HIDDEN DRAGON||Crouching Tiger, Hidden Dragon||act, adv, fan||tt0190332
+CURB YOUR ENTHUSIASM||Curb Your Enthusiasm||com||tt0264235
+CURIOUS CASE OF BENJAMIN BUTTON||The Curious Case of Benjamin Button||dra, fan, rom||tt0421715
+DANCER IN THE DARK||Dancer in the Dark||cri, dra, mus||tt0168629
+DANCES WITH WOLVES||Dances with Wolves||adv, dra, wes||tt0099348
+DARK CITY||Dark City||mys, sci, thr||tt0118929
+DARK PASSAGE||Dark Passage||fil, thr||tt0039302
+DARK VICTORY||Dark Victory||dra, rom||tt0031210
+DARK||Dark||mys, sci, thr||tt5753856
+DAS BOOT||Das Boot||dra, war||tt0082096
+DAWN OF THE DEAD||Dawn of the Dead||hor||tt0363547
+DAY FOR NIGHT||Day for Night||com, dra, rom||tt0070460
+DAY OF THE JACKAL||The Day of the Jackal||cri, thr||tt0069947
+DAY OF WRATH||Day of Wrath||dra, his||tt0036506
+DAY THE EARTH STOOD STILL||The Day the Earth Stood Still||sci||tt0043456
+DAYS OF HEAVEN||Days of Heaven||dra, rom||tt0077405
+DAYS OF WINE AND ROSES||Days of Wine and Roses||dra||tt0055895
+DAZED AND CONFUSED||Dazed and Confused||com||tt0106677
+DEAD ALIVE||Dead Alive||hor||tt0103873
+DEAD MAN WALKING||Dead Man Walking||cri, dra||tt0112818
+DEAD POETS SOCIETY||Dead Poets Society||com, dra||tt0097165
+DEER HUNTER||The Deer Hunter||dra, war||tt0077416
+DEFIANT ONES||The Defiant Ones||cri, dra||tt0051525
+DELIVERANCE||Deliverance||adv, thr||tt0068473
+DEPARTED||The Departed||cri, dra, thr||tt0407887
+DEPARTURES||Departures||dra||tt1069238
+DERSU UZALA||Dersu Uzala||adv, bio, dra||tt0071411
+DESCENT||The Descent||adv, hor||tt0435625
+DESPERADO||Desperado||act, cri||tt0112851
+DESPICABLE ME||Despicable Me||ani||tt1323594
+DESTRY RIDES AGAIN||Destry Rides Again||com, wes||tt0031225
+DIABOLIQUE||Diabolique||cri, hor, mys||tt0046911
+DIAL M FOR MURDER||Dial M for Murder||cri, thr||tt0046912
+DIE HARD||Die Hard 2||act||tt0099423
+DIE HARD||Die Hard with a Vengeance||act||tt0112864
+DIE HARD||Die Hard||act||tt0095016
+DIRTY DANCING||Dirty Dancing||dra, muc, rom||tt0092890
+DIRTY DOZEN||The Dirty Dozen||act, adv, war||tt0061578
+DIRTY HARRY||Dirty Harry||act, cri, thr||tt0066999
+DIRTY ROTTEN SCOUNDRELS||Dirty Rotten Scoundrels||com, cri||tt0095031
+DISCREET CHARM OF THE BOURGEOISIE||The Discreet Charm of the Bourgeoisie||com||tt0068361
+DISTRICT 9||District 9||act, sci||tt1136608
+DIVING BELL AND THE BUTTERFLY||The Diving Bell and the Butterfly||bio, dra||tt0401383
+DIVORCE ITALIAN STYLE||Divorce Italian Style||com, dra, rom||tt0055913
+DJANGO UNCHAINED||Django Unchained||dra, wes||tt1853728
+DO THE RIGHT THING||Do the Right Thing||dra||tt0097216
+DOCTOR WHO||Doctor Who||adv, sci||tt0056751
+DOCTOR ZHIVAGO||Doctor Zhivago||dra, rom, war||tt0059113
+DODGEBALL: A TRUE UNDERDOG STORY||DodgeBall: A True Underdog Story||com, spo||tt0364725
+DODSWORTH||Dodsworth||dra, rom||tt0027532
+DOG DAY AFTERNOON||Dog Day Afternoon||bio, cri, dra||tt0072890
+DOG SOLDIERS||Dog Soldiers||act, hor||tt0280609
+DOGVILLE||Dogville||cri, dra||tt0276919
+DOLORES CLAIBORNE||Dolores Claiborne||cri, dra, mys, thr||tt0109642
+DON'T LOOK NOW||Don't Look Now||hor, mys||tt0069995
+DONNIE BRASCO||Donnie Brasco||bio, cri, dra||tt0119008
+DONNIE DARKO||Donnie Darko||mys, sci, thr||tt0246578
+DOPESICK||Dopesick||dra||tt9174558
+DOUBLE INDEMNITY||Double Indemnity||cri, dra, fil||tt0036775
+DOWNFALL||Downfall||bio, dra, his, war||tt0363163
+DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB||Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb||com, war||tt0057012
+DRAG ME TO HELL||Drag Me to Hell||hor||tt1127180
+DRIVE||Drive||act, dra||tt0780504
+DUMB AND DUMBER||Dumb and Dumber||com||tt0109686
+DUMBO||Dumbo||ani||tt0033563
+E.T. THE EXTRA-TERRESTRIAL||E.T. the Extra-Terrestrial||adv, sci||tt0083866
+EAST OF EDEN||East of Eden||dra||tt0048028
+EASTER PARADE||Easter Parade||mus, rom||tt0040308
+EASTERN PROMISES||Eastern Promises||cri, dra, thr||tt0765443
+EDGE OF TOMORROW||Edge of Tomorrow||act, sci||tt1631867
+EDWARD SCISSORHANDS||Edward Scissorhands||fan, rom||tt0099487
+EIGHTH GRADE||Eighth Grade||com, dra||tt7014006
+EL DORADO||El Dorado||wes||tt0061619
+ELECTION||Election||com||tt0126886
+ELEPHANT MAN||The Elephant Man||bio, dra||tt0080678
+ELEVATOR TO THE GALLOWS||Elevator to the Gallows||cri, dra, thr||tt0051378
+ELF||Elf||com, fan, rom||tt0319343
+ELITE SQUAD||Elite Squad 2: The Enemy Within||act, cri||tt1555149
+ELITE SQUAD||Elite Squad||act, cri||tt0861739
+ELMER GANTRY||Elmer Gantry||dra||tt0053793
+EMPEROR'S NEW GROOVE||The Emperor's New Groove||ani||tt0120917
+EMPIRE OF THE SUN||Empire of the Sun||dra, war||tt0092965
+ENCHANTED||Enchanted||adv, com, fan, mus, rom||tt0461770
+ENTER THE DRAGON||Enter the Dragon||act||tt0070034
+ERASERHEAD||Eraserhead||fan, hor||tt0074486
+ESCAPE FROM ALCATRAZ||Escape from Alcatraz||bio, cri, dra||tt0079116
+ESCAPE FROM NEW YORK||Escape from New York||act, adv, sci||tt0082340
+ETERNAL SUNSHINE OF THE SPOTLESS MIND||Eternal Sunshine of the Spotless Mind||dra, rom, sci||tt0338013
+EVERYBODY HATES CHRIS||Everybody Hates Chris||com||tt0460637
+EVERYBODY LOVES RAYMOND||Everybody Loves Raymond||com||tt0115167
+EVERYTHING EVERYWHERE ALL AT ONCE||Everything Everywhere All at Once||act, com, fan, sci||tt6710474
+EVIL DEAD||Evil Dead III: Army of Darkness||com, hor||tt0106308
+EVIL DEAD||Evil Dead II||com, hor||tt0092991
+EVIL DEAD||The Evil Dead||hor||tt0083907
+EXECUTIVE DECISION||Executive Decision||act||tt0116253
+EXORCIST||The Exorcist||hor||tt0070047
+EXTERMINATING ANGEL||The Exterminating Angel||dra, fan||tt0056732
+EXTRAORDINARY ATTORNEY WOO||Extraordinary Attorney Woo||dra||tt20869502
+EXTRAS||Extras||com||tt0445114
+FACE IN THE CROWD||A Face in the Crowd||dra, muc||tt0050371
+FACE/OFF||Face/Off||act, sci||tt0119094
+FAIL SAFE||Fail Safe||dra, thr||tt0058083
+FALLING DOWN||Falling Down||act, cri, dra||tt0106856
+FAMILY GUY||Family Guy||ani||tt0182576
+FAMILY TIES||Family Ties||com||tt0083413
+FANNY AND ALEXANDER||Fanny and Alexander||dra||tt0083922
+FANTASIA||Fantasia||ani||tt0032455
+FANTASTIC MR. FOX||Fantastic Mr. Fox||ani||tt0432283
+FANTASTIC PLANET||Fantastic Planet||ani||tt0070544
+FAREWELL MY CONCUBINE||Farewell My Concubine||dra, muc, rom||tt0106332
+FARGO||Fargo||cri, thr||tt0116282
+FARHA||Farha||dra||tt11555492
+FAST TIMES AT RIDGEMONT HIGH||Fast Times at Ridgemont High||com||tt0083929
+FATAL ATTRACTION||Fatal Attraction||thr||tt0093010
+FATHER OF THE BRIDE||Father of the Bride II||com, rom||tt0113041
+FATHER OF THE BRIDE||Father of the Bride||com, rom||tt0101862
+FATHER TED||Father Ted||com||tt0111958
+FATHER||The Father||dra, mys||tt10272386
+FAULT IN OUR STARS||The Fault in Our Stars||dra, rom||tt2582846
+FAWLTY TOWERS||Fawlty Towers||com||tt0072500
+FERRIS BUELLER'S DAY OFF||Ferris Bueller's Day Off||com||tt0091042
+FEW GOOD MEN||A Few Good Men||dra, thr||tt0104257
+FIDDLER ON THE ROOF||Fiddler on the Roof||dra, mus, rom||tt0067093
+FIELD OF DREAMS||Field of Dreams||dra, fan, spo||tt0097351
+FIFTH ELEMENT||The Fifth Element||act, adv, sci||tt0119116
+FIGHT CLUB||Fight Club||dra||tt0137523
+FIGHTER||The Fighter||bio, dra, spo||tt0964517
+FINDING NEMO||Finding Nemo||ani||tt0266543
+FINDING NEVERLAND||Finding Neverland||bio, dra||tt0308644
+FIREFLY||Firefly||adv, sci||tt0303461
+FIRST BLOOD||First Blood||act, adv||tt0083944
+FISH CALLED WANDA||A Fish Called Wanda||com, cri||tt0095159
+FISTFUL OF DOLLARS||A Fistful of Dollars||wes||tt0058461
+FIVE EASY PIECES||Five Easy Pieces||dra||tt0065724
+FLEABAG||Fleabag||com, dra||tt5687612
+FLIGHT OF THE NAVIGATOR||Flight of the Navigator||adv, com, sci||tt0091059
+FLIGHT OF THE PHOENIX||The Flight of the Phoenix||adv, dra||tt0059183
+FLINTSTONES||The Flintstones||ani||tt0053502
+FLOWER OF EVIL||Flower of Evil||cri, mys, rom, thr||tt11691684
+FLY||The Fly||hor, sci||tt0091064
+FOG||The Fog||hor||tt0080749
+FOR A FEW DOLLARS MORE||For a Few Dollars More||wes||tt0059578
+FORBIDDEN GAMES||Forbidden Games||com, dra, war||tt0043686
+FORD V FERRARI||Ford v Ferrari||bio, dra, spo||tt1950186
+FOREIGN CORRESPONDENT||Foreign Correspondent||thr||tt0032484
+FORGETTING SARAH MARSHALL||Forgetting Sarah Marshall||com, rom||tt0800039
+FORREST GUMP||Forrest Gump||dra||tt0109830
+FOUR LIONS||Four Lions||com, cri, dra||tt1341167
+FRASIER||Frasier||com||tt0106004
+FREAKS AND GEEKS||Freaks and Geeks||com, dra||tt0193676
+FRENCH CONNECTION||The French Connection||cri, dra, thr||tt0067116
+FRESH PRINCE OF BEL-AIR||The Fresh Prince of Bel-Air||com||tt0098800
+FRIED GREEN TOMATOES||Fried Green Tomatoes||dra||tt0101921
+FRIENDS||Friends||com||tt0108778
+FROM HERE TO ETERNITY||From Here to Eternity||dra, rom, war||tt0045793
+FROZEN PLANET||Frozen Planet||doc||tt2092588
+FROZEN||Frozen||ani||tt2294629
+FUGITIVE||The Fugitive||act, mys, thr||tt0106977
+FULL METAL JACKET||Full Metal Jacket||dra, war||tt0093058
+FULL MONTY||The Full Monty||com||tt0119164
+FURY||Fury||cri, dra, fil, thr||tt0027652
+FUTURAMA||Futurama||ani||tt0149460
+GAME OF THRONES||Game of Thrones||act, adv, fan||tt0944947
+GAME||The Game||dra, mys, thr||tt0119174
+GASLIGHT||Gaslight||cri, dra, mys, rom, thr||tt0036855
+GENERAL||The General||com||tt0017925
+GENTLEMEN||The Gentlemen||act, com, cri||tt8367814
+GERMANY, YEAR ZERO||Germany, Year Zero||dra, his, war||tt0039417
+GET OUT||Get Out||hor, mys||tt5052448
+GET SMART||Get Smart||act, adv, com, mys, sci||tt0058805
+GHOST AND MRS. MUIR||The Ghost and Mrs. Muir||com, dra, fan||tt0039420
+GHOSTBUSTERS||Ghostbusters||com, fan, sci||tt0087332
+GHOST||Ghost||dra, fan, rom, thr||tt0099653
+GIANT||Giant||dra||tt0049261
+GILDA||Gilda||dra, fil, rom, thr||tt0038559
+GILLIGAN'S ISLAND||Gilligan's Island||com||tt0057751
+GIRL WITH THE DRAGON TATTOO||The Girl with the Dragon Tattoo (remake)||cri, mys, thr||tt1568346
+GIRL WITH THE DRAGON TATTOO||The Girl with the Dragon Tattoo||cri, mys, thr||tt1132620
+GLADIATOR||Gladiator||act, adv, dra||tt0172495
+GLENGARRY GLEN ROSS||Glengarry Glen Ross||cri, dra, mys||tt0104348
+GLORY||Glory||bio, dra, his, war||tt0097441
+GLORY||The Glory||dra, mys, thr||tt21344706
+GOBLIN||Goblin||com, dra, fan, rom||tt5994364
+GODFATHER||The Godfather Part III||cri, dra||tt0099674
+GODFATHER||The Godfather Part II||cri, dra||tt0071562
+GODFATHER||The Godfather||cri, dra||tt0068646
+GOLD RUSH||The Gold Rush||com||tt0015864
+GOLDEN GIRLS||The Golden Girls||com||tt0088526
+GONE BABY GONE||Gone Baby Gone||cri, dra, mys, thr||tt0452623
+GONE GIRL||Gone Girl||dra, mys, thr||tt2267998
+GONE WITH THE WIND||Gone with the Wind||dra, rom, war||tt0031381
+GOOD WILL HUNTING||Good Will Hunting||dra, rom||tt0119217
+GOOD, THE BAD AND THE UGLY||The Good, the Bad and the Ugly||wes||tt0060196
+GOOD, THE BAD, THE WEIRD||The Good, the Bad, the Weird||act, adv, com||tt0901487
+GOODBYE, MR. CHIPS||Goodbye, Mr. Chips||dra, rom||tt0031385
+GOODFELLAS||GoodFellas||bio, cri, dra||tt0099685
+GOONIES||The Goonies||adv, com||tt0089218
+GRADUATE||The Graduate||com, dra, rom||tt0061722
+GRAN TORINO||Gran Torino||dra||tt1205489
+GRAND BUDAPEST HOTEL||The Grand Budapest Hotel||adv, com, cri||tt2278388
+GRAND ILLUSION||Grand Illusion||dra, war||tt0028950
+GRAPES OF WRATH||The Grapes of Wrath||dra||tt0032551
+GRAVE OF THE FIREFLIES||Grave of the Fireflies||ani||tt0095327
+GREASE||Grease||mus, rom||tt0077631
+GREAT DICTATOR||The Great Dictator||com||tt0032553
+GREAT ESCAPE||The Great Escape||adv, his, war, thr||tt0057115
+GREAT EXPECTATIONS||Great Expectations||adv, dra, mys, rom||tt0038574
+GREAT SILENCE||The Great Silence||wes||tt0063032
+GREEN BOOK||Green Book||bio, com, dra||tt6966692
+GREEN BUTCHERS||The Green Butchers||com, dra||tt0342492
+GREEN MILE||The Green Mile||cri, dra, fan, mys||tt0120689
+GREMLINS||Gremlins||fan||tt0087363
+GROUNDHOG DAY||Groundhog Day||com, fan, rom||tt0107048
+GRUMPY OLD MEN||Grumpy Old Men||com, rom||tt0107050
+GUESS WHO'S COMING TO DINNER||Guess Who's Coming to Dinner||dra||tt0061735
+GUN CRAZY||Gun Crazy||cri, dra, fil||tt0042530
+GUNFIGHTER||The Gunfighter||wes||tt0042531
+GUNS OF NAVARONE||The Guns of Navarone||act, adv, war||tt0054953
+HACHI: A DOG'S TALE||Hachi: A Dog's Tale||bio, dra||tt1028532
+HACKSAW RIDGE||Hacksaw Ridge||bio, dra, his, war||tt2119532
+HALLOWEEN||Halloween||hor||tt0077651
+HAMLET||Hamlet||dra||tt0116477
+HANDMAIDEN||The Handmaiden||dra, rom, thr||tt4016934
+HANGOVER||The Hangover||com||tt1119646
+HANNAH AND HER SISTERS||Hannah and Her Sisters||com, dra||tt0091167
+HANNIBAL||Hannibal||cri, hor, thr||tt2243973
+HAPPINESS||Happiness||com, dra||tt0147612
+HAPPY DAYS||Happy Days||com||tt0070992
+HAPPY GILMORE||Happy Gilmore||com, spo||tt0116483
+HARAKIRI||Harakiri||dra, mys||tt0056058
+HARD BOILED||Hard Boiled||act, cri||tt0104684
+HAROLD & KUMAR||Harold & Kumar Go to White Castle||com||tt0366551
+HAROLD AND MAUDE||Harold and Maude||com, dra, rom||tt0067185
+HARRY POTTER||Harry Potter and the Chamber of Secrets||adv, fan, mys||tt0295297
+HARRY POTTER||Harry Potter and the Deathly Hallows: Part 1||adv, fan, mys||tt0926084
+HARRY POTTER||Harry Potter and the Deathly Hallows: Part 2||adv, fan, mys||tt1201607
+HARRY POTTER||Harry Potter and the Goblet of Fire||adv, fan, mys||tt0330373
+HARRY POTTER||Harry Potter and the Half-Blood Prince||adv, fan, mys||tt0417741
+HARRY POTTER||Harry Potter and the Order of the Phoenix||adv, fan, mys||tt0373889
+HARRY POTTER||Harry Potter and the Philosopher's Stone||adv, fan, mys||tt0241527
+HARRY POTTER||Harry Potter and the Prisoner of Azkaban||adv, fan, mys||tt0304141
+HARVEY||Harvey||com, fan||tt0042546
+HATEFUL EIGHT||The Hateful Eight||cri, mys, wes||tt3460252
+HAUNTING||The Haunting||hor||tt0057129
+HEALER||Healer||act, com, cri||tt4284216
+HEATHERS||Heathers||com, cri||tt0097493
+HEAT||Heat||act, cri||tt0113277
+HEIRESS||The Heiress||dra, rom||tt0041452
+HELL OR HIGH WATER||Hell or High Water||cri, dra||tt2582782
+HELLRAISER||Hellraiser||hor||tt0093177
+HERCULES||Hercules||ani||tt0119282
+HEREDITARY||Hereditary||hor||tt7784604
+HERO||Hero||act, adv||tt0299977
+HIDDEN FORTRESS||The Hidden Fortress||act, adv||tt0051808
+HIGH AND LOW||High and Low||cri, dra, mys||tt0057565
+HIGH FIDELITY||High Fidelity||com, muc, rom||tt0146882
+HIGH NOON||High Noon||wes||tt0044706
+HIGH SIERRA||High Sierra||act, adv, fil||tt0033717
+HIROSHIMA MON AMOUR||Hiroshima Mon Amour||dra, rom||tt0052893
+HIS GIRL FRIDAY||His Girl Friday||com, rom||tt0032599
+HISTORY OF VIOLENCE||A History of Violence||cri, dra, thr||tt0399146
+HOGAN'S HEROES||Hogan's Heroes||com, war||tt0058812
+HOLIDAY INN||Holiday Inn||mus, rom||tt0034862
+HOLIDAY||Holiday||com, rom||tt0030241
+HOLY MOUNTAIN||The Holy Mountain||adv, fan||tt0071615
+HOME ALONE||Home Alone 2: Lost in New York||com||tt0104431
+HOME ALONE||Home Alone||com||tt0099785
+HOMETOWN CHA-CHA-CHA||Hometown Cha-Cha-Cha||com, dra, rom||tt14518756
+HONEYMOONERS||The Honeymooners||com||tt0042114
+HORRIBLE BOSSES||Horrible Bosses||com, cri||tt1499658
+HOSPITAL PLAYLIST||Hospital Playlist||com, dra, rom||tt11769304
+HOT FUZZ||Hot Fuzz||act, com||tt0425112
+HOUSE OF THE DRAGON||House of the Dragon||act, adv, fan||tt11198330
+HOUSE||House||dra||tt0412142
+HOW GREEN WAS MY VALLEY||How Green Was My Valley||dra||tt0033729
+HOW THE UNIVERSE WORKS||How the Universe Works||doc||tt1832668
+HOW TO STEAL A MILLION||How to Steal a Million||com, cri, rom||tt0060522
+HOW TO TRAIN YOUR DRAGON||How to Train Your Dragon 2||ani||tt1646971
+HOW TO TRAIN YOUR DRAGON||How to Train Your Dragon||ani||tt0892769
+HUDSUCKER PROXY||The Hudsucker Proxy||com, fan||tt0110074
+HUD||Hud||dra||tt0057163
+HUMAN PLANET||Human Planet||doc||tt1806234
+HUNT FOR THE WILDERPEOPLE||Hunt for the Wilderpeople||adv, com, dra||tt4698684
+HUNT||The Hunt||dra||tt2106476
+HUSH... HUSH, SWEET CHARLOTTE||Hush... Hush, Sweet Charlotte||cri, mys, thr||tt0058213
+HUSTLER||The Hustler||dra, spo||tt0054997
+I AM A FUGITIVE FROM A CHAIN GANG||I Am a Fugitive from a Chain Gang||cri, dra, fil||tt0023042
+I CONFESS||I Confess||cri, dra, thr||tt0045897
+I LOVE LUCY||I Love Lucy||com||tt0043208
+I LOVE YOU, MAN||I Love You, Man||com, rom||tt1155056
+I SAW THE DEVIL||I Saw the Devil||act, cri, thr||tt1588170
+I VITELLONI||I Vitelloni||com, dra||tt0046521
+ICE AGE||Ice Age||ani||tt0268380
+IKIRU||Ikiru||dra||tt0044741
+IL SORPASSO||Il Sorpasso||com, dra||tt0056512
+IMITATION GAME||The Imitation Game||bio, dra, war||tt2084970
+IMITATION OF LIFE||Imitation of Life||dra||tt0052918
+IN A LONELY PLACE||In a Lonely Place||dra, fil, mys, rom, thr||tt0042593
+IN BRUGES||In Bruges||com, cri, dra||tt0780536
+IN COLD BLOOD||In Cold Blood||bio, cri, his||tt0061809
+IN THE HEAT OF THE NIGHT||In the Heat of the Night||dra, mys, thr||tt0061811
+IN THE MOOD FOR LOVE||In the Mood for Love||dra, rom||tt0118694
+IN THE NAME OF THE FATHER||In the Name of the Father||bio, cri, dra||tt0107207
+INCENDIES||Incendies||dra, mys, war||tt1255953
+INCEPTION||Inception||act, adv, sci||tt1375666
+INCREDIBLES||The Incredibles||ani||tt0317705
+INDIANA JONES||Indiana Jones and the Last Crusade||act, adv, fan||tt0097576
+INDIANA JONES||Indiana Jones and the Raiders of the Lost Ark||act, adv, fan||tt0082971
+INDIANA JONES||Indiana Jones and the Temple of Doom||act, adv, fan||tt0087469
+INFERNAL AFFAIRS||Infernal Affairs||cri, dra, mys, thr||tt0338564
+INGLOURIOUS BASTERDS||Inglourious Basterds||adv, war||tt0361748
+INHERIT THE WIND||Inherit the Wind||bio, dra, his||tt0053946
+INSIDE MAN||Inside Man||cri, dra, mys||tt0454848
+INSIDE OUT||Inside Out||ani||tt2096673
+INSIDER||The Insider||bio, dra, thr||tt0140352
+INTERSTELLAR||Interstellar||adv, sci||tt0816692
+INTO THE WILD||Into the Wild||adv, bio, dra||tt0758758
+INTOUCHABLES||The Intouchables||bio, com, dra||tt1675434
+INVASION OF THE BODY SNATCHERS||Invasion of the Body Snatchers||hor, sci||tt0077745
+INVINCIBLE||Invincible||ani||tt6741278
+INVISIBLE GUEST||The Invisible Guest||cri, mys, thr||tt4857264
+INVISIBLE MAN||The Invisible Man||hor, sci||tt0024184
+IP MAN||Ip Man||act, bio||tt1220719
+IRISHMAN||The Irishman||bio, cri, dra||tt1302006
+IRON GIANT||The Iron Giant||ani||tt0129167
+ISLE OF DOGS||Isle of Dogs||ani||tt5104604
+IT CROWD||The IT Crowd||com||tt0487831
+IT FOLLOWS||It Follows||hor||tt3235888
+IT HAPPENED ONE NIGHT||It Happened One Night||com, rom||tt0025316
+IT'S A MAD, MAD, MAD, MAD WORLD||It's a Mad, Mad, Mad, Mad World||adv, com||tt0057193
+IT'S A WONDERFUL LIFE||It's a Wonderful Life||dra, fan, rom||tt0038650
+IT'S ALWAYS SUNNY IN PHILADELPHIA||It's Always Sunny in Philadelphia||com||tt0472954
+IT'S OKAY TO NOT BE OKAY||It's Okay to Not Be Okay||com, dra, rom||tt12451520
+IVAN'S CHILDHOOD||Ivan's Childhood||dra, war||tt0056111
+JACKIE BROWN||Jackie Brown||cri, thr||tt0119396
+JAMES BOND||James Bond: Casino Royale||act, adv||tt0381061
+JAMES BOND||James Bond: Dr. No||act, adv||tt0055928
+JAMES BOND||James Bond: From Russia with Love||act, adv||tt0057076
+JAMES BOND||James Bond: Goldfinger||act, adv||tt0058150
+JAMES BOND||James Bond: Skyfall||act, adv||tt1074638
+JAWS||Jaws||adv, thr||tt0073195
+JEFFERSONS||The Jeffersons||com||tt0072519
+JEREMIAH JOHNSON||Jeremiah Johnson||adv, wes||tt0068762
+JERK||The Jerk||com||tt0079367
+JERRY MAGUIRE||Jerry Maguire||dra, rom, spo||tt0116695
+JFK||JFK||dra, his, thr||tt0102138
+JOHN WICK||John Wick: Chapter 2||act, cri||tt4425200
+JOHN WICK||John Wick: Chapter 3 - Parabellum||act, cri||tt6146586
+JOHN WICK||John Wick: Chapter 4||act, cri||tt10366206
+JOHN WICK||John Wick||act, cri||tt2911666
+JOHNNY GUITAR||Johnny Guitar||wes||tt0047136
+JOINT SECURITY AREA||Joint Security Area||act, thr, war||tt0260991
+JOJO RABBIT||Jojo Rabbit||com, dra, war||tt2584384
+JOKER||Joker||cri, thr||tt7286456
+JUDGMENT AT NUREMBERG||Judgment at Nuremberg||dra, war||tt0055031
+JULES AND JIM||Jules and Jim||dra, rom||tt0055032
+JUNGLE BOOK||The Jungle Book||ani||tt0061852
+JUNO||Juno||com, dra||tt0467406
+JURASSIC PARK||Jurassic Park||act, adv, sci, thr||tt0107290
+KAGEMUSHA||Kagemusha||dra, his, war||tt0080979
+KARATE KID||The Karate Kid||dra, spo||tt0087538
+KELLY'S HEROES||Kelly's Heroes||adv, war||tt0065938
+KES||Kes||dra||tt0064541
+KEY LARGO||Key Largo||cri, dra, fil, thr||tt0040506
+KICK-ASS||Kick-Ass||act, com||tt1250777
+KID||The Kid||com||tt0012349
+KIKI'S DELIVERY SERVICE||Kiki's Delivery Service||ani||tt0097814
+KIKUJIRO||Kikujiro||dra, com||tt0199683
+KILL BILL||Kill Bill: Vol. 1||act||tt0266697
+KILL BILL||Kill Bill: Vol. 2||act||tt0378194
+KILLERS||The Killers||cri, dra, fil, mys||tt0038669
+KILLER||The Killer||act, cri||tt0097202
+KILLING FIELDS||The Killing Fields||bio, dra, his, war||tt0087553
+KILLING OF A SACRED DEER||The Killing of a Sacred Deer||hor||tt5715874
+KILLING||The Killing||cri, dra, fil, thr||tt0049406
+KIND HEARTS AND CORONETS||Kind Hearts and Coronets||com, cri||tt0041546
+KINDERGARTEN COP||Kindergarten Cop||act, com||tt0099938
+KING AND I||The King and I||bio, mus, rom||tt0049408
+KING OF COMEDY||The King of Comedy||com, cri, dra||tt0085794
+KING OF QUEENS||The King of Queens||com||tt0165581
+KING'S SPEECH||The King's Speech||bio, dra, his||tt1504320
+KINGDOM||Kingdom||act, hor||tt6611916
+KINGPIN||Kingpin||com, spo||tt0116778
+KINGSMAN: THE SECRET SERVICE||Kingsman: The Secret Service||act, adv, com||tt2802144
+KISS KISS BANG BANG||Kiss Kiss Bang Bang||com, cri, mys, thr||tt0373469
+KISS ME DEADLY||Kiss Me Deadly||cri, fil, mys||tt0048261
+KLAUS||Klaus||ani||tt4729430
+KNIVES OUT||Knives Out||com, cri, mys||tt8946378
+KNOCKED UP||Knocked Up||com, rom||tt0478311
+KRAMER VS. KRAMER||Kramer vs. Kramer||dra||tt0079417
+KUBO AND THE TWO STRINGS||Kubo and the Two Strings||ani||tt4302938
+KUNG FU HUSTLE||Kung Fu Hustle||act, com, fan||tt0373074
+KUNG FU PANDA||Kung Fu Panda||ani||tt0441773
+KWAIDAN||Kwaidan||fan, hor||tt0058279
+L.A. CONFIDENTIAL||L.A. Confidential||cri, mys, thr||tt0119488
+LA BAMBA||La Bamba||bio, dra, muc||tt0093378
+LA LA LAND||La La Land||com, dra, muc, mus, rom||tt3783958
+LA NOTTE||La Notte||dra||tt0054130
+LADY AND THE TRAMP||Lady and the Tramp||ani||tt0048280
+LADY BIRD||Lady Bird||com, dra||tt4925292
+LADY EVE||The Lady Eve||com, rom||tt0033804
+LADY FROM SHANGHAI||The Lady from Shanghai||cri, fil, mys, thr||tt0040525
+LADY VANISHES||The Lady Vanishes||mys, thr||tt0030341
+LADYKILLERS||The Ladykillers||com, cri||tt0048281
+LAND BEFORE TIME||The Land Before Time||ani||tt0095489
+LAND OF MINE||Land of Mine||dra, his, war||tt3841424
+LAST DETAIL||The Last Detail||com, dra||tt0070290
+LAST EMPEROR||The Last Emperor||bio, dra, his||tt0093389
+LAST LAUGH||The Last Laugh||dra||tt0015064
+LAST OF THE MOHICANS||The Last of the Mohicans||act, adv, dra, rom, war||tt0104691
+LAST OF US||The Last of Us||act, adv, hor, sci||tt3581920
+LAST PICTURE SHOW||The Last Picture Show||dra, rom||tt0067328
+LAST YEAR AT MARIENBAD||Last Year at Marienbad||dra, mys||tt0054632
+LATE SPRING||Late Spring||dra||tt0041154
+LAURA||Laura||dra, fil, mys||tt0037008
+LAUREL & HARDY||Laurel & Hardy: Busy Bodies||com||tt0023858
+LAUREL & HARDY||Laurel & Hardy: Helpmates||com||tt0022994
+LAUREL & HARDY||Laurel & Hardy: Sons of the Desert||com||tt0024601
+LAUREL & HARDY||Laurel & Hardy: The Music Box||com||tt0023251
+LAUREL & HARDY||Laurel & Hardy: Way Out West||com, wes||tt0029747
+LAVENDER HILL MOB||The Lavender Hill Mob||com, cri||tt0044829
+LAWRENCE OF ARABIA||Lawrence of Arabia||adv, bio, dra, war||tt0056172
+LE CERCLE ROUGE||Le Cercle Rouge||cri, thr||tt0065531
+LE CORBEAU||Le Corbeau||cri, dra, mys, thr||tt0035753
+LE SAMOURAI||Le Samouraï||cri, dra, thr||tt0062229
+LE TROU||Le Trou||cri, dra, thr||tt0054407
+LEAGUE OF THEIR OWN||A League of Their Own||com, dra, spo||tt0104694
+LEAVE IT TO BEAVER||Leave It to Beaver||com||tt0050032
+LEAVING LAS VEGAS||Leaving Las Vegas||dra, rom||tt0113627
+LEON: THE PROFESSIONAL||Léon: The Professional||act, cri||tt0110413
+LEOPARD||The Leopard||dra, his||tt0057091
+LET THE RIGHT ONE IN||Let the Right One In||fan, hor||tt1139797
+LETHAL WEAPON||Lethal Weapon 2||act, cri||tt0097733
+LETHAL WEAPON||Lethal Weapon 3||act, cri||tt0104714
+LETHAL WEAPON||Lethal Weapon||act, cri||tt0093409
+LETTER FROM AN UNKNOWN WOMAN||Letter from an Unknown Woman||dra, rom||tt0040536
+LETTER TO THREE WIVES||A Letter to Three Wives||com, dra, rom||tt0041587
+LETTERKENNY||Letterkenny||com||tt4647692
+LETTERS FROM IWO JIMA||Letters from Iwo Jima||his, war||tt0498380
+LETTER||The Letter||cri, dra, fil, mys||tt0032701
+LIAR LIAR||Liar Liar||com, fan||tt0119528
+LIBELED LADY||Libeled Lady||com, rom||tt0027884
+LIFE AND DEATH OF COLONEL BLIMP||The Life and Death of Colonel Blimp||dra, rom, war||tt0036112
+LIFE AQUATIC WITH STEVE ZISSOU||The Life Aquatic with Steve Zissou||adv, com, dra||tt0362270
+LIFE IN COLD BLOOD||Life in Cold Blood||doc||tt1181716
+LIFE IN THE UNDERGROWTH||Life in the Undergrowth||doc||tt0760222
+LIFE IS BEAUTIFUL||Life Is Beautiful||dra, rom, war||tt0118799
+LIFE OF BIRDS||The Life of Birds||doc||tt0175394
+LIFE OF MAMMALS||The Life of Mammals||doc||tt0364174
+LIFEBOAT||Lifeboat||dra, war||tt0037017
+LIFE||Life||doc||tt1533395
+LIGHTHOUSE||The Lighthouse||fan, hor, mys||tt7984734
+LILIES OF THE FIELD||Lilies of the Field||dra||tt0057251
+LILO & STITCH||Lilo & Stitch||ani||tt0275847
+LION IN WINTER||The Lion in Winter||bio, dra, his||tt0063227
+LION KING||The Lion King||ani||tt0110357
+LITTLE BIG MAN||Little Big Man||adv, wes||tt0065988
+LITTLE FOXES||The Little Foxes||dra, rom||tt0033836
+LITTLE MERMAID||The Little Mermaid||ani||tt0097757
+LITTLE MISS SUNSHINE||Little Miss Sunshine||com, dra||tt0449059
+LITTLE SHOP OF HORRORS||Little Shop of Horrors||com, sci, mus||tt0091419
+LITTLE WOMEN||Little Women||dra, rom||tt3281548
+LIVES OF OTHERS||The Lives of Others||dra, mys, thr||tt0405094
+LIVING DEAD||Living Dead: Dawn of the Dead||hor||tt0077402
+LIVING DEAD||Living Dead: Day of the Dead||hor||tt0088993
+LIVING DEAD||Living Dead: Night of the Living Dead||hor||tt0063350
+LIZARD||The Lizard||com, dra||tt0416960
+LOCK, STOCK AND TWO SMOKING BARRELS||Lock, Stock and Two Smoking Barrels||com, cri||tt0120735
+LOLITA||Lolita||cri, dra, rom||tt0056193
+LONELY ARE THE BRAVE||Lonely Are the Brave||wes||tt0056195
+LONGEST DAY||The Longest Day||his, war||tt0056197
+LORD OF THE RINGS||The Lord of the Rings: The Fellowship of the Ring||act, adv, fan||tt0120737
+LORD OF THE RINGS||The Lord of the Rings: The Return of the King||act, adv, fan||tt0167260
+LORD OF THE RINGS||The Lord of the Rings: The Two Towers||act, adv, fan||tt0167261
+LORD OF WAR||Lord of War||cri, dra||tt0399295
+LOST BOYS||The Lost Boys||com, fan||tt0093437
+LOST HIGHWAY||Lost Highway||mys, thr||tt0116922
+LOST HORIZON||Lost Horizon||adv, fan, mys||tt0029162
+LOST WEEKEND||The Lost Weekend||dra, fil||tt0037884
+LUCKY NUMBER SLEVIN||Lucky Number Slevin||cri, dra, thr||tt0425210
+M*A*S*H||M*A*S*H||com, dra, war||tt0066026
+M*A*S*H||M*A*S*H||com, dra, war||tt0068098
+MAD MAX||Mad Max: Fury Road||act, adv, sci||tt1392190
+MAD MAX||Mad Max: The Road Warrior||act, adv, sci||tt0082694
+MAD MEN||Mad Men||dra||tt0804503
+MAGNIFICENT SEVEN||The Magnificent Seven||act, adv, wes||tt0054047
+MAGNOLIA||Magnolia||dra||tt0175880
+MAKE WAY FOR TOMORROW||Make Way for Tomorrow||dra, rom||tt0029192
+MALCOLM IN THE MIDDLE||Malcolm in the Middle||com||tt0212671
+MALTESE FALCON||The Maltese Falcon||cri, fil, mys||tt0033870
+MAMMA MIA||Mamma Mia! Here We Go Again||mus, rom||tt6911608
+MAMMA MIA||Mamma Mia!||mus, rom||tt0795421
+MAN CALLED OVE||A Man Called Ove||com, dra, rom||tt4080728
+MAN ESCAPED||A Man Escaped||thr, war||tt0049902
+MAN FOR ALL SEASONS||A Man for All Seasons||bio, dra, his||tt0060665
+MAN FROM NOWHERE||The Man from Nowhere||act, cri||tt1527788
+MAN WHO KNEW TOO MUCH||The Man Who Knew Too Much||dra, thr||tt0049470
+MAN WHO SHOT LIBERTY VALANCE||The Man Who Shot Liberty Valance||dra, wes||tt0056217
+MAN WHO WOULD BE KING||The Man Who Would Be King||adv, war||tt0073341
+MANCHESTER BY THE SEA||Manchester by the Sea||dra||tt4034228
+MANCHURIAN CANDIDATE||The Manchurian Candidate||dra, thr||tt0056218
+MANHATTAN||Manhattan||com, dra, rom||tt0079522
+MARATHON MAN||Marathon Man||cri, thr||tt0074860
+MARRIAGE STORY||Marriage Story||dra, rom||tt7653254
+MARRIED... WITH CHILDREN||Married... with Children||com||tt0092400
+MARTIAN||The Martian||adv, sci||tt3659388
+MARTY||Marty||dra, rom||tt0048356
+MARVELOUS MRS. MAISEL||The Marvelous Mrs. Maisel||com, dra||tt5788792
+MARVEL||Marvel's Daredevil||act, cri||tt3322312
+MARVEL||Marvel's Loki||act, adv, fan, sci||tt9140554
+MARX BROTHERS||Marx Brothers: A Day at the Races||com||tt0028772
+MARX BROTHERS||Marx Brothers: A Night at the Opera||com||tt0026778
+MARX BROTHERS||Marx Brothers: Animal Crackers||com||tt0020640
+MARX BROTHERS||Marx Brothers: Duck Soup||com||tt0023969
+MARX BROTHERS||Marx Brothers: Horse Feathers||com||tt0023027
+MARX BROTHERS||Marx Brothers: Monkey Business||com||tt0022158
+MARY AND MAX||Mary and Max||ani||tt0978762
+MARY POPPINS||Mary Poppins||fan, mus||tt0058331
+MARY TYLER MOORE SHOW||The Mary Tyler Moore Show||com||tt0065314
+MATILDA||Matilda||com, fan||tt0117008
+MATRIX||The Matrix||act, sci||tt0133093
+ME AND EARL AND THE DYING GIRL||Me and Earl and the Dying Girl||com, dra, rom||tt2582496
+MEAN GIRLS||Mean Girls||com||tt0377092
+MEET JOHN DOE||Meet John Doe||com, dra, rom||tt0033891
+MEET ME IN ST. LOUIS||Meet Me in St. Louis||mus||tt0037059
+MEET THE PARENTS||Meet the Fockers||com, rom||tt0290002
+MEET THE PARENTS||Meet the Parents||com, rom||tt0212338
+MEMENTO||Memento||mys, thr||tt0209144
+MEMORIES OF MURDER||Memories of Murder||cri, dra, mys, thr||tt0353969
+MEN IN BLACK||Men in Black||act, adv, com, sci||tt0119654
+MENU||The Menu||hor||tt9764362
+MIDNIGHT COWBOY||Midnight Cowboy||dra||tt0064665
+MIDNIGHT IN PARIS||Midnight in Paris||com, fan, rom||tt1605783
+MIDNIGHT RUN||Midnight Run||act, com||tt0095631
+MIDSOMMAR||Midsommar||hor||tt8772262
+MILDRED PIERCE||Mildred Pierce||cri, dra, fil, mys||tt0037913
+MILLER'S CROSSING||Miller's Crossing||cri, dra||tt0100150
+MILLION DOLLAR BABY||Million Dollar Baby||dra, spo||tt0405159
+MINORITY REPORT||Minority Report||act, mys, sci||tt0181689
+MIRACLE IN CELL NO. 7||Miracle in Cell No. 7||com, dra||tt2659414
+MIRACLE ON 34TH STREET||Miracle on 34th Street||com, dra||tt0039628
+MIRACLE WORKER||The Miracle Worker||bio, dra||tt0056241
+MIRROR||Mirror||bio, dra||tt0072443
+MISERY||Misery||thr||tt0100157
+MISSING||Missing||bio, dra, his, mys||tt0084335
+MISSION: IMPOSSIBLE||Mission: Impossible - Fallout||act, adv||tt4912910
+MISSION: IMPOSSIBLE||Mission: Impossible - Ghost Protocol||act, adv||tt1229238
+MISSION: IMPOSSIBLE||Mission: Impossible - Rogue Nation||act, adv||tt2381249
+MISSISSIPPI BURNING||Mississippi Burning||cri, dra, mys||tt0095647
+MISTER ROBERTS||Mister Roberts||com, dra, war||tt0048380
+MIST||The Mist||hor, sci||tt0884328
+MITCHELLS VS. THE MACHINES||The Mitchells vs. the Machines||ani||tt7979580
+MOANA||Moana||ani||tt3521164
+MODERN FAMILY||Modern Family||com||tt1442437
+MODERN TIMES||Modern Times||com||tt0027977
+MON ONCLE||Mon Oncle||com||tt0050706
+MONEY PIT||The Money Pit||com||tt0091541
+MONSTERS, INC.||Monsters, Inc.||ani||tt0198781
+MONTY PYTHON||Monty Python and the Holy Grail||adv, com, fan||tt0071853
+MONTY PYTHON||Monty Python's Flying Circus||com||tt0063929
+MONTY PYTHON||Monty Python's Life of Brian||com||tt0079470
+MOONRISE KINGDOM||Moonrise Kingdom||com, dra, rom||tt1748122
+MOONSTRUCK||Moonstruck||com, dra, rom||tt0093565
+MOON||Moon||mys, sci||tt1182345
+MOTHER||Mother||cri, dra||tt1216496
+MOUSE||Mouse||act, cri, mys, sci||tt13634792
+MOVE TO HEAVEN||Move to Heaven||dra||tt11052470
+MR. BEAN||Mr. Bean||com||tt0096657
+MR. DEEDS GOES TO TOWN||Mr. Deeds Goes to Town||com, dra, rom||tt0027996
+MR. MOM||Mr. Mom||com, dra||tt0085970
+MR. NOBODY||Mr. Nobody||fan, rom, sci||tt0485947
+MR. QUEEN||Mr. Queen||com, fan, rom||tt13400006
+MR. SMITH GOES TO WASHINGTON||Mr. Smith Goes to Washington||com, dra||tt0031679
+MR. SUNSHINE||Mr. Sunshine||act, rom, war||tt7094780
+MRS. DOUBTFIRE||Mrs. Doubtfire||com||tt0107614
+MRS. MINIVER||Mrs. Miniver||dra, rom, war||tt0035093
+MULAN||Mulan||ani||tt0120762
+MULHOLLAND DRIVE||Mulholland Drive||dra, mys, thr||tt0166924
+MUMMY||The Mummy||act, adv, fan||tt0120616
+MUNSTERS||The Munsters||com, fan||tt0057773
+MUPPET||The Muppet Christmas Carol||com, fan||tt0104940
+MUPPET||The Muppet Movie||com||tt0079588
+MUPPET||The Muppet Show||com||tt0074028
+MURDER, MY SWEET||Murder, My Sweet||cri, fil, mys, thr||tt0037101
+MUSIC MAN||The Music Man||com, mus, rom||tt0056262
+MUTINY ON THE BOUNTY||Mutiny on the Bounty||adv, bio, his||tt0026752
+MY COUSIN VINNY||My Cousin Vinny||com, cri||tt0104952
+MY DARLING CLEMENTINE||My Darling Clementine||dra, rom, wes||tt0038762
+MY FAIR LADY||My Fair Lady||mus, rom||tt0058385
+MY LEFT FOOT||My Left Foot||bio, dra||tt0097937
+MY MAN GODFREY||My Man Godfrey||com, dra, rom||tt0028010
+MY MISTER||My Mister||dra||tt7923710
+MY NEIGHBOR TOTORO||My Neighbor Totoro||ani||tt0096283
+MY NIGHT AT MAUD'S||My Night at Maud's||com, dra, rom||tt0064612
+MY SASSY GIRL||My Sassy Girl||com, dra, rom||tt0293715
+MYSTIC RIVER||Mystic River||cri, dra, mys, thr||tt0327056
+M||M||cri, mys, thr||tt0022100
+NAKED CITY||The Naked City||cri, fil, mys||tt0040636
+NAKED GUN||The Naked Gun: From the Files of Police Squad!||com, cri||tt0095705
+NANNY MCPHEE||Nanny McPhee||com, fan||tt0396752
+NARCOS||Narcos||cri, dra||tt2707408
+NATHAN FOR YOU||Nathan For You||com||tt2297757
+NATIONAL LAMPOON'S ANIMAL HOUSE||National Lampoon's Animal House||com||tt0077975
+NATIONAL LAMPOON'S VACATION||National Lampoon's Christmas Vacation||com||tt0097958
+NATIONAL LAMPOON'S VACATION||National Lampoon's Vacation||com||tt0085995
+NAUSICAA OF THE VALLEY OF THE WIND||Nausicaä of the Valley of the Wind||ani||tt0087544
+NAVIGATOR||The Navigator||com||tt0015163
+NETWORK||Network||dra||tt0074958
+NEVERENDING STORY||The NeverEnding Story||adv, fan||tt0088323
+NICE GUYS||The Nice Guys||act, com, cri||tt3799694
+NIGHT AND THE CITY||Night and the City||cri, fil, spo||tt0042788
+NIGHT COURT||Night Court||com||tt0086770
+NIGHT OF THE CREEPS||Night of the Creeps||com, hor||tt0091630
+NIGHT OF THE HUNTER||The Night of the Hunter||cri, fil, thr||tt0048424
+NIGHT OF THE IGUANA||The Night of the Iguana||dra||tt0058404
+NIGHT ON EARTH||Night on Earth||com, dra||tt0102536
+NIGHT TO REMEMBER||A Night to Remember||dra, his||tt0051994
+NIGHTCRAWLER||Nightcrawler||cri, thr||tt2872718
+NIGHTMARE ALLEY||Nightmare Alley||fil||tt0039661
+NIGHTMARE BEFORE CHRISTMAS||The Nightmare Before Christmas||ani||tt0107688
+NIGHTMARE ON ELM STREET||A Nightmare on Elm Street||hor||tt0087800
+NIGHTS OF CABIRIA||Nights of Cabiria||dra||tt0050783
+NINOTCHKA||Ninotchka||com, rom||tt0031725
+NO COUNTRY FOR OLD MEN||No Country for Old Men||cri, thr||tt0477348
+NO MAN'S LAND||No Man's Land||war, com, dra||tt0283509
+NOBODY KNOWS||Nobody Knows||dra||tt0408664
+NORTH BY NORTHWEST||North by Northwest||act, adv, mys, thr||tt0053125
+NOTEBOOK||The Notebook||dra, rom||tt0332280
+NOTORIOUS||Notorious||dra, fil, rom, thr||tt0038787
+NOW, VOYAGER||Now, Voyager||dra, rom||tt0035140
+NUN'S STORY||The Nun's Story||dra||tt0053131
+O BROTHER, WHERE ART THOU?||O Brother, Where Art Thou?||adv, com, cri, muc||tt0190590
+OCEAN'S ELEVEN||Ocean's Eleven||cri||tt0240772
+OCTOBER SKY||October Sky||bio, dra||tt0132477
+ODD COUPLE||The Odd Couple||com||tt0063374
+OFFICE SPACE||Office Space||com||tt0151804
+OFFICE||The Office (UK)||com||tt0290978
+OFFICE||The Office (US)||com||tt0386676
+OLD SCHOOL||Old School||com||tt0302886
+OLDBOY||Oldboy||act, mys, thr||tt0364569
+OLIVER!||Oliver!||dra, mus||tt0063385
+OMEN||The Omen||hor, mys||tt0075005
+ON GOLDEN POND||On Golden Pond||dra||tt0082846
+ON THE TOWN||On the Town||mus, rom||tt0041716
+ON THE WATERFRONT||On the Waterfront||cri, dra||tt0047296
+ONCE UPON A TIME IN AMERICA||Once Upon a Time in America||cri, dra||tt0087843
+ONCE UPON A TIME IN HOLLYWOOD||Once Upon a Time in Hollywood||com, dra||tt7131622
+ONCE UPON A TIME IN THE WEST||Once Upon a Time in the West||wes||tt0064116
+ONCE WERE WARRIORS||Once Were Warriors||cri, dra||tt0110729
+ONE FLEW OVER THE CUCKOO'S NEST||One Flew Over the Cuckoo's Nest||dra||tt0073486
+ONE HUNDRED AND ONE DALMATIANS||One Hundred and One Dalmatians||ani||tt0055254
+ONE PIECE||One Piece||act, adv||tt11737520
+ONE STRANGE ROCK||One Strange Rock||doc||tt7651892
+ONE, TWO, THREE||One, Two, Three||com||tt0055256
+ONLY ANGELS HAVE WINGS||Only Angels Have Wings||adv, dra, rom||tt0031762
+ONLY FOOLS AND HORSES||Only Fools and Horses||com||tt0081912
+ONLY MURDERS IN THE BUILDING||Only Murders in the Building||com, cri, mys||tt11691774
+OPEN RANGE||Open Range||wes||tt0316356
+OPPENHEIMER||Oppenheimer||bio, dra, his||tt15398776
+ORDET||Ordet||dra||tt0048452
+ORDINARY PEOPLE||Ordinary People||dra||tt0081283
+ORPHEUS||Orpheus||dra, fan, rom||tt0041719
+OTHER GUYS||The Other Guys||act, com||tt1386588
+OUR HOSPITALITY||Our Hospitality||com, sil||tt0014341
+OUR PLANET||Our Planet||doc||tt9253866
+OUT OF THE PAST||Out of the Past||cri, dra, fil||tt0039689
+OUTER LIMITS||The Outer Limits||fan, hor, sci||tt0056777
+OUTLAW JOSEY WALES||The Outlaw Josey Wales||wes||tt0075029
+OUTSIDERS||The Outsiders||cri, dra||tt0086066
+OVERBOARD||Overboard||com, rom||tt0093693
+OX-BOW INCIDENT||The Ox-Bow Incident||dra, wes||tt0036244
+PALM SPRINGS||Palm Springs||com, fan, rom||tt9484998
+PAN'S LABYRINTH||Pan's Labyrinth||dra, fan, war||tt0457430
+PAPER MOON||Paper Moon||com, cri, dra||tt0070510
+PAPILLON||Papillon||bio, cri, dra||tt0070511
+PARASITE||Parasite||dra, thr||tt6751668
+PARENTHOOD||Parenthood||com, dra||tt0098067
+PARIS, TEXAS||Paris, Texas||dra||tt0087884
+PARKS AND RECREATION||Parks and Recreation||com||tt1266020
+PARTY||The Party||com||tt0063415
+PASSION OF JOAN OF ARC||The Passion of Joan of Arc||bio, dra, his||tt0019254
+PAST LIVES||Past Lives||dra, rom||tt13238346
+PATCH OF BLUE||A Patch of Blue||dra, rom||tt0059573
+PATHS OF GLORY||Paths of Glory||dra, war||tt0050825
+PATTON||Patton||bio, war||tt0066206
+PAUL||Paul||adv, com, sci||tt1092026
+PEACEMAKER||Peacemaker||act, adv, com, fan, sci||tt13146488
+PEAKY BLINDERS||Peaky Blinders||cri, dra||tt2442560
+PEEP SHOW||Peep Show||com||tt0387764
+PEEPING TOM||Peeping Tom||thr||tt0054167
+PERFECT BLUE||Perfect Blue||ani||tt0156887
+PERFECT WORLD||A Perfect World||cri, dra||tt0107808
+PERKS OF BEING A WALLFLOWER||The Perks of Being a Wallflower||dra||tt1659337
+PERSONA||Persona||dra, thr||tt0060827
+PET SEMATARY||Pet Sematary||hor||tt0098084
+PETER PAN||Peter Pan||ani||tt0046183
+PETRIFIED FOREST||The Petrified Forest||dra, thr||tt0028096
+PHILADELPHIA STORY||The Philadelphia Story||com, rom||tt0032904
+PHILADELPHIA||Philadelphia||dra||tt0107818
+PIANIST||The Pianist||bio, dra, muc, war||tt0253474
+PICKUP ON SOUTH STREET||Pickup on South Street||cri, fil, mys||tt0046187
+PICTURE OF DORIAN GRAY||The Picture of Dorian Gray||fan, mys, thr||tt0037988
+PILLOW TALK||Pillow Talk||com, rom||tt0053172
+PINCHCLIFFE GRAND PRIX||The Pinchcliffe Grand Prix||ani||tt0073000
+PINOCCHIO||Pinocchio||ani||tt0032910
+PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: At World's End||act, adv, fan||tt0449088
+PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: Dead Man's Chest||act, adv, fan||tt0383574
+PIRATES OF THE CARIBBEAN||Pirates of the Caribbean: The Curse of the Black Pearl||act, adv, fan||tt0325980
+PITCH PERFECT||Pitch Perfect||com, muc, rom||tt1981677
+PLACE IN THE SUN||A Place in the Sun||dra, rom||tt0043924
+PLANES, TRAINS AND AUTOMOBILES||Planes, Trains and Automobiles||com||tt0093748
+PLANET EARTH||Planet Earth II||doc||tt5491994
+PLANET EARTH||Planet Earth||doc||tt0795176
+PLANET OF THE APES||Planet of the Apes: Dawn of the Planet of the Apes||act, adv, sci||tt2103281
+PLANET OF THE APES||Planet of the Apes: Rise of the Planet of the Apes||act, adv, sci||tt1318514
+PLANET OF THE APES||Planet of the Apes: War for the Planet of the Apes||act, adv, sci||tt3450958
+PLANET OF THE APES||Planet of the Apes||adv, sci||tt0063442
+PLANETS||The Planets||doc||tt10394800
+PLATOON||Platoon||dra, war||tt0091763
+PLAYTIME||PlayTime||com||tt0062136
+PLEASANTVILLE||Pleasantville||fan||tt0120789
+POINT BREAK||Point Break||act, cri||tt0102685
+POLICE ACADEMY||Police Academy||com||tt0087928
+POLICE STORY||Police Story||act, com||tt0089374
+POLTERGEIST||Poltergeist||hor||tt0084516
+PORTRAIT OF A LADY ON FIRE||Portrait of a Lady on Fire||dra, rom||tt8613070
+POSTMAN ALWAYS RINGS TWICE||The Postman Always Rings Twice||cri, fil, mys||tt0038854
+POWER OF NIGHTMARES||The Power of Nightmares||doc||tt0430484
+PREDATOR||Predator: Prey||act, adv, hor, sci||tt11866324
+PREDATOR||Predator||act, adv, hor, sci||tt0093773
+PREHISTORIC PLANET||Prehistoric Planet||doc||tt10324164
+PRESTIGE||The Prestige||mys, sci, thr||tt0482571
+PRETTY WOMAN||Pretty Woman||com, rom||tt0100405
+PRIDE & PREJUDICE||Pride & Prejudice||dra, rom||tt0414387
+PRIDE OF THE YANKEES||The Pride of the Yankees||bio, dra, rom, spo||tt0035211
+PRIMAL FEAR||Primal Fear||cri, mys, thr||tt0117381
+PRINCESS BRIDE||The Princess Bride||adv, com, fan, rom||tt0093779
+PRINCESS MONONOKE||Princess Mononoke||ani||tt0119698
+PRISONERS||Prisoners||cri, dra||tt1392214
+PRISONER||The Prisoner||mys, sci||tt0061287
+PRODUCERS||The Producers||com, muc||tt0063462
+PROMISING YOUNG WOMAN||Promising Young Woman||cri, dra, mys, thr||tt9620292
+PROPHET||A Prophet||cri, dra||tt1235166
+PSYCHO||Psycho||hor, thr||tt0054215
+PUBLIC ENEMY||The Public Enemy||cri, dra||tt0022286
+PULP FICTION||Pulp Fiction||cri||tt0110912
+PUNCH-DRUNK LOVE||Punch-Drunk Love||com, dra, rom||tt0272338
+PUSHER||Pusher III||cri, thr||tt0425379
+PUSHER||Pusher II||cri, thr||tt0396184
+PUSHER||Pusher||cri, thr||tt0117407
+PYGMALION||Pygmalion||com, dra, rom||tt0030637
+QUIET MAN||The Quiet Man||com, dra, rom||tt0045061
+QUIET PLACE||A Quiet Place Part II||hor, sci||tt8332922
+QUIET PLACE||A Quiet Place||hor, sci||tt6644200
+RAGING BULL||Raging Bull||bio, dra, spo||tt0081398
+RAIN MAN||Rain Man||dra||tt0095953
+RAISE THE RED LANTERN||Raise the Red Lantern||dra, rom||tt0101640
+RAISIN IN THE SUN||A Raisin in the Sun||dra||tt0055353
+RAISING ARIZONA||Raising Arizona||com, cri||tt0093822
+RANDOM HARVEST||Random Harvest||dra, rom||tt0035238
+RAN||Ran||war||tt0089881
+RASHOMON||Rashomon||cri, mys||tt0042876
+RATATOUILLE||Ratatouille||ani||tt0382932
+RE-ANIMATOR||Re-Animator||hor, sci||tt0089885
+READY OR NOT||Ready or Not||hor||tt7798634
+REAR WINDOW||Rear Window||mys, thr||tt0047396
+REBECCA||Rebecca||dra, fil, mys||tt0032976
+REBEL WITHOUT A CAUSE||Rebel Without a Cause||dra||tt0048545
+REC||REC||hor||tt1038988
+RED BEARD||Red Beard||dra||tt0058888
+RED RIVER||Red River||dra, wes||tt0040724
+RED SHOES||The Red Shoes||dra, muc||tt0040725
+REHEARSAL||The Rehearsal||com||tt10802170
+REMAINS OF THE DAY||The Remains of the Day||dra, rom||tt0107943
+REPLY 1988||Reply 1988||com, dra||tt5182866
+REPULSION||Repulsion||thr||tt0059646
+REQUIEM FOR A DREAM||Requiem for a Dream||dra||tt0180093
+RESERVOIR DOGS||Reservoir Dogs||cri||tt0105236
+RETURN OF THE LIVING DEAD||The Return of the Living Dead||hor||tt0089907
+REVENANT||The Revenant||adv, wes||tt1663202
+RICK AND MORTY||Rick and Morty||ani||tt2861424
+RIDE THE HIGH COUNTRY||Ride the High Country||wes||tt0056412
+RIDERS OF JUSTICE||Riders of Justice||act, dra||tt11655202
+RIFIFI||Rififi||cri, dra||tt0048021
+RIGHT STUFF||The Right Stuff||adv, bio, dra, his||tt0086197
+RING||The Ring||hor, mys||tt0298130
+RIO BRAVO||Rio Bravo||wes||tt0053221
+ROAD TO PERDITION||Road to Perdition||cri, thr||tt0257044
+ROARING TWENTIES||The Roaring Twenties||cri, dra, fil||tt0031867
+ROBIN HOOD||Robin Hood||ani||tt0070608
+ROBOCOP||RoboCop||act, sci||tt0093870
+ROCCO AND HIS BROTHERS||Rocco and His Brothers||cri, dra, spo||tt0054248
+ROCKY||Rocky Balboa||dra, spo||tt0479143
+ROCKY||Rocky III||dra, spo||tt0084602
+ROCKY||Rocky II||dra, spo||tt0079817
+ROCKY||Rocky IV||dra, spo||tt0089927
+ROCKY||Rocky||dra, spo||tt0075148
+ROCK||The Rock||act||tt0117500
+ROLE MODELS||Role Models||com||tt0430922
+ROMAN HOLIDAY||Roman Holiday||com, rom||tt0046250
+ROMANCING THE STONE||Romancing the Stone||act, adv, rom||tt0088011
+ROME, OPEN CITY||Rome, Open City||thr, war||tt0038890
+ROMEO AND JULIET||Romeo and Juliet||dra, rom||tt0063518
+ROOM||Room||thr||tt3170832
+ROPE||Rope||cri, mys, thr||tt0040746
+ROSEANNE||Roseanne||com||tt0094540
+ROSEMARY'S BABY||Rosemary's Baby||hor||tt0063522
+ROYAL TENENBAUMS||The Royal Tenenbaums||com, dra||tt0265666
+RULES OF THE GAME||The Rules of the Game||com, dra||tt0031885
+RUN LOLA RUN||Run Lola Run||act, cri, thr||tt0130827
+RUNAWAY TRAIN||Runaway Train||act, adv, dra||tt0089941
+RUSH HOUR||Rush Hour 2||act, com||tt0266915
+RUSH HOUR||Rush Hour 3||act, com||tt0293564
+RUSH HOUR||Rush Hour||act, com||tt0120812
+RUSHMORE||Rushmore||com, rom||tt0128445
+RUSH||Rush||bio, dra, spo||tt1979320
+SABRINA||Sabrina||com, dra, rom||tt0047437
+SAFETY LAST!||Safety Last!||com||tt0014429
+SAMURAI REBELLION||Samurai Rebellion||dra||tt0061847
+SAND PEBBLES||The Sand Pebbles||adv, rom, war||tt0060934
+SANDLOT||The Sandlot||com, spo||tt0108037
+SANFORD AND SON||Sanford and Son||com||tt0068128
+SANJURO||Sanjuro||act||tt0056443
+SANSHO THE BAILIFF||Sansho the Bailiff||dra||tt0047445
+SAVING PRIVATE RYAN||Saving Private Ryan||war||tt0120815
+SAW||Saw||hor, mys, thr||tt0387564
+SAY ANYTHING||Say Anything||com, dra, rom||tt0098258
+SCARFACE||Scarface||cri, dra, fil||tt0023427
+SCARFACE||Scarface||cri, dra||tt0086250
+SCARLET HEART: RYEO||Scarlet Heart: Ryeo||act, fan, rom||tt5320412
+SCARLET STREET||Scarlet Street||cri, fil||tt0038057
+SCENT OF A WOMAN||Scent of a Woman||dra||tt0105323
+SCHINDLER'S LIST||Schindler's List||bio, dra, his||tt0108052
+SCHITT'S CREEK||Schitt's Creek||com||tt3526078
+SCHOOL OF ROCK||School of Rock||com, muc||tt0332379
+SCOTT PILGRIM VS. THE WORLD||Scott Pilgrim vs. the World||act, com, fan, rom||tt0446029
+SCREAM||Scream||hor||tt0117571
+SCRUBS||Scrubs||com||tt0285403
+SE7EN||Se7en||cri, mys, thr||tt0114369
+SEA HAWK||The Sea Hawk||act, adv, his||tt0033028
+SEA INSIDE||The Sea Inside||bio, dra||tt0369702
+SEARCHERS||The Searchers||adv, dra, wes||tt0049730
+SECONDS||Seconds||sci, thr||tt0060955
+SECRET IN THEIR EYES||The Secret in Their Eyes||mys, rom, thr||tt1305806
+SECRET OF NIMH||The Secret of NIMH||ani||tt0084649
+SECRETS & LIES||Secrets & Lies||com, dra||tt0117589
+SEE NO EVIL, HEAR NO EVIL||See No Evil, Hear No Evil||com, cri||tt0098282
+SEINFELD||Seinfeld||com||tt0098904
+SENSE AND SENSIBILITY||Sense and Sensibility||dra, rom||tt0114388
+SEPARATION||A Separation||dra||tt1832382
+SERENITY||Serenity||act, adv, sci||tt0379786
+SERGEANT YORK||Sergeant York||bio, his, war||tt0034167
+SERPICO||Serpico||bio, cri, dra||tt0070666
+SERVANT||The Servant||dra||tt0057490
+SET-UP||The Set-Up||cri, fil, spo||tt0041859
+SEVEN BRIDES FOR SEVEN BROTHERS||Seven Brides for Seven Brothers||mus, rom, wes||tt0047472
+SEVEN CHANCES||Seven Chances||com||tt0016332
+SEVEN DAYS IN MAY||Seven Days in May||dra, thr||tt0058576
+SEVEN SAMURAI||Seven Samurai||act||tt0047478
+SEVEN WORLDS, ONE PLANET||Seven Worlds, One Planet||doc||tt9805708
+SEVENTH SEAL||The Seventh Seal||fan||tt0050976
+SEVERANCE||Severance||mys, sci||tt11280740
+SHADOW OF A DOUBT||Shadow of a Doubt||fil, thr||tt0036342
+SHAME||Shame||dra||tt0063611
+SHANE||Shane||wes||tt0046303
+SHANGHAI NOON||Shanghai Knights||act, adv, com||tt0300471
+SHANGHAI NOON||Shanghai Noon||act, adv, com||tt0184894
+SHAOLIN SOCCER||Shaolin Soccer||act, com, fan, spo||tt0286112
+SHAPE OF WATER||The Shape of Water||dra, fan, rom||tt5580390
+SHAUN OF THE DEAD||Shaun of the Dead||com, hor||tt0365748
+SHAWSHANK REDEMPTION||The Shawshank Redemption||dra||tt0111161
+SHERLOCK HOLMES||Sherlock Holmes: A Game of Shadows||act, adv, mys||tt1515091
+SHERLOCK HOLMES||Sherlock Holmes||act, adv, mys||tt0988045
+SHERLOCK JR.||Sherlock Jr.||com||tt0015324
+SHINE||Shine||bio, dra, muc||tt0117631
+SHINING||The Shining||hor||tt0081505
+SHOOTIST||The Shootist||wes||tt0075213
+SHOP AROUND THE CORNER||The Shop Around the Corner||com, dra, rom||tt0033045
+SHOPLIFTERS||Shoplifters||cri, dra||tt8075192
+SHORT CIRCUIT||Short Circuit||com, sci||tt0091949
+SHOT IN THE DARK||A Shot in the Dark||com, mys||tt0058586
+SHREK||Shrek||ani||tt0126029
+SHUTTER ISLAND||Shutter Island||mys, thr||tt1130884
+SHUTTER||Shutter||hor||tt0440803
+SICARIO||Sicario||act, cri, mys||tt3397884
+SIDEWAYS||Sideways||com, rom||tt0375063
+SIGNAL||Signal||cri, fan, sci||tt5332206
+SILENCE OF THE LAMBS||The Silence of the Lambs||cri, dra, thr||tt0102926
+SILENCE||The Silence||dra||tt0057611
+SILENT VOICE: THE MOVIE||A Silent Voice: The Movie||ani||tt5323662
+SILICON VALLEY||Silicon Valley||com||tt2575988
+SILVER LININGS PLAYBOOK||Silver Linings Playbook||com, dra, rom||tt1045658
+SIMPSONS||The Simpsons||ani||tt0096697
+SIN CITY||Sin City||cri, thr||tt0401792
+SINGIN' IN THE RAIN||Singin' in the Rain||mus, rom||tt0045152
+SISTER ACT||Sister Act||com, muc||tt0105417
+SIX FEET UNDER||Six Feet Under||dra||tt0248654
+SIXTEEN CANDLES||Sixteen Candles||com, rom||tt0088128
+SIXTH SENSE||The Sixth Sense||mys, thr||tt0167404
+SLEEPING BEAUTY||Sleeping Beauty||ani||tt0053285
+SLEEPY HOLLOW||Sleepy Hollow||fan, hor||tt0162661
+SLEUTH||Sleuth||mys||tt0069281
+SLING BLADE||Sling Blade||dra||tt0117666
+SNATCH||Snatch||com, cri||tt0208092
+SNOW WHITE AND THE SEVEN DWARFS||Snow White and the Seven Dwarfs||ani||tt0029583
+SOAP||Soap||com||tt0075584
+SOLARIS||Solaris||mys, sci||tt0069293
+SOME KIND OF WONDERFUL||Some Kind of Wonderful||dra, rom||tt0094006
+SOME LIKE IT HOT||Some Like It Hot||com, muc, rom||tt0053291
+SONG OF THE SEA||Song of the Sea||ani||tt1865505
+SOPHIE'S CHOICE||Sophie's Choice||dra, rom||tt0084707
+SOPRANOS||The Sopranos||cri||tt0141842
+SOUL||Soul||ani||tt2948372
+SOUND OF MUSIC||The Sound of Music||bio, mus, rom||tt0059742
+SOUTH PARK||South Park: Bigger, Longer & Uncut||ani||tt0158983
+SOUTH PARK||South Park||ani||tt0121955
+SPACED||Spaced||com||tt0187664
+SPARTACUS||Spartacus||adv, bio, dra, his, war||tt0054331
+SPEED||Speed||act, adv||tt0111257
+SPELLBOUND||Spellbound||fil, mys, rom||tt0038109
+SPIDER-MAN: INTO THE SPIDER-VERSE||Spider-Man: Across the Spider-Verse||ani||tt9362722
+SPIDER-MAN: INTO THE SPIDER-VERSE||Spider-Man: Into the Spider-Verse||ani||tt4633694
+SPIDER-MAN||Spider-Man: Far From Home||act, adv, sci||tt6320628
+SPIDER-MAN||Spider-Man: Homecoming||act, adv, sci||tt2250912
+SPIDER-MAN||Spider-Man: No Way Home||act, adv, sci||tt10872600
+SPIRITED AWAY||Spirited Away||ani||tt0245429
+SPLENDOR IN THE GRASS||Splendor in the Grass||dra, rom||tt0055471
+SPOTLIGHT||Spotlight||bio, cri, dra||tt1895587
+SPRING, SUMMER, FALL, WINTER... AND SPRING||Spring, Summer, Fall, Winter... and Spring||dra, rom||tt0374546
+SPY||Spy||act, com||tt3079380
+SQUID GAME||Squid Game||act, thr||tt10919420
+ST. VINCENT||St. Vincent||com, dra||tt2170593
+STAGE DOOR||Stage Door||com, dra, rom||tt0029604
+STAGECOACH||Stagecoach||wes||tt0031971
+STAIRWAY TO HEAVEN||Stairway to Heaven||fan, rom||tt0038733
+STALAG 17||Stalag 17||com, dra, war||tt0046359
+STALKER||Stalker||sci||tt0079944
+STAND BY ME||Stand by Me||adv, dra||tt0092005
+STAR IS BORN||A Star is Born||mus, rom||tt0047522
+STAR TREK||Star Trek: Deep Space Nine||act, adv, sci||tt0106145
+STAR TREK||Star Trek: The Next Generation||act, adv, sci||tt0092455
+STAR TREK||Star Trek||act, adv, sci||tt0060028
+STAR WARS||Star Wars IV: A New Hope||act, adv, fan, sci||tt0076759
+STAR WARS||Star Wars V: The Empire Strikes Back||act, adv, fan, sci||tt0080684
+STAR WARS||Star Wars VI: Return of the Jedi||act, adv, fan, sci||tt0086190
+STAR WARS||Star Wars: Ahsoka||act, adv, fan, sci||tt13622776
+STAR WARS||Star Wars: Andor||act, adv, sci||tt9253284
+STAR WARS||Star Wars: Rebels||ani||tt2930604
+STAR WARS||Star Wars: Rogue One||act, adv, sci||tt3748528
+STAR WARS||Star Wars: The Clone Wars||ani||tt0458290
+STAR WARS||Star Wars: The Mandalorian||act, adv, fan, sci||tt8111088
+STARDUST||Stardust||adv, fan, rom||tt0486655
+STARSHIP TROOPERS||Starship Troopers||act, adv, sci||tt0120201
+STEAMBOAT BILL, JR.||Steamboat Bill, Jr.||com||tt0019421
+STEP BROTHERS||Step Brothers||com||tt0838283
+STEPMOM||Stepmom||com, dra||tt0120686
+STING||The Sting||com, cri, dra||tt0070735
+STRAIGHT OUTTA COMPTON||Straight Outta Compton||bio, dra, his, muc||tt1398426
+STRAIGHT STORY||The Straight Story||bio, dra||tt0166896
+STRANGER THINGS||Stranger Things||fan, hor, mys, sci||tt4574334
+STRANGERS ON A TRAIN||Strangers on a Train||cri, fil, thr||tt0044079
+STRANGER||Stranger||cri, mys, thr||tt6461346
+STRAY DOG||Stray Dog||cri, fil, mys, thr||tt0041699
+STREETCAR NAMED DESIRE||A Streetcar Named Desire||dra||tt0044081
+SUDDENLY, LAST SUMMER||Suddenly, Last Summer||dra, mys, thr||tt0053318
+SULLIVAN'S TRAVELS||Sullivan's Travels||adv||tt0034240
+SUMMER SCHOOL||Summer School||com, rom||tt0094072
+SUNSET BOULEVARD||Sunset Boulevard||dra, fil||tt0043014
+SUPERBAD||Superbad||com||tt0829482
+SUPPORT YOUR LOCAL SHERIFF!||Support Your Local Sheriff!||com, wes||tt0065051
+SUSPICION||Suspicion||fil, mys, thr||tt0034248
+SWEENEY TODD: THE DEMON BARBER OF FLEET STREET||Sweeney Todd: The Demon Barber of Fleet Street||mus, thr||tt0408236
+SWEET SMELL OF SUCCESS||Sweet Smell of Success||dra, fil||tt0051036
+SWIMMER||The Swimmer||dra||tt0063663
+SWING TIME||Swing Time||mus, rom||tt0028333
+TAE GUK GI: THE BROTHERHOOD OF WAR||Tae Guk Gi: The Brotherhood of War||war||tt0386064
+TAKING OF PELHAM ONE TWO THREE||The Taking of Pelham One Two Three||cri, thr||tt0072251
+TALE OF TWO SISTERS||A Tale of Two Sisters||dra, hor||tt0365376
+TALK OF THE TOWN||The Talk of the Town||com, dra, rom||tt0035417
+TALK TO ME||Talk to Me||hor||tt10638522
+TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY||Talladega Nights: The Ballad of Ricky Bobby||com, spo||tt0415306
+TAMPOPO||Tampopo||com||tt0092048
+TANGERINES||Tangerines||dra, war||tt2991224
+TANGLED||Tangled||ani||tt0398286
+TARZAN||Tarzan||ani||tt0120855
+TAXI DRIVER||A Taxi Driver||act, dra, his||tt6878038
+TAXI DRIVER||Taxi Driver||cri, dra||tt0075314
+TAXI||Taxi||com||tt0077089
+TED||Ted||com||tt1637725
+TERMINATOR||Terminator 2: Judgment Day||act, sci||tt0103064
+TERMINATOR||The Terminator||act, sci||tt0088247
+TERMS OF ENDEARMENT||Terms of Endearment||com, dra||tt0086425
+TEXAS CHAIN SAW MASSACRE||The Texas Chain Saw Massacre||hor||tt0072271
+THAT OBSCURE OBJECT OF DESIRE||That Obscure Object of Desire||com, dra, rom||tt0075824
+THELMA & LOUISE||Thelma & Louise||adv, cri, dra||tt0103074
+THEORY OF EVERYTHING||The Theory of Everything||bio, dra, rom||tt2980516
+THERE WILL BE BLOOD||There Will Be Blood||dra||tt0469494
+THERE'S SOMETHING ABOUT MARY||There's Something About Mary||com, rom||tt0129387
+THEY LIVE||They Live||act, sci||tt0096256
+THEY SHOOT HORSES, DON'T THEY?||They Shoot Horses, Don't They?||dra||tt0065088
+THICK OF IT||The Thick of It||com||tt0459159
+THIN MAN||The Thin Man||com, cri, mys||tt0025878
+THING||The Thing||hor, mys, sci||tt0084787
+THIRD MAN||The Third Man||fil, mys, thr||tt0041959
+THIRTEEN LIVES||Thirteen Lives||adv, bio, dra, thr||tt12262116
+THIS BOY'S LIFE||This Boy's Life||bio, dra||tt0108330
+THIS IS SPINAL TAP||This Is Spinal Tap||com, muc||tt0088258
+THREE BILLBOARDS OUTSIDE EBBING, MISSOURI||Three Billboards Outside Ebbing, Missouri||cri, dra||tt5027774
+THREE DAYS OF THE CONDOR||Three Days of the Condor||cri, mys, thr||tt0073802
+THREE'S COMPANY||Three's Company||com||tt0075596
+THRONE OF BLOOD||Throne of Blood||dra||tt0050613
+THROUGH A GLASS DARKLY||Through a Glass Darkly||dra||tt0055499
+THROUGH THE WORMHOLE||Through the Wormhole||doc||tt1513168
+THROW MOMMA FROM THE TRAIN||Throw Momma from the Train||com, cri||tt0094142
+TIME TO KILL||A Time to Kill||cri, dra||tt0117913
+TITANIC||Titanic||dra, rom||tt0120338
+TO BE OR NOT TO BE||To Be or Not to Be||com, rom, war||tt0035446
+TO CATCH A THIEF||To Catch a Thief||mys, rom, thr||tt0048728
+TO HAVE AND HAVE NOT||To Have and Have Not||adv, fil, rom, thr||tt0037382
+TO KILL A MOCKINGBIRD||To Kill a Mockingbird||cri, dra||tt0056592
+TO LIVE||To Live||dra, war||tt0110081
+TO SIR, WITH LOVE||To Sir, with Love||dra||tt0062376
+TOKYO STORY||Tokyo Story||dra||tt0046438
+TOMBSTONE||Tombstone||bio, his, wes||tt0108358
+TOOTSIE||Tootsie||com, rom||tt0084805
+TOP GUN||Top Gun: Maverick||act, dra||tt1745960
+TOP GUN||Top Gun||act, dra||tt0092099
+TOP HAT||Top Hat||com, mus, rom||tt0027125
+TOP SECRET!||Top Secret!||com, muc||tt0088286
+TOTAL RECALL||Total Recall||act, adv, sci||tt0100802
+TOUCH OF EVIL||Touch of Evil||cri, fil, thr||tt0052311
+TOWN||The Town||cri, thr||tt0840361
+TOY STORY||Toy Story 2||ani||tt0120363
+TOY STORY||Toy Story 3||ani||tt0435761
+TOY STORY||Toy Story||ani||tt0114709
+TRADING PLACES||Trading Places||com||tt0086465
+TRAILER PARK BOYS||Trailer Park Boys||com, cri||tt0290988
+TRAIN TO BUSAN||Train to Busan||act, hor||tt5700672
+TRAINING DAY||Training Day||act, cri||tt0139654
+TRAINSPOTTING||Trainspotting||dra||tt0117951
+TRAIN||The Train||act, thr, war||tt0059825
+TREASURE OF THE SIERRA MADRE||The Treasure of the Sierra Madre||adv, dra, wes||tt0040897
+TREE GROWS IN BROOKLYN||A Tree Grows in Brooklyn||dra, rom||tt0038190
+TREMORS||Tremors||com, hor||tt0100814
+TRIAL OF THE CHICAGO 7||The Trial of the Chicago 7||dra, his||tt1070874
+TROPIC THUNDER||Tropic Thunder||act, com||tt0942385
+TROUBLE IN PARADISE||Trouble in Paradise||com, cri, rom||tt0023622
+TRUE GRIT||True Grit||wes||tt1403865
+TRUE LIES||True Lies||act, com||tt0111503
+TRUE ROMANCE||True Romance||cri, dra, rom, thr||tt0108399
+TRUMAN SHOW||The Truman Show||com, dra||tt0120382
+TUCKER AND DALE VS. EVIL||Tucker and Dale vs. Evil||com, hor||tt1465522
+TWELVE O'CLOCK HIGH||Twelve O'Clock High||dra, war||tt0041996
+TWENTY FIVE TWENTY ONE||Twenty Five Twenty One||dra, rom||tt17513352
+TWILIGHT ZONE||The Twilight Zone||fan, hor, mys, sci||tt0052520
+TWIN PEAKS||Twin Peaks||cri, mys, hor, thr||tt0098936
+UGETSU||Ugetsu||dra, fan, war||tt0046478
+UMBERTO D.||Umberto D.||dra||tt0045274
+UMBRELLAS OF CHERBOURG||The Umbrellas of Cherbourg||mus, rom||tt0058450
+UNCLE BUCK||Uncle Buck||com||tt0098554
+UNFORGIVEN||Unforgiven||wes||tt0105695
+UNTOUCHABLES||The Untouchables||cri, dra, thr||tt0094226
+UP||Up||ani||tt1049413
+USUAL SUSPECTS||The Usual Suspects||cri, mys, thr||tt0114814
+VANISHING||The Vanishing||mys, thr||tt0096163
+VERDICT||The Verdict||dra||tt0084855
+VERTIGO||Vertigo||mys, rom, thr||tt0052357
+VIETNAM WAR||The Vietnam War||doc||tt1877514
+VIRGIN SPRING||The Virgin Spring||dra||tt0053976
+VIRIDIANA||Viridiana||dra||tt0055601
+VIVRE SA VIE||Vivre Sa Vie||dra||tt0056663
+WAGES OF FEAR||The Wages of Fear||adv, thr||tt0046268
+WAIT UNTIL DARK||Wait Until Dark||thr||tt0062467
+WAITING FOR GUFFMAN||Waiting for Guffman||com||tt0118111
+WALK HARD: THE DEWEY COX STORY||Walk Hard: The Dewey Cox Story||com, muc||tt0841046
+WALKING DEAD||The Walking Dead||hor||tt1520211
+WALL-E||WALL-E||ani||tt0910970
+WALLACE & GROMIT||Wallace & Gromit: The Curse of the Were-Rabbit||ani||tt0312004
+WARRIORS||The Warriors||act, cri||tt0080120
+WARRIOR||Warrior||dra, spo||tt1291584
+WATERLOO BRIDGE||Waterloo Bridge||dra, rom, war||tt0033238
+WATERSHIP DOWN||Watership Down||ani||tt0078480
+WE'RE NO ANGELS||We're No Angels||com, cri||tt0048801
+WE'RE THE MILLERS||We're the Millers||com, cri||tt1723121
+WEDDING CRASHERS||Wedding Crashers||com, rom||tt0396269
+WEDDING SINGER||The Wedding Singer||com, muc, rom||tt0120888
+WEDNESDAY||Wednesday||fan, mys||tt13443470
+WEST SIDE STORY||West Side Story||cri, dra, mus, rom||tt0055614
+WEST WING||The West Wing||dra||tt0200276
+WHALE RIDER||Whale Rider||dra||tt0298228
+WHALE||The Whale||dra||tt13833688
+WHAT ABOUT BOB?||What About Bob?||com||tt0103241
+WHAT EVER HAPPENED TO BABY JANE?||What Ever Happened to Baby Jane?||dra, thr||tt0056687
+WHAT WE DO IN THE SHADOWS||What We Do in the Shadows||com, fan||tt3416742
+WHAT WE DO IN THE SHADOWS||What We Do in the Shadows||com, fan||tt7908628
+WHAT'S EATING GILBERT GRAPE||What's Eating Gilbert Grape||dra||tt0108550
+WHAT'S UP, DOC?||What's Up, Doc?||com||tt0069495
+WHEN HARRY MET SALLY...||When Harry Met Sally...||com, rom||tt0098635
+WHEN THEY SEE US||When They See Us||cri, dra||tt7137906
+WHERE EAGLES DARE||Where Eagles Dare||act, adv, war||tt0065207
+WHIPLASH||Whiplash||dra, muc||tt2582802
+WHISPER OF THE HEART||Whisper of the Heart||ani||tt0113824
+WHITE CHRISTMAS||White Christmas||com, mus, rom||tt0047673
+WHITE HEAT||White Heat||cri, fil||tt0042041
+WHO'S AFRAID OF VIRGINIA WOOLF?||Who's Afraid of Virginia Woolf?||dra||tt0061184
+WHO'S THE BOSS?||Who's the Boss?||com||tt0086827
+WICKER MAN||The Wicker Man||hor, mys||tt0070917
+WILD BUNCH||The Wild Bunch||wes||tt0065214
+WILD STRAWBERRIES||Wild Strawberries||dra, rom||tt0050986
+WILD TALES||Wild Tales||com, thr||tt3011894
+WILLY WONKA & THE CHOCOLATE FACTORY||Willy Wonka & the Chocolate Factory||fan, mus||tt0067992
+WINCHESTER '73||Winchester '73||wes||tt0043137
+WIND RIVER||Wind River||cri, dra, mys, thr||tt5362988
+WINGS OF DESIRE||Wings of Desire||fan, rom||tt0093191
+WINTER LIGHT||Winter Light||dra||tt0057358
+WIRE||The Wire||cri, dra||tt0306414
+WITNESS FOR THE PROSECUTION||Witness for the Prosecution||cri, dra, mys||tt0051201
+WITNESS||Witness||dra, rom, thr||tt0090329
+WIZARD OF OZ||The Wizard of Oz||adv, fan, mus||tt0032138
+WOLF OF WALL STREET||The Wolf of Wall Street||bio, cri||tt0993846
+WOMAN IN THE DUNES||Woman in the Dunes||thr||tt0058625
+WOMAN IN THE WINDOW||The Woman in the Window||cri, fil, mys, thr||tt0037469
+WOMAN UNDER THE INFLUENCE||A Woman Under the Influence||dra, rom||tt0072417
+WOMEN||The Women||com, dra||tt0032143
+WONDER||Wonder||dra||tt2543472
+WORST PERSON IN THE WORLD||The Worst Person in the World||com, dra, rom||tt10370710
+WRONG MAN||The Wrong Man||dra, fil||tt0051207
+YOU CAN'T TAKE IT WITH YOU||You Can't Take It with You||com, dra, rom||tt0030993
+ZOMBIELAND||Zombieland||act, com, hor||tt1156398
+ZOOTOPIA||Zootopia||ani||tt2948356
