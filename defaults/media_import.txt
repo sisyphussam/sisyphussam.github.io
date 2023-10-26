@@ -1335,17 +1335,10 @@ VIETNAM WAR||The Vietnam War||doc||tt1877514
 VIRGIN SPRING||The Virgin Spring||dra||tt0053976
 VIRIDIANA||Viridiana||dra||tt0055601
 VIVRE SA VIE||Vivre Sa Vie||dra||tt0056663
-WAGES OF FEAR||The Wages of Fear||adv, thr||tt0046268
 WAIT UNTIL DARK||Wait Until Dark||thr||tt0062467
-WAITING FOR GUFFMAN||Waiting for Guffman||com||tt0118111
 WALK HARD: THE DEWEY COX STORY||Walk Hard: The Dewey Cox Story||com, muc||tt0841046
 WALKING DEAD||The Walking Dead||hor||tt1520211
 WALL-E||WALL-E||ani||tt0910970
-WALLACE & GROMIT||Wallace & Gromit: The Curse of the Were-Rabbit||ani||tt0312004
-WARRIORS||The Warriors||act, cri||tt0080120
-WARRIOR||Warrior||dra, spo||tt1291584
-WATERLOO BRIDGE||Waterloo Bridge||dra, rom, war||tt0033238
-WATERSHIP DOWN||Watership Down||ani||tt0078480
 WE'RE NO ANGELS||We're No Angels||com, cri||tt0048801
 WE'RE THE MILLERS||We're the Millers||com, cri||tt1723121
 WEDDING CRASHERS||Wedding Crashers||com, rom||tt0396269
@@ -1363,9 +1356,7 @@ WHAT'S EATING GILBERT GRAPE||What's Eating Gilbert Grape||dra||tt0108550
 WHAT'S UP, DOC?||What's Up, Doc?||com||tt0069495
 WHEN HARRY MET SALLY...||When Harry Met Sally...||com, rom||tt0098635
 WHEN THEY SEE US||When They See Us||cri, dra||tt7137906
-WHERE EAGLES DARE||Where Eagles Dare||act, adv, war||tt0065207
 WHIPLASH||Whiplash||dra, muc||tt2582802
-WHISPER OF THE HEART||Whisper of the Heart||ani||tt0113824
 WHITE CHRISTMAS||White Christmas||com, mus, rom||tt0047673
 WHITE HEAT||White Heat||cri, fil||tt0042041
 WHO'S AFRAID OF VIRGINIA WOOLF?||Who's Afraid of Virginia Woolf?||dra||tt0061184
@@ -1373,11 +1364,9 @@ WHO'S THE BOSS?||Who's the Boss?||com||tt0086827
 WICKER MAN||The Wicker Man||hor, mys||tt0070917
 WILD BUNCH||The Wild Bunch||wes||tt0065214
 WILD STRAWBERRIES||Wild Strawberries||dra, rom||tt0050986
-WILD TALES||Wild Tales||com, thr||tt3011894
 WILLY WONKA & THE CHOCOLATE FACTORY||Willy Wonka & the Chocolate Factory||fan, mus||tt0067992
 WINCHESTER '73||Winchester '73||wes||tt0043137
 WIND RIVER||Wind River||cri, dra, mys, thr||tt5362988
-WINGS OF DESIRE||Wings of Desire||fan, rom||tt0093191
 WINTER LIGHT||Winter Light||dra||tt0057358
 WIRE||The Wire||cri, dra||tt0306414
 WITNESS FOR THE PROSECUTION||Witness for the Prosecution||cri, dra, mys||tt0051201
