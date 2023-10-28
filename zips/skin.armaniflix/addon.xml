@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.armaniflix" version="0.1.91" name="ArmaniFlix" provider-name="Sisyphus Sam">
+<addon id="skin.armaniflix" version="0.1.92" name="ArmaniFlix" provider-name="Sisyphus Sam">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
 		<import addon="plugin.video.armaniflix" version="0.1.8" />
