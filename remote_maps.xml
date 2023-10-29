@@ -1,7 +1,8 @@
 <keymap>
   <videos>
     <keyboard>
-      <long-return>Menu</long-return>
+      <return mod="longpress">Menu</return>
+      <right mod="longpress">Menu</right>
     </keyboard>
   </videos>
 </keymap>
