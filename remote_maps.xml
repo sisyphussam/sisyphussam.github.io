@@ -1,6 +1,7 @@
 <keymap>
   <videos>
     <keyboard>
+      <c>Menu</c>
       <return mod="longpress">Menu</return>
       <left mod="longpress">FirstPage</left>
       <right mod="longpress">LastPage</right>
