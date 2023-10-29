@@ -2,7 +2,8 @@
   <videos>
     <keyboard>
       <return mod="longpress">Menu</return>
-      <right mod="longpress">Menu</right>
+      <left mod="longpress">FirstPage</left>
+      <right mod="longpress">LastPage</right>
     </keyboard>
   </videos>
 </keymap>
