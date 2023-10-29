@@ -1,7 +1,7 @@
 <keymap>
   <videos>
-    <remote>
-      <menu>Menu</menu>
-    </remote>
+    <keyboard>
+      <long-return>Menu</long-return>
+    </keyboard>
   </videos>
 </keymap>
