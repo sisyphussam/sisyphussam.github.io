@@ -1,10 +1,16 @@
 <keymap>
-  <videos>
+  <Global>
     <keyboard>
       <c>Menu</c>
       <return mod="longpress">Menu</return>
       <left mod="longpress">FirstPage</left>
       <right mod="longpress">LastPage</right>
     </keyboard>
-  </videos>
+  </Global>
+  <FileManager>
+    <keyboard>
+      <c>ContextMenu</c>
+      <return mod="longpress">ContextMenu</return>
+    </keyboard>
+  </FileManager>
 </keymap>
