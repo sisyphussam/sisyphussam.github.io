@@ -6,4 +6,9 @@
       <right mod="longpress">LastPage</right>
     </keyboard>
   </Global>
+  <FullScreenVideo>
+    <touch>
+      <tap pointers="2">noop</tap>
+    </touch>
+  </FullScreenVideo>
 </keymap>
