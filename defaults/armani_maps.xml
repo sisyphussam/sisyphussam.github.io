@@ -8,7 +8,7 @@
   </Global>
   <FullScreenVideo>
     <touch>
-      <tap pointers="2">noop</tap>
+      <tap pointers="2">PlayPause</tap>
     </touch>
   </FullScreenVideo>
 </keymap>
