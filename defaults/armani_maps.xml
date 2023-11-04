@@ -7,6 +7,10 @@
     </keyboard>
   </Global>
   <FullScreenVideo>
+    <keyboard>
+      <backspace>Stop</backspace>
+      <browser_back>Stop</browser_back>
+    </keyboard>
     <touch>
       <tap pointers="2">PlayPause</tap>
     </touch>
