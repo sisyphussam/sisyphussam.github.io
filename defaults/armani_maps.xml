@@ -13,6 +13,7 @@
     </keyboard>
     <touch>
       <tap pointers="2">PlayPause</tap>
+      <longpress>PlayPause</longpress>
     </touch>
   </FullScreenVideo>
 </keymap>
