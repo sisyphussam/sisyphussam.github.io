@@ -1,15 +1,17 @@
 {
   "updated": "2023-10-09",
-  "imdb_lists": {
-    "Movies": {
+  "imdb_lists": [
+    {
+      "name": "Movies",
       "id": "ls523921228",
       "filter": "db_type = 'movie'"
     }
-    "TV Shows": {
+    {
+      "name": "TV Shows",
       "id": "ls523966702",
       "filter": "db_type = 'tvshow'"
     }
-  },
+  ],
   "genres": {
     "act": "Action",
     "adu": "Adult",
