@@ -5,7 +5,7 @@
       "name": "Movies",
       "id": "ls523921228",
       "filter": "db_type = 'movie'"
-    }
+    },
     {
       "name": "TV Shows",
       "id": "ls523966702",
