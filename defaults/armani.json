@@ -2,11 +2,11 @@
   "updated": "2023-10-09",
   "imdb_lists": {
     "Movies": {
-      "list_id": "ls523921228",
+      "id": "ls523921228",
       "filter": "db_type = 'movie'"
     }
     "TV Shows": {
-      "list_id": "ls523966702",
+      "id": "ls523966702",
       "filter": "db_type = 'tvshow'"
     }
   },
