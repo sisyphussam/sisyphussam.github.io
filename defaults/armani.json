@@ -1,8 +1,14 @@
 {
   "updated": "2023-10-09",
   "imdb_lists": {
-    "Movies": "ls523719597",
-    "TV Shows": "ls523717378"
+    "Movies": {
+      "list_id": "ls523921228",
+      "filter": "db_type = 'movie'"
+    }
+    "TV Shows": {
+      "list_id": "ls523966702",
+      "filter": "db_type = 'tvshow'"
+    }
   },
   "genres": {
     "act": "Action",
