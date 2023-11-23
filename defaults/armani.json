@@ -2,9 +2,14 @@
   "updated": "2023-10-09",
   "imdb_lists": [
     {
-      "name": "Movies",
-      "id": "ls523921228",
-      "filter": "db_type = 'movie'"
+      "name": "Movies / 1900 - 1929",
+      "id": "ls526028405",
+      "filter": "db_type = 'movie' AND year < 1930"
+    },
+    {
+      "name": "Movies / 1930 - 1939",
+      "id": "ls526045387",
+      "filter": "db_type = 'movie' AND year > 1929 AND year < 1940"
     },
     {
       "name": "TV Shows",
