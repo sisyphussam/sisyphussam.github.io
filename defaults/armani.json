@@ -11,6 +11,7 @@
     }
   ],
   "genres": {
+    "chr": "Christmas",
     "act": "Action",
     "adu": "Adult",
     "adv": "Adventure",
