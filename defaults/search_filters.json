@@ -332,7 +332,7 @@
     ],
     [
       "Jack Lemmon",
-      "search_string LIKE \"%jacklemmon\""
+      "search_string LIKE \"%jacklemmon%\""
     ],
     [
       "Jack Nicholson",
