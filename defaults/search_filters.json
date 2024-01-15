@@ -581,10 +581,6 @@
       "search_string LIKE \"%gracekelly%\""
     ],
     [
-      "Grace Kelly",
-      "search_string LIKE \"%gracekelly%\""
-    ],
-    [
       "Helena Bonham Carter",
       "search_string LIKE \"%helenabonhamcarter%\""
     ],
