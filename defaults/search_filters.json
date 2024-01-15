@@ -9,8 +9,16 @@
       "db_type = \"tvshow\""
     ],
     [
+      "Completed Series",
+      "db_type = \"tvshow\" AND status = \"Ended\""
+    ],
+    [
       "Returning Series",
       "db_type = \"tvshow\" AND status = \"Returning Series\""
+    ],
+    [
+      "Canceled Series",
+      "db_type = \"tvshow\" AND status = \"Canceled\""
     ]
   ],
   "genre": [
@@ -67,8 +75,16 @@
       "genre_ids LIKE \"%hor%\""
     ],
     [
+      "Horror / Comedy",
+      "genre_ids LIKE \"%hor%\" AND genre_ids LIKE \"%com%\""
+    ],
+    [
+      "Live-Action",
+      "genre_ids NOT LIKE \"%ani%\""
+    ],
+    [
       "Musical",
-      "genre_ids LIKE \"%mus%\""
+      "genre_ids LIKE \"%mus%\" AND genre_ids NOT LIKE \"%ani%\""
     ],
     [
       "Mystery",
@@ -121,12 +137,8 @@
       "original_language IN (\"Cantonese\", \"Mandarin\", \"Japanese\", \"Korean\", \"Indonesian\")"
     ],
     [
-      "Middle Eastern",
-      "original_language IN (\"Arabic\", \"Persian\", \"Turkish\")"
-    ],
-    [
-      "Scandinavian",
-      "original_language IN (\"Danish\", \"Norwegian\", \"Norwegian Bokm\u00e5l\", \"Swedish\")"
+      "Arabic",
+      "original_language = \"Arabic\""
     ],
     [
       "Chinese",
@@ -145,10 +157,6 @@
       "original_language = \"German\""
     ],
     [
-      "Greek",
-      "original_language = \"Greek\""
-    ],
-    [
       "Italian",
       "original_language = \"Italian\""
     ],
@@ -165,26 +173,66 @@
       "original_language IN (\"Norwegian\", \"Norwegian Bokm\u00e5l\")"
     ],
     [
+      "Persian",
+      "original_language = \"Persian\""
+    ],
+    [
+      "Portuguese",
+      "original_language = \"Portuguese\""
+    ],
+    [
       "Russian",
       "original_language = \"Russian\""
     ],
     [
-      "Swedish",
-      "original_language = \"Swedish\""
-    ],
-    [
       "Spanish",
       "original_language = \"Spanish\""
+    ],
+    [
+      "Swedish",
+      "original_language = \"Swedish\""
     ]
   ],
   "actor": [
+    [
+      "Adam Sandler",
+      "search_string LIKE \"%adamsandler%\""
+    ],
     [
       "Al Pacino",
       "search_string LIKE \"%alpacino%\""
     ],
     [
+      "Alec Guinness",
+      "search_string LIKE \"%alecguiness%\""
+    ],
+    [
+      "Anthony Hopkins",
+      "search_string LIKE \"%anthonyhopkins%\""
+    ],
+    [
       "Arnold Schwarzenegger",
       "search_string LIKE \"%arnoldschwarzenegger%\""
+    ],
+    [
+      "Ben Stiller",
+      "search_string LIKE \"%benstiller%\""
+    ],
+    [
+      "Bill Murray",
+      "search_string LIKE \"%billmurray%\""
+    ],
+    [
+      "Billy Crystal",
+      "search_string LIKE \"%billycrystal%\""
+    ],
+    [
+      "Brad Pitt",
+      "search_string LIKE \"%bradpitt%\""
+    ],
+    [
+      "Bruce Willis",
+      "search_string LIKE \"%brucewillis%\""
     ],
     [
       "Burt Lancaster",
@@ -203,16 +251,64 @@
       "search_string LIKE \"%charliechaplin%\""
     ],
     [
+      "Charlton Heston",
+      "search_string LIKE \"%charltonheston%\""
+    ],
+    [
+      "Christian Slater",
+      "search_string LIKE \"%christianslater%\""
+    ],
+    [
+      "Christopher Plummer",
+      "search_string LIKE \"%christopherplummer%\""
+    ],
+    [
       "Clint Eastwood",
       "search_string LIKE \"%clinteastwood%\""
+    ],
+    [
+      "David Niven",
+      "search_string LIKE \"%davidniven%\""
+    ],
+    [
+      "Denzel Washington",
+      "search_string LIKE \"%denzelwashington%\""
+    ],
+    [
+      "Dustin Hoffman",
+      "search_string LIKE \"%dustinhoffman%\""
+    ],
+    [
+      "Eddie Murphy",
+      "search_string LIKE \"%eddiemurphy%\""
+    ],
+    [
+      "Edward G. Robinson",
+      "search_string LIKE \"%edwardgrobinson%\""
+    ],
+    [
+      "Ernest Borgnine",
+      "search_string LIKE \"%ernestborgnine%\""
     ],
     [
       "Gary Cooper",
       "search_string LIKE \"%garycooper%\""
     ],
     [
+      "Gene Hackman",
+      "search_string LIKE \"%genehackman%\""
+    ],
+    [
       "Gene Kelly",
       "search_string LIKE \"%genekelly%\""
+    ],
+    [
+      "Gene Wilder",
+      "search_string LIKE \"%genewilder%\""
+    ],
+    [
+      "Glenn Ford",
+      "search_string LIKE \"%glennford%\""
     ],
     [
       "Gregory Peck",
@@ -223,12 +319,20 @@
       "search_string LIKE \"%harrisonford%\""
     ],
     [
+      "Harvey Keitel",
+      "search_string LIKE \"%harveykeitel%\""
+    ],
+    [
       "Henry Fonda",
       "search_string LIKE \"%henryfonda%\""
     ],
     [
       "Humphrey Bogart",
       "search_string LIKE \"%humphreybogart%\""
+    ],
+    [
+      "Jack Lemmon",
+      "search_string LIKE \"%jacklemmon\""
     ],
     [
       "Jack Nicholson",
@@ -247,16 +351,64 @@
       "search_string LIKE \"%jamesstewart%\""
     ],
     [
+      "Jim Carrey",
+      "search_string LIKE \"%jimcarrey%\""
+    ],
+    [
+      "Joe Pesci",
+      "search_string LIKE \"%joepesci%\""
+    ],
+    [
+      "John Cusack",
+      "search_string LIKE \"%johncusack%\""
+    ],
+    [
+      "John Travolta",
+      "search_string LIKE \"%johntravolta%\""
+    ],
+    [
       "John Wayne",
       "search_string LIKE \"%johnwayne%\""
+    ],
+    [
+      "Johnny Depp",
+      "search_string LIKE \"%johnnydepp%\""
+    ],
+    [
+      "Joseph Cotten",
+      "search_string LIKE \"%josephcotten%\""
+    ],
+    [
+      "Keanu Reeves",
+      "search_string LIKE \"%keanureeves%\""
+    ],
+    [
+      "Kevin Bacon",
+      "search_string LIKE \"%kevinbacon%\""
+    ],
+    [
+      "Kevin Spacey",
+      "search_string LIKE \"%kevinspacey%\""
     ],
     [
       "Kirk Douglas",
       "search_string LIKE \"%kirkdouglas%\""
     ],
     [
+      "Kurt Russell",
+      "search_string LIKE \"%kurtrussell%\""
+    ],
+    [
       "Laurel & Hardy",
       "search_string LIKE \"%stanlaurel%\" AND search_string LIKE \"%oliverhardy%\""
+    ],
+    [
+      "Laurence Olivier",
+      "search_string LIKE \"%laurenceolivier%\""
+    ],
+    [
+      "Leonardo DiCaprio",
+      "search_string LIKE \"%leonardodicaprio%\""
     ],
     [
       "Mads Mikkelsen",
@@ -271,16 +423,72 @@
       "search_string LIKE \"%grouchomarx%\" AND search_string LIKE \"%chicomarx%\""
     ],
     [
+      "Matt Damon",
+      "search_string LIKE \"%mattdamon%\""
+    ],
+    [
+      "Mel Gibson",
+      "search_string LIKE \"%melgibson%\""
+    ],
+    [
+      "Michael Keaton",
+      "search_string LIKE \"%michaelkeaton%\""
+    ],
+    [
+      "Montgomery Clift",
+      "search_string LIKE \"%montgomeryclift%\""
+    ],
+    [
       "Paul Newman",
       "search_string LIKE \"%paulnewman%\""
+    ],
+    [
+      "Peter Sellers",
+      "search_string LIKE \"%petersellers%\""
+    ],
+    [
+      "Richard Dreyfuss",
+      "search_string LIKE \"%richarddreyfuss%\""
     ],
     [
       "Robert De Niro",
       "search_string LIKE \"%robertdeniro%\""
     ],
     [
+      "Robert Duvall",
+      "search_string LIKE \"%robertduvall%\""
+    ],
+    [
       "Robert Mitchum",
       "search_string LIKE \"%robertmitchum%\""
+    ],
+    [
+      "Robert Redford",
+      "search_string LIKE \"%robertredford%\""
+    ],
+    [
+      "Robin Williams",
+      "search_string LIKE \"%robinwilliams%\""
+    ],
+    [
+      "Russell Crowe",
+      "search_string LIKE \"%russellcrowe%\""
+    ],
+    [
+      "Ryan Gosling",
+      "search_string LIKE \"%ryangosling%\""
+    ],
+    [
+      "Samuel L. Jackson",
+      "search_string LIKE \"%samuelljackson%\""
+    ],
+    [
+      "Sean Connery",
+      "search_string LIKE \"%seanconnery%\""
+    ],
+    [
+      "Seth Rogen",
+      "search_string LIKE \"%sethrogen%\""
     ],
     [
       "Sidney Poitier",
@@ -289,6 +497,50 @@
     [
       "Spencer Tracy",
       "search_string LIKE \"%spencertracy%\""
+    ],
+    [
+      "Steve Martin",
+      "search_string LIKE \"%stevemartin%\""
+    ],
+    [
+      "Sylvester Stallone",
+      "search_string LIKE \"%sylvesterstallone%\""
+    ],
+    [
+      "Takashi Shimura",
+      "search_string LIKE \"%takashishimura%\""
+    ],
+    [
+      "Toshirô Mifune",
+      "search_string LIKE \"%toshiromifune%\""
+    ],
+    [
+      "Tom Cruise",
+      "search_string LIKE \"%tomcruise%\""
+    ],
+    [
+      "Tom Hanks",
+      "search_string LIKE \"%tomhanks%\""
+    ],
+    [
+      "Walter Matthau",
+      "search_string LIKE \"%waltermatthau%\""
+    ],
+    [
+      "Will Ferrell",
+      "search_string LIKE \"%willferrell%\""
+    ],
+    [
+      "William Holden",
+      "search_string LIKE \"%williamholden%\""
+    ],
+    [
+      "William Powell",
+      "search_string LIKE \"%williampowell%\""
+    ],
+    [
+      "Woody Harrelson",
+      "search_string LIKE \"%woodyharrelson%\""
     ]
   ],
   "actress": [
@@ -303,6 +555,10 @@
     [
       "Bette Davis",
       "search_string LIKE \"%bettedavis%\""
+    ],
+    [
+      "Deborah Kerr",
+      "search_string LIKE \"%deborahkerr%\""
     ],
     [
       "Diane Keaton",
@@ -325,16 +581,40 @@
       "search_string LIKE \"%gracekelly%\""
     ],
     [
-      "Ingrid Bergman",
-      "search_string LIKE \"%ingridbergman%\""
+      "Grace Kelly",
+      "search_string LIKE \"%gracekelly%\""
+    ],
+    [
+      "Helena Bonham Carter",
+      "search_string LIKE \"%helenabonhamcarter%\""
     ],
     [
       "Jamie Lee Curtis",
       "search_string LIKE \"%jamieleecurtis%\""
     ],
     [
+      "Janet Leigh",
+      "search_string LIKE \"%janetleigh%\""
+    ],
+    [
+      "Jean Arthur",
+      "search_string LIKE \"%jeanarthur%\""
+    ],
+    [
+      "Jennifer Aniston",
+      "search_string LIKE \"%jenniferaniston%\""
+    ],
+    [
+      "Jennifer Connelly",
+      "search_string LIKE \"%jenniferconnelly%\""
+    ],
+    [
       "Joan Crawford",
       "search_string LIKE \"%joancrawford%\""
+    ],
+    [
+      "Jodie Foster",
+      "search_string LIKE \"%jodiefoster%\""
     ],
     [
       "Judy Garland",
@@ -343,6 +623,14 @@
     [
       "Julia Roberts",
       "search_string LIKE \"%juliaroberts%\""
+    ],
+    [
+      "Julianne Moore",
+      "search_string LIKE \"%juliannemoore%\""
+    ],
+    [
+      "Kate Winslet",
+      "search_string LIKE \"%katewinslet%\""
     ],
     [
       "Katharine Hepburn",
@@ -355,6 +643,38 @@
     [
       "Meryl Streep",
       "search_string LIKE \"%merylstreep%\""
+    ],
+    [
+      "Michelle Pfeiffer",
+      "search_string LIKE \"%michellepfeiffer%\""
+    ],
+    [
+      "Olivia de Havilland",
+      "search_string LIKE \"%oliviadehavilland%\""
+    ],
+    [
+      "Rachel McAdams",
+      "search_string LIKE \"%rachelmcadams%\""
+    ],
+    [
+      "Scarlett Johansson",
+      "search_string LIKE \"%scarlettjohansson%\""
+    ],
+    [
+      "Sissy Spacek",
+      "search_string LIKE \"%sissyspacek%\""
+    ],
+    [
+      "Susan Sarandon",
+      "search_string LIKE \"%susansarandon%\""
+    ],
+    [
+      "Toni Collette",
+      "search_string LIKE \"%tonicollette%\""
+    ],
+    [
+      "Winona Ryder",
+      "search_string LIKE \"%winonaryder%\""
     ]
   ],
   "crew": [
@@ -367,6 +687,10 @@
       "search_string LIKE \"%alfredhitchcock%\""
     ],
     [
+      "Anders Thomas Jensen",
+      "search_string LIKE \"%andersthomasjensen%\""
+    ],
+    [
       "Andrei Tarkovsky",
       "search_string LIKE \"%andreitarkovsky%\""
     ],
@@ -375,12 +699,32 @@
       "search_string LIKE \"%billywilder%\""
     ],
     [
+      "Charles Dickens (writer)",
+      "search_string LIKE \"%charlesdickens%\""
+    ],
+    [
+      "Christian Slater",
+      "search_string LIKE \"%christianslater%\""
+    ],
+    [
       "Coen Brothers",
       "search_string LIKE \"%joelcoen%\" AND search_string LIKE \"%ethancoen%\""
     ],
     [
+      "Darren Aronofsky",
+      "search_string LIKE \"%darrenaronofsky%\""
+    ],
+    [
+      "David Cronenberg",
+      "search_string LIKE \"%davidcronenberg%\""
+    ],
+    [
       "David Fincher",
       "search_string LIKE \"%davidfincher%\""
+    ],
+    [
+      "David Lean",
+      "search_string LIKE \"%davidlean%\""
     ],
     [
       "David Lynch",
@@ -401,6 +745,10 @@
     [
       "George Cukor",
       "search_string LIKE \"%georgecukor%\""
+    ],
+    [
+      "Guy Ritchie",
+      "search_string LIKE \"%guyritchie%\""
     ],
     [
       "Hayao Miyazaki",
@@ -435,6 +783,10 @@
       "search_string LIKE \"%johnhuston%\""
     ],
     [
+      "John Steinbeck (author)",
+      "search_string LIKE \"%johnhuston%\""
+    ],
+    [
       "Luis Bu\u00f1uel",
       "search_string LIKE \"%luisbunuel%\""
     ],
@@ -447,8 +799,36 @@
       "search_string LIKE \"%michaelcurtiz%\""
     ],
     [
+      "Michael Mann",
+      "search_string LIKE \"%michaelmann%\""
+    ],
+    [
+      "Park Chan-wook",
+      "search_string LIKE \"%parkchanwook%\""
+    ],
+    [
       "Quentin Tarantino",
       "search_string LIKE \"%quentintarantino%\""
+    ],
+    [
+      "Raymond Chandler (author)",
+      "search_string LIKE \"%raymondchandler%\""
+    ],
+    [
+      "Rob Reiner",
+      "search_string LIKE \"%robreiner%\""
+    ],
+    [
+      "Roman Polanski",
+      "search_string LIKE \"%romanpolanski%\""
+    ],
+    [
+      "Ron Howard",
+      "search_string LIKE \"%ronhoward%\""
+    ],
+    [
+      "Sergio Leone",
+      "search_string LIKE \"%sergioleone%\""
     ],
     [
       "Sidney Lumet",
@@ -459,7 +839,7 @@
       "search_string LIKE \"%stanleykubrick%\""
     ],
     [
-      "Stephen King",
+      "Stephen King (author)",
       "search_string LIKE \"%stephenking%\""
     ],
     [
@@ -477,15 +857,23 @@
     [
       "William Wyler",
       "search_string LIKE \"%williamwyler%\""
+    ],
+    [
+      "Woody Allen",
+      "search_string LIKE \"%woodyallen%\""
     ]
   ],
   "year": [
     [
-      "Classic",
+      "Recent",
+      "year > 2022"
+    ],
+    [
+      "Classic (1900 - 1969)",
       "year < 1970"
     ],
     [
-      "Modern",
+      "Modern (1970 - Now)",
       "year > 1969"
     ],
     [
@@ -535,28 +923,48 @@
   ],
   "rating": [
     [
-      "0 - 6.9",
-      "rating < 7"
-    ],
-    [
-      "7.0 - 10",
-      "rating >= 7"
-    ],
-    [
-      "7.5 - 10",
-      "rating >= 7.5"
-    ],
-    [
-      "8.0 - 10",
-      "rating >= 8"
+      "9.0 - 10",
+      "rating >= 9"
     ],
     [
       "8.5 - 10",
       "rating >= 8.5"
     ],
     [
-      "9.0 - 10",
-      "rating >= 9"
+      "8.0 - 10",
+      "rating >= 8"
+    ],
+    [
+      "7.5 - 10",
+      "rating >= 7.5"
+    ],
+    [
+      "7.0 - 10",
+      "rating >= 7"
+    ],
+    [
+      "6.5 - 10",
+      "rating < 7"
+    ],
+    [
+      "6.0 - 10",
+      "rating < 7"
+    ],
+    [
+      "0.0 - 5.9",
+      "rating < 6"
+    ],
+    [
+      "6.0 - 6.9",
+      "rating >= 6 AND rating < 7"
+    ],
+    [
+      "7.0 - 7.9",
+      "rating >= 7 AND rating < 8"
+    ],
+    [
+      "8.0 - 8.9",
+      "rating >= 8 AND rating < 9"
     ]
   ],
   "votes": [
