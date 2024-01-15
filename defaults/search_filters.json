@@ -1,0 +1,596 @@
+{
+  "db_type": [
+    [
+      "Movies",
+      "db_type = \"movie\""
+    ],
+    [
+      "TV Shows",
+      "db_type = \"tvshow\""
+    ],
+    [
+      "Returning Series",
+      "db_type = \"tvshow\" AND status = \"Returning Series\""
+    ]
+  ],
+  "genre": [
+    [
+      "Action",
+      "genre_ids LIKE \"%act%\""
+    ],
+    [
+      "Action / Comedy",
+      "genre_ids LIKE \"%act%\" AND genre_ids LIKE \"%com%\""
+    ],
+    [
+      "Adventure",
+      "genre_ids LIKE \"%adv%\""
+    ],
+    [
+      "Animation",
+      "genre_ids LIKE \"%ani%\""
+    ],
+    [
+      "Biography",
+      "genre_ids LIKE \"%bio%\""
+    ],
+    [
+      "Comedy",
+      "genre_ids LIKE \"%com%\""
+    ],
+    [
+      "Crime",
+      "genre_ids LIKE \"%cri%\""
+    ],
+    [
+      "Documentary",
+      "genre_ids LIKE \"%doc%\""
+    ],
+    [
+      "Drama",
+      "genre_ids LIKE \"%dra%\""
+    ],
+    [
+      "Fantasy / Sci-Fi",
+      "genre_ids LIKE \"%fan%\" or genre_ids LIKE \"%sci%\""
+    ],
+    [
+      "Film Noir",
+      "genre_ids LIKE \"%fil%\""
+    ],
+    [
+      "History",
+      "genre_ids LIKE \"%his%\""
+    ],
+    [
+      "Horror",
+      "genre_ids LIKE \"%hor%\""
+    ],
+    [
+      "Musical",
+      "genre_ids LIKE \"%mus%\""
+    ],
+    [
+      "Mystery",
+      "genre_ids LIKE \"%mys%\""
+    ],
+    [
+      "Romance",
+      "genre_ids LIKE \"%rom%\""
+    ],
+    [
+      "Romantic Comedy",
+      "genre_ids LIKE \"%rom%\" AND genre_ids LIKE \"%com%\""
+    ],
+    [
+      "Silent Film",
+      "genre_ids LIKE \"%sil%\""
+    ],
+    [
+      "Silent Comedy",
+      "genre_ids LIKE \"%sil%\" AND genre_ids LIKE \"%com%\""
+    ],
+    [
+      "Surrealism",
+      "genre_ids LIKE \"%sur%\""
+    ],
+    [
+      "Thriller",
+      "genre_ids LIKE \"%thr%\""
+    ],
+    [
+      "War",
+      "genre_ids LIKE \"%war%\""
+    ],
+    [
+      "Western",
+      "genre_ids LIKE \"%wes%\""
+    ]
+  ],
+  "language": [
+    [
+      "English",
+      "original_language = \"English\""
+    ],
+    [
+      "Non-English",
+      "original_language != \"English\""
+    ],
+    [
+      "Asian",
+      "original_language IN (\"Cantonese\", \"Mandarin\", \"Japanese\", \"Korean\", \"Indonesian\")"
+    ],
+    [
+      "Middle Eastern",
+      "original_language IN (\"Arabic\", \"Persian\", \"Turkish\")"
+    ],
+    [
+      "Scandinavian",
+      "original_language IN (\"Danish\", \"Norwegian\", \"Norwegian Bokm\u00e5l\", \"Swedish\")"
+    ],
+    [
+      "Chinese",
+      "original_language IN (\"Cantonese\", \"Mandarin\")"
+    ],
+    [
+      "Danish",
+      "original_language = \"Danish\""
+    ],
+    [
+      "French",
+      "original_language = \"French\""
+    ],
+    [
+      "German",
+      "original_language = \"German\""
+    ],
+    [
+      "Greek",
+      "original_language = \"Greek\""
+    ],
+    [
+      "Italian",
+      "original_language = \"Italian\""
+    ],
+    [
+      "Japanese",
+      "original_language = \"Japanese\""
+    ],
+    [
+      "Korean",
+      "original_language = \"Korean\""
+    ],
+    [
+      "Norwegian",
+      "original_language IN (\"Norwegian\", \"Norwegian Bokm\u00e5l\")"
+    ],
+    [
+      "Russian",
+      "original_language = \"Russian\""
+    ],
+    [
+      "Swedish",
+      "original_language = \"Swedish\""
+    ],
+    [
+      "Spanish",
+      "original_language = \"Spanish\""
+    ]
+  ],
+  "actor": [
+    [
+      "Al Pacino",
+      "search_string LIKE \"%alpacino%\""
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "search_string LIKE \"%arnoldschwarzenegger%\""
+    ],
+    [
+      "Burt Lancaster",
+      "search_string LIKE \"%burtlancaster%\""
+    ],
+    [
+      "Buster Keaton",
+      "search_string LIKE \"%busterkeaton%\""
+    ],
+    [
+      "Cary Grant",
+      "search_string LIKE \"%carygrant%\""
+    ],
+    [
+      "Charlie Chaplin",
+      "search_string LIKE \"%charliechaplin%\""
+    ],
+    [
+      "Clint Eastwood",
+      "search_string LIKE \"%clinteastwood%\""
+    ],
+    [
+      "Gary Cooper",
+      "search_string LIKE \"%garycooper%\""
+    ],
+    [
+      "Gene Kelly",
+      "search_string LIKE \"%genekelly%\""
+    ],
+    [
+      "Gregory Peck",
+      "search_string LIKE \"%gregorypeck%\""
+    ],
+    [
+      "Harrison Ford",
+      "search_string LIKE \"%harrisonford%\""
+    ],
+    [
+      "Henry Fonda",
+      "search_string LIKE \"%henryfonda%\""
+    ],
+    [
+      "Humphrey Bogart",
+      "search_string LIKE \"%humphreybogart%\""
+    ],
+    [
+      "Jack Nicholson",
+      "search_string LIKE \"%jacknicholson%\""
+    ],
+    [
+      "Jackie Chan",
+      "search_string LIKE \"%jackiechan%\""
+    ],
+    [
+      "James Cagney",
+      "search_string LIKE \"%jamescagney%\""
+    ],
+    [
+      "James Stewart",
+      "search_string LIKE \"%jamesstewart%\""
+    ],
+    [
+      "John Wayne",
+      "search_string LIKE \"%johnwayne%\""
+    ],
+    [
+      "Kirk Douglas",
+      "search_string LIKE \"%kirkdouglas%\""
+    ],
+    [
+      "Laurel & Hardy",
+      "search_string LIKE \"%stanlaurel%\" AND search_string LIKE \"%oliverhardy%\""
+    ],
+    [
+      "Mads Mikkelsen",
+      "search_string LIKE \"%madsmikkelsen%\""
+    ],
+    [
+      "Marlon Brando",
+      "search_string LIKE \"%marlonbrando%\""
+    ],
+    [
+      "Marx Brothers",
+      "search_string LIKE \"%grouchomarx%\" AND search_string LIKE \"%chicomarx%\""
+    ],
+    [
+      "Paul Newman",
+      "search_string LIKE \"%paulnewman%\""
+    ],
+    [
+      "Robert De Niro",
+      "search_string LIKE \"%robertdeniro%\""
+    ],
+    [
+      "Robert Mitchum",
+      "search_string LIKE \"%robertmitchum%\""
+    ],
+    [
+      "Sidney Poitier",
+      "search_string LIKE \"%sidneypoitier%\""
+    ],
+    [
+      "Spencer Tracy",
+      "search_string LIKE \"%spencertracy%\""
+    ]
+  ],
+  "actress": [
+    [
+      "Audrey Hepburn",
+      "search_string LIKE \"%audreyhepburn%\""
+    ],
+    [
+      "Barbara Stanwyck",
+      "search_string LIKE \"%barbarastanwyck%\""
+    ],
+    [
+      "Bette Davis",
+      "search_string LIKE \"%bettedavis%\""
+    ],
+    [
+      "Diane Keaton",
+      "search_string LIKE \"%dianekeaton%\""
+    ],
+    [
+      "Elizabeth Taylor",
+      "search_string LIKE \"%elizabethtaylor%\""
+    ],
+    [
+      "Emma Stone",
+      "search_string LIKE \"%emmastone%\""
+    ],
+    [
+      "Frances McDormand",
+      "search_string LIKE \"%francesmcdormand%\""
+    ],
+    [
+      "Grace Kelly",
+      "search_string LIKE \"%gracekelly%\""
+    ],
+    [
+      "Ingrid Bergman",
+      "search_string LIKE \"%ingridbergman%\""
+    ],
+    [
+      "Jamie Lee Curtis",
+      "search_string LIKE \"%jamieleecurtis%\""
+    ],
+    [
+      "Joan Crawford",
+      "search_string LIKE \"%joancrawford%\""
+    ],
+    [
+      "Judy Garland",
+      "search_string LIKE \"%judygarland%\""
+    ],
+    [
+      "Julia Roberts",
+      "search_string LIKE \"%juliaroberts%\""
+    ],
+    [
+      "Katharine Hepburn",
+      "search_string LIKE \"%katharinehepburn%\""
+    ],
+    [
+      "Lauren Bacall",
+      "search_string LIKE \"%laurenbacall%\""
+    ],
+    [
+      "Meryl Streep",
+      "search_string LIKE \"%merylstreep%\""
+    ]
+  ],
+  "crew": [
+    [
+      "Akira Kurosawa",
+      "search_string LIKE \"%akirakurosawa%\""
+    ],
+    [
+      "Alfred Hitchcock",
+      "search_string LIKE \"%alfredhitchcock%\""
+    ],
+    [
+      "Andrei Tarkovsky",
+      "search_string LIKE \"%andreitarkovsky%\""
+    ],
+    [
+      "Billy Wilder",
+      "search_string LIKE \"%billywilder%\""
+    ],
+    [
+      "Coen Brothers",
+      "search_string LIKE \"%joelcoen%\" AND search_string LIKE \"%ethancoen%\""
+    ],
+    [
+      "David Fincher",
+      "search_string LIKE \"%davidfincher%\""
+    ],
+    [
+      "David Lynch",
+      "search_string LIKE \"%davidlynch%\""
+    ],
+    [
+      "Federico Fellini",
+      "search_string LIKE \"%federicofellini%\""
+    ],
+    [
+      "Frank Capra",
+      "search_string LIKE \"%frankcapra%\""
+    ],
+    [
+      "Fritz Lang",
+      "search_string LIKE \"%fritzlang%\""
+    ],
+    [
+      "George Cukor",
+      "search_string LIKE \"%georgecukor%\""
+    ],
+    [
+      "Hayao Miyazaki",
+      "search_string LIKE \"%hayaomiyazaki%\""
+    ],
+    [
+      "Howard Hawks",
+      "search_string LIKE \"%howardhawks%\""
+    ],
+    [
+      "Ingmar Bergman",
+      "search_string LIKE \"%ingmarbergman%\""
+    ],
+    [
+      "James Cameron",
+      "search_string LIKE \"%jamescameron%\""
+    ],
+    [
+      "John Carpenter",
+      "search_string LIKE \"%johncarpenter%\""
+    ],
+    [
+      "John Ford",
+      "search_string LIKE \"%johnford%\""
+    ],
+    [
+      "John Hughes",
+      "search_string LIKE \"%johnhughes%\""
+    ],
+    [
+      "John Huston",
+      "search_string LIKE \"%johnhuston%\""
+    ],
+    [
+      "Luis Bu\u00f1uel",
+      "search_string LIKE \"%luisbunuel%\""
+    ],
+    [
+      "Martin Scorsese",
+      "search_string LIKE \"%martinscorsese%\""
+    ],
+    [
+      "Michael Curtiz",
+      "search_string LIKE \"%michaelcurtiz%\""
+    ],
+    [
+      "Quentin Tarantino",
+      "search_string LIKE \"%quentintarantino%\""
+    ],
+    [
+      "Sidney Lumet",
+      "search_string LIKE \"%sidneylumet%\""
+    ],
+    [
+      "Stanley Kubrick",
+      "search_string LIKE \"%stanleykubrick%\""
+    ],
+    [
+      "Stephen King",
+      "search_string LIKE \"%stephenking%\""
+    ],
+    [
+      "Steven Spielberg",
+      "search_string LIKE \"%stevenspielberg%\""
+    ],
+    [
+      "Tim Burton",
+      "search_string LIKE \"%timburton%\""
+    ],
+    [
+      "Wes Anderson",
+      "search_string LIKE \"%wesanderson%\""
+    ],
+    [
+      "William Wyler",
+      "search_string LIKE \"%williamwyler%\""
+    ]
+  ],
+  "year": [
+    [
+      "Classic",
+      "year < 1970"
+    ],
+    [
+      "Modern",
+      "year > 1969"
+    ],
+    [
+      "1900 - 1929",
+      "year < 1930"
+    ],
+    [
+      "1930 - 1939",
+      "decade = 1930"
+    ],
+    [
+      "1940 - 1949",
+      "decade = 1940"
+    ],
+    [
+      "1950 - 1959",
+      "decade = 1950"
+    ],
+    [
+      "1960 - 1969",
+      "decade = 1960"
+    ],
+    [
+      "1970 - 1979",
+      "decade = 1970"
+    ],
+    [
+      "1980 - 1989",
+      "decade = 1980"
+    ],
+    [
+      "1990 - 1999",
+      "decade = 1990"
+    ],
+    [
+      "2000 - 2009",
+      "decade = 2000"
+    ],
+    [
+      "2010 - 2019",
+      "decade = 2010"
+    ],
+    [
+      "2020 - Present",
+      "year > 2019"
+    ]
+  ],
+  "rating": [
+    [
+      "0 - 6.9",
+      "rating < 7"
+    ],
+    [
+      "7.0 - 10",
+      "rating >= 7"
+    ],
+    [
+      "7.5 - 10",
+      "rating >= 7.5"
+    ],
+    [
+      "8.0 - 10",
+      "rating >= 8"
+    ],
+    [
+      "8.5 - 10",
+      "rating >= 8.5"
+    ],
+    [
+      "9.0 - 10",
+      "rating >= 9"
+    ]
+  ],
+  "votes": [
+    [
+      "Fewer than 10,000",
+      "votes < 10000"
+    ],
+    [
+      "At least 10,000",
+      "votes >= 10000"
+    ],
+    [
+      "At least 25,000",
+      "votes >= 25000"
+    ],
+    [
+      "At least 50,000",
+      "votes >= 50000"
+    ],
+    [
+      "At least 100,000",
+      "votes >= 100000"
+    ],
+    [
+      "At least 250,000",
+      "votes >= 250000"
+    ],
+    [
+      "At least 500,000",
+      "votes >= 500000"
+    ],
+    [
+      "At least 1,000,000",
+      "votes >= 1000000"
+    ]
+  ]
+}
