@@ -255,10 +255,6 @@
       "search_string LIKE \"%charltonheston%\""
     ],
     [
-      "Christian Slater",
-      "search_string LIKE \"%christianslater%\""
-    ],
-    [
       "Christopher Plummer",
       "search_string LIKE \"%christopherplummer%\""
     ],
@@ -705,10 +701,6 @@
     [
       "Charles Dickens (writer)",
       "search_string LIKE \"%charlesdickens%\""
-    ],
-    [
-      "Christian Slater",
-      "search_string LIKE \"%christianslater%\""
     ],
     [
       "Coen Brothers",
