@@ -503,6 +503,10 @@
       "search_string LIKE \"%stevemartin%\""
     ],
     [
+      "Steve McQueen",
+      "search_string LIKE \"%stevemcqueen%\" AND year <= 1980"
+    ],
+    [
       "Sylvester Stallone",
       "search_string LIKE \"%sylvesterstallone%\""
     ],
