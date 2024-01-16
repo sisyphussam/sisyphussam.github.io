@@ -204,7 +204,7 @@
     ],
     [
       "Alec Guinness",
-      "search_string LIKE \"%alecguiness%\""
+      "search_string LIKE \"%alecguinness%\""
     ],
     [
       "Anthony Hopkins",
@@ -253,6 +253,10 @@
     [
       "Charlton Heston",
       "search_string LIKE \"%charltonheston%\""
+    ],
+    [
+      "Christian Slater",
+      "search_string LIKE \"%christianslater%\""
     ],
     [
       "Christopher Plummer",
@@ -537,16 +541,20 @@
     [
       "William Powell",
       "search_string LIKE \"%williampowell%\""
-    ],
-    [
-      "Woody Harrelson",
-      "search_string LIKE \"%woodyharrelson%\""
     ]
   ],
   "actress": [
     [
+      "Amy Adams",
+      "search_string LIKE \"%amyadams%\""
+    ],
+    [
       "Audrey Hepburn",
       "search_string LIKE \"%audreyhepburn%\""
+    ],
+    [
+      "Ava Gardner",
+      "search_string LIKE \"%avagardner%\""
     ],
     [
       "Barbara Stanwyck",
@@ -555,6 +563,10 @@
     [
       "Bette Davis",
       "search_string LIKE \"%bettedavis%\""
+    ],
+    [
+      "Cate Blanchett",
+      "search_string LIKE \"%cateblanchett%\""
     ],
     [
       "Deborah Kerr",
@@ -573,16 +585,28 @@
       "search_string LIKE \"%emmastone%\""
     ],
     [
+      "Emma Thompson",
+      "search_string LIKE \"%emmathompson%\""
+    ],
+    [
       "Frances McDormand",
       "search_string LIKE \"%francesmcdormand%\""
+    ],
+    [
+      "Gene Tierney",
+      "search_string LIKE \"%genetierney%\""
+    ],
+    [
+      "Ginger Rogers",
+      "search_string LIKE \"%gingerrogers%\""
     ],
     [
       "Grace Kelly",
       "search_string LIKE \"%gracekelly%\""
     ],
     [
-      "Helena Bonham Carter",
-      "search_string LIKE \"%helenabonhamcarter%\""
+      "Ingrid Bergman",
+      "search_string LIKE \"%ingridbergman%\""
     ],
     [
       "Jamie Lee Curtis",
@@ -597,8 +621,8 @@
       "search_string LIKE \"%jeanarthur%\""
     ],
     [
-      "Jennifer Aniston",
-      "search_string LIKE \"%jenniferaniston%\""
+      "Jean Simmons",
+      "search_string LIKE \"%jeansimmons%\""
     ],
     [
       "Jennifer Connelly",
@@ -607,6 +631,10 @@
     [
       "Joan Crawford",
       "search_string LIKE \"%joancrawford%\""
+    ],
+    [
+      "Joan Fontaine",
+      "search_string LIKE \"%joanfontaine%\""
     ],
     [
       "Jodie Foster",
@@ -633,8 +661,28 @@
       "search_string LIKE \"%katharinehepburn%\""
     ],
     [
+      "Kathy Bates",
+      "search_string LIKE \"%kathybates%\""
+    ],
+    [
+      "Laura Dern",
+      "search_string LIKE \"%lauradern%\""
+    ],
+    [
       "Lauren Bacall",
       "search_string LIKE \"%laurenbacall%\""
+    ],
+    [
+      "Linda Darnell",
+      "search_string LIKE \"%lindadarnell%\""
+    ],
+    [
+      "Marisa Tomei",
+      "search_string LIKE \"%marisatomei%\""
+    ],
+    [
+      "Marlene Dietrich",
+      "search_string LIKE \"%marlenedietrich%\""
     ],
     [
       "Meryl Streep",
@@ -643,6 +691,10 @@
     [
       "Michelle Pfeiffer",
       "search_string LIKE \"%michellepfeiffer%\""
+    ],
+    [
+      "Natalie Wood",
+      "search_string LIKE \"%nataliewood%\""
     ],
     [
       "Olivia de Havilland",
@@ -775,10 +827,6 @@
       "search_string LIKE \"%johnhuston%\""
     ],
     [
-      "John Steinbeck (author)",
-      "search_string LIKE \"%johnhuston%\""
-    ],
-    [
       "Luis Bu\u00f1uel",
       "search_string LIKE \"%luisbunuel%\""
     ],
@@ -801,10 +849,6 @@
     [
       "Quentin Tarantino",
       "search_string LIKE \"%quentintarantino%\""
-    ],
-    [
-      "Raymond Chandler (author)",
-      "search_string LIKE \"%raymondchandler%\""
     ],
     [
       "Rob Reiner",
@@ -831,7 +875,7 @@
       "search_string LIKE \"%stanleykubrick%\""
     ],
     [
-      "Stephen King (author)",
+      "Stephen King",
       "search_string LIKE \"%stephenking%\""
     ],
     [
